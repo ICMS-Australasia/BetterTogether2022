@@ -1,0 +1,79 @@
+/* Scss Document */
+
+$l_green: #7BC142;
+$d_green: #008265;
+$teal: #07948A;
+$blue: #639ED5;
+$d_blue: #253570;
+$mustard: #E1D12C;
+$yellow: #FFDD00;
+
+body,html{
+	height: 100%;
+}
+
+.logo{
+//	background: url("bg.jpg") center center;
+	background-size: cover;
+}
+
+h2 {
+	color: $l_green;
+	font-size: 3em;
+}
+h3 {
+	font-size: 1.4em;
+}
+a {
+	color: black;
+	text-decoration: underline;
+	&:hover {
+		color: $d_green;
+	}
+}
+.button {
+	font-size: 30px; margin-top: 1em; color: white;
+	display: inline-block;
+	text-decoration: none;
+	padding: 0.5em 1em;
+	background: $l_green;
+	transition: 0.2s background;
+	&:hover{
+		color: white;
+		text-decoration: none;
+		background: $d_green;
+	}
+
+}
+
+.image{
+	background: url("bg1.jpg") center center;
+	background-size: cover;
+	height: 100vh;
+}
+.image2{
+	background: url("bg2.jpg") center center;
+	background-size: cover;
+	height: 100vh;
+}
+
+@media (max-width: 768px) {
+
+	.container-fluid {
+	height: 50%;
+	}
+
+	.button {
+		font-size: 20px;
+	}
+
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+	.container-fluid {
+	height: 100%;
+	}
+
+
+}

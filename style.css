@@ -1,0 +1,70 @@
+/* Scss Document */
+body, html {
+  height: 100%;
+}
+
+.logo {
+  background-size: cover;
+}
+
+h2 {
+  color: #7BC142;
+  font-size: 3em;
+}
+
+h3 {
+  font-size: 1.4em;
+}
+
+a {
+  color: black;
+  text-decoration: underline;
+}
+a:hover {
+  color: #008265;
+}
+
+.button {
+  font-size: 30px;
+  margin-top: 1em;
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  background: #7BC142;
+  transition: 0.2s background;
+}
+.button:hover {
+  color: white;
+  text-decoration: none;
+  background: #008265;
+}
+
+.image {
+  background: url("bg1.jpg") center center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.image2 {
+  background: url("bg2.jpg") center center;
+  background-size: cover;
+  height: 100vh;
+}
+
+@media (max-width: 768px) {
+  .container-fluid {
+    height: 50%;
+  }
+
+  .button {
+    font-size: 20px;
+  }
+}
+@media (min-width: 768px) {
+  .container-fluid {
+    height: 100%;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
