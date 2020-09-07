@@ -12,6 +12,33 @@ body,html{
 	height: 100%;
 }
 
+.content {
+	margin-top: -100px;
+	.conference-name {
+		background: $d_blue;
+		color: white;
+		font-size: 1.6em;
+	}
+	.key-dates {
+		.heading {
+			background: $l_green;
+			font-size: 1.7em;
+		}
+		.sub-heading {
+			background: lighten($l_green, 15%);
+			font-size: 1.2em;
+		}
+		.conference-heading {
+			background: lighten($l_green, 10%);
+			font-size: 1.5em;
+		}
+		.conference {
+			background: lighten($l_green, 30%);
+			font-size: 1.1em;
+		}
+	}
+}
+
 .logo{
 //	background: url("bg.jpg") center center;
 	background-size: cover;
@@ -46,6 +73,42 @@ a {
 
 }
 
+.header {
+	background: url('./img/header-bg.png');
+	background-size: cover;
+	.navbar {
+		background-color: $d_green; color: white;
+		a.nav-link {
+			padding: 2em 0.8em !important;
+			color: white !important;
+			font-weight: bold;
+			text-decoration: none;
+		}
+		.dropdown-menu {
+			background: $d_green;
+			border-style: none; border-radius: 0px;
+			padding: 0px;
+			margin: 0px;
+			.dropdown-item {
+				padding: 1.5em;
+				color: white;
+				font-weight: bold;
+				text-decoration: none;
+				&:hover {
+					background: lighten($d_green, 2%);
+				}
+			}
+		}
+	}
+}
+
+.hero {
+	.hero-image {
+		object-fit: cover; object-position: center 60%;
+		height: 800px;
+	}
+}
+
 .image{
 	background: url("bg1.jpg") center center;
 	background-size: cover;
@@ -56,6 +119,23 @@ a {
 	background-size: cover;
 	height: 100vh;
 }
+
+
+
+.skip {
+	background: $l_green;
+	a {
+		color: black;
+		text-decoration: none;
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+	&:hover {
+		background: darken($l_green, 2%);
+	}
+}
+
 
 @media (max-width: 768px) {
 

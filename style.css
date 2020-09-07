@@ -3,6 +3,31 @@ body, html {
   height: 100%;
 }
 
+.content {
+  margin-top: -100px;
+}
+.content .conference-name {
+  background: #253570;
+  color: white;
+  font-size: 1.6em;
+}
+.content .key-dates .heading {
+  background: #7BC142;
+  font-size: 1.7em;
+}
+.content .key-dates .sub-heading {
+  background: #a3d47c;
+  font-size: 1.2em;
+}
+.content .key-dates .conference-heading {
+  background: #96ce68;
+  font-size: 1.5em;
+}
+.content .key-dates .conference {
+  background: #cbe7b5;
+  font-size: 1.1em;
+}
+
 .logo {
   background-size: cover;
 }
@@ -40,6 +65,43 @@ a:hover {
   background: #008265;
 }
 
+.header {
+  background: url("./img/header-bg.png");
+  background-size: cover;
+}
+.header .navbar {
+  background-color: #008265;
+  color: white;
+}
+.header .navbar a.nav-link {
+  padding: 2em 0.8em !important;
+  color: white !important;
+  font-weight: bold;
+  text-decoration: none;
+}
+.header .navbar .dropdown-menu {
+  background: #008265;
+  border-style: none;
+  border-radius: 0px;
+  padding: 0px;
+  margin: 0px;
+}
+.header .navbar .dropdown-menu .dropdown-item {
+  padding: 1.5em;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+.header .navbar .dropdown-menu .dropdown-item:hover {
+  background: #008c6d;
+}
+
+.hero .hero-image {
+  object-fit: cover;
+  object-position: center 60%;
+  height: 800px;
+}
+
 .image {
   background: url("bg1.jpg") center center;
   background-size: cover;
@@ -50,6 +112,20 @@ a:hover {
   background: url("bg2.jpg") center center;
   background-size: cover;
   height: 100vh;
+}
+
+.skip {
+  background: #7BC142;
+}
+.skip a {
+  color: black;
+  text-decoration: none;
+}
+.skip a:hover {
+  text-decoration: underline;
+}
+.skip:hover {
+  background: #76bb3d;
 }
 
 @media (max-width: 768px) {
