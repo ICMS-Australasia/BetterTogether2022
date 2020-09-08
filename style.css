@@ -1,10 +1,43 @@
 /* Scss Document */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
 body, html {
   height: 100%;
+  font-family: "Roboto", sans-serif;
+}
+
+.button {
+  font-size: 30px;
+  margin-top: 1em;
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  background: #7BC142;
+  transition: 0.2s background;
+}
+.button:hover {
+  color: white;
+  text-decoration: none;
+  background: #008265;
 }
 
 .content {
   margin-top: -100px;
+}
+.content .card {
+  background: #008265;
+  color: white;
+  border: none;
+}
+.content .card a {
+  color: white;
+}
+.content .card a:hover {
+  color: #e6e6e6;
+}
+.content .card h5 {
+  font-weight: bold;
+  font-size: 1.5em;
 }
 .content .conference-name {
   background: #253570;
@@ -28,6 +61,11 @@ body, html {
   font-size: 1.1em;
 }
 
+.footer {
+  background: #008265;
+  height: 500px;
+}
+
 .logo {
   background-size: cover;
 }
@@ -47,22 +85,6 @@ a {
 }
 a:hover {
   color: #008265;
-}
-
-.button {
-  font-size: 30px;
-  margin-top: 1em;
-  color: white;
-  display: inline-block;
-  text-decoration: none;
-  padding: 0.5em 1em;
-  background: #7BC142;
-  transition: 0.2s background;
-}
-.button:hover {
-  color: white;
-  text-decoration: none;
-  background: #008265;
 }
 
 .header {
