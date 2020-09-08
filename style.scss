@@ -1,5 +1,6 @@
 /* Scss Document */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,600;0,700;0,800;1,400&display=swap');
 
 $l_green: #7BC142;
 $d_green: #008265;
@@ -9,11 +10,20 @@ $d_blue: #253570;
 $mustard: #E1D12C;
 $yellow: #FFDD00;
 $roboto: 'Roboto';
+$opensans: 'Open Sans';
 
 body,html{
 	height: 100%;
-	font-family: $roboto, sans-serif;
+	font-family: $opensans, sans-serif;
 }
+
+.darkgreen { color: $d_green; }
+.lightgreen { color: $l_green; }
+.teal { color: $teal; }
+.blue { color: $blue; }
+.darkblue { color: $d_blue; }
+.mustard { color: $mustard; }
+.yellow { color: $yellow; }
 
 .button {
 	font-size: 30px; margin-top: 1em; color: white;
@@ -72,8 +82,20 @@ body,html{
 }
 
 .footer {
-	background: $d_green;
-	height: 500px;
+	background: $d_green; color: white;
+	font-size: 1.2em;
+	a {
+		color: white;
+		font-weight: 400;
+		&:hover {
+			color: darken(white, 10%);
+		}
+	}
+	h1 {
+		font-weight: bold;
+		padding-bottom: 1.5rem;
+		padding-top: 1rem;
+	}
 }
 
 .logo{
