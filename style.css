@@ -60,9 +60,27 @@ body, html {
   padding-bottom: 1.5rem;
 }
 .content .banner-welcome {
+  position: relative;
+}
+.content .banner-welcome img {
   object-fit: cover;
   object-position: center 25%;
   height: 250px;
+}
+.content .banner-welcome p {
+  color: #639ED5;
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align: right;
+  padding-right: 2em;
+  line-height: 1.1em;
+  top: 60px;
+  bottom: 0px;
+  right: 0px;
+}
+.content .banner-welcome p span {
+  color: #253570;
+  font-size: 1.7rem;
 }
 .content .banner-eoi {
   object-fit: none;

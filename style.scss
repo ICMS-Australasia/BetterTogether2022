@@ -48,8 +48,24 @@ body,html{
 		padding-bottom: 1.5rem;
 	}
 	.banner-welcome {
-		object-fit: cover; object-position: center 25%;
-		height: 250px;
+		position: relative;
+		img {
+			object-fit: cover; object-position: center 25%;
+			height: 250px;
+		}
+		p {
+			color: $blue;
+			font-weight: bold; font-size: 1.5rem; text-align: right;
+			padding-right: 2em;
+			line-height: 1.1em;
+			top: 60px;
+			bottom: 0px;
+			right: 0px;
+			span {
+				color: $d_blue;
+				font-size: 1.7rem;
+			}
+		}
 	}
 	.banner-eoi {
 		object-fit: none; object-position: right 80%;
