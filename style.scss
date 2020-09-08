@@ -1,6 +1,7 @@
 /* Scss Document */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,600;0,700;0,800;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 
 $l_green: #7BC142;
 $d_green: #008265;
@@ -11,10 +12,11 @@ $mustard: #E1D12C;
 $yellow: #FFDD00;
 $roboto: 'Roboto';
 $opensans: 'Open Sans';
+$kumbhsans: 'Kumbh Sans';
 
 body,html{
 	height: 100%;
-	font-family: $opensans, sans-serif;
+	font-family: $kumbhsans, sans-serif;
 }
 
 .darkgreen { color: $d_green; }
@@ -45,23 +47,43 @@ body,html{
 		font-weight: bold; font-size: 2.6em;
 		padding-bottom: 1.5rem;
 	}
+	.banner-welcome {
+		object-fit: cover; object-position: center 25%;
+		height: 250px;
+	}
+	.banner-eoi {
+		object-fit: none; object-position: right 80%;
+		height: 250px;
+	}
+	.banner-member {
+		object-fit: cover; object-position: left 25%;
+		height: 250px;
+	}
 	.card {
 		background: $d_green; color: white;
 		border: none;
+		border-radius: 0px;
 		a {
 			color: white;
-			&:hover {
-				color: darken(white, 10%);
-			}
+			text-decoration: none;
 		}
 		h5 { font-weight: bold; font-size: 1.5em; }
+		&:hover {
+			background: lighten($d_green, 2%);
+		}
 	}
 	.conference-name {
 		background: $d_blue;
 		color: white;
-		font-size: 1.6em;
+		font-size: 1.4em;
+		span {
+			font-size: 1.05em;
+		}
 	}
 	.key-dates {
+		td {
+			font-size: 1.1em; font-weight: 400;
+		}
 		.heading {
 			background: $l_green;
 			font-size: 1.7em;
@@ -83,10 +105,8 @@ body,html{
 
 .footer {
 	background: $d_green; color: white;
-	font-size: 1.2em;
 	a {
 		color: white;
-		font-weight: 400;
 		&:hover {
 			color: darken(white, 10%);
 		}
@@ -95,6 +115,29 @@ body,html{
 		font-weight: bold;
 		padding-bottom: 1.5rem;
 		padding-top: 1rem;
+	}
+	h3 {
+		font-size: 1.5rem;
+		a {
+			text-decoration: none;
+			font-weight: bold;
+			&:hover {
+				text-decoration: underline;
+				color: white;
+			}
+		}
+	}
+	p, ul {
+		font-size: 1.2em;
+	}
+}
+
+.footer2 {
+	h5 {
+		font-size: 1.1em; font-weight: bold;
+	}
+	p {
+		font-size: 13px;
 	}
 }
 
@@ -125,7 +168,7 @@ a {
 	.navbar {
 		background-color: $d_green; color: white;
 		a.nav-link {
-			padding: 2em 0.8em !important;
+			padding: 1.2em 0.8em !important;
 			color: white !important;
 			font-weight: bold;
 			text-decoration: none;
@@ -136,7 +179,7 @@ a {
 			padding: 0px;
 			margin: 0px;
 			.dropdown-item {
-				padding: 1.5em;
+				padding: 1em;
 				color: white;
 				font-weight: bold;
 				text-decoration: none;
@@ -150,8 +193,8 @@ a {
 
 .hero {
 	.hero-image {
-		object-fit: cover; object-position: center 60%;
-		height: 800px;
+		object-fit: cover; object-position: center 75%;
+		height: 600px;
 	}
 }
 

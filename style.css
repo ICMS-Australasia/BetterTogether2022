@@ -1,9 +1,10 @@
 /* Scss Document */
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,600;0,700;0,800;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
 body, html {
   height: 100%;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Kumbh Sans", sans-serif;
 }
 
 .darkgreen {
@@ -58,25 +59,49 @@ body, html {
   font-size: 2.6em;
   padding-bottom: 1.5rem;
 }
+.content .banner-welcome {
+  object-fit: cover;
+  object-position: center 25%;
+  height: 250px;
+}
+.content .banner-eoi {
+  object-fit: none;
+  object-position: right 80%;
+  height: 250px;
+}
+.content .banner-member {
+  object-fit: cover;
+  object-position: left 25%;
+  height: 250px;
+}
 .content .card {
   background: #008265;
   color: white;
   border: none;
+  border-radius: 0px;
 }
 .content .card a {
   color: white;
-}
-.content .card a:hover {
-  color: #e6e6e6;
+  text-decoration: none;
 }
 .content .card h5 {
   font-weight: bold;
   font-size: 1.5em;
 }
+.content .card:hover {
+  background: #008c6d;
+}
 .content .conference-name {
   background: #253570;
   color: white;
-  font-size: 1.6em;
+  font-size: 1.4em;
+}
+.content .conference-name span {
+  font-size: 1.05em;
+}
+.content .key-dates td {
+  font-size: 1.1em;
+  font-weight: 400;
 }
 .content .key-dates .heading {
   background: #7BC142;
@@ -98,11 +123,9 @@ body, html {
 .footer {
   background: #008265;
   color: white;
-  font-size: 1.2em;
 }
 .footer a {
   color: white;
-  font-weight: 400;
 }
 .footer a:hover {
   color: #e6e6e6;
@@ -111,6 +134,28 @@ body, html {
   font-weight: bold;
   padding-bottom: 1.5rem;
   padding-top: 1rem;
+}
+.footer h3 {
+  font-size: 1.5rem;
+}
+.footer h3 a {
+  text-decoration: none;
+  font-weight: bold;
+}
+.footer h3 a:hover {
+  text-decoration: underline;
+  color: white;
+}
+.footer p, .footer ul {
+  font-size: 1.2em;
+}
+
+.footer2 h5 {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+.footer2 p {
+  font-size: 13px;
 }
 
 .logo {
@@ -143,7 +188,7 @@ a:hover {
   color: white;
 }
 .header .navbar a.nav-link {
-  padding: 2em 0.8em !important;
+  padding: 1.2em 0.8em !important;
   color: white !important;
   font-weight: bold;
   text-decoration: none;
@@ -156,7 +201,7 @@ a:hover {
   margin: 0px;
 }
 .header .navbar .dropdown-menu .dropdown-item {
-  padding: 1.5em;
+  padding: 1em;
   color: white;
   font-weight: bold;
   text-decoration: none;
@@ -167,8 +212,8 @@ a:hover {
 
 .hero .hero-image {
   object-fit: cover;
-  object-position: center 60%;
-  height: 800px;
+  object-position: center 75%;
+  height: 600px;
 }
 
 .image {
