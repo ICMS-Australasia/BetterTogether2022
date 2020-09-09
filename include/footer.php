@@ -62,7 +62,7 @@
     <div class="row">
         <div class="col-6">
             <h3 class="mt-4 d-flex  justify-content-end text-right">
-                <a href="https://twitter.com/AusACPDM" target="_blank" class="align-items-center d-flex">Australasian Academy of Cerebral Palsy and Developmental Medicine</a>
+                <a href="https://www.ausacpdm.org.au/" target="_blank" class="align-items-center d-flex">Australasian Academy of Cerebral Palsy and Developmental Medicine</a>
             </h3>
             <h3 class="mt-4 d-flex  justify-content-end">
                 <a href="https://twitter.com/AusACPDM" target="_blank" class="align-items-center d-flex"><i class="fab fa-twitter mr-2"></i>AusACPDM</a>
@@ -70,7 +70,7 @@
         </div>
         <div class="col-6">
             <h3 class="mt-4 d-flex  justify-content-start">
-                <a href="https://twitter.com/IAACDtweets" target="_blank" class="align-items-center d-flex">International Alliance of Academies of Childhood Disability</a>
+                <a href="https://iaacd.net/" target="_blank" class="align-items-center d-flex">International Alliance of Academies of Childhood Disability</a>
             </h3>
             <h3 class="mt-4 d-flex  justify-content-start">
                 <a href="https://twitter.com/IAACDtweets" target="_blank" class="align-items-center d-flex"><i class="fab fa-twitter mr-2"></i>IAACDtweets</a>
