@@ -136,13 +136,13 @@
     <div class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="d-block w-100 hero-image" src="./img/144674-56.jpg" alt="First slide" style="object-position: center 40%;">
+                <img class="d-block w-100 hero-image" src="./img/144674-56.jpg" alt="First slide" style="object-position: center 40%; height: <?php if ($title != 'Better Together 2022') { echo '300px'; } ?> ">
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100 hero-image" src="./img/150628-56.jpg" alt="Second slide" style="object-position: center 75%;">
+                <img class="d-block w-100 hero-image" src="./img/150628-56.jpg" alt="Second slide" style="object-position: center 75%; height: <?php if ($title != 'Better Together 2022') { echo '300px'; } ?> ">
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100 hero-image" src="./img/150629-56.jpg" alt="Third slide" style="object-position: center 70%;">
+                <img class="d-block w-100 hero-image" src="./img/150629-56.jpg" alt="Third slide" style="object-position: center 70%; height: <?php if ($title != 'Better Together 2022') { echo '300px'; } ?> ">
             </div>
         </div>
     </div>
