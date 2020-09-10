@@ -169,7 +169,7 @@ body, html {
 .content .conference-name {
   background: #253570;
   color: white;
-  font-size: 1.4em;
+  font-size: 1.2em;
 }
 .content .conference-name span {
   font-size: 1.05em;
@@ -193,6 +193,27 @@ body, html {
 .content .key-dates .conference {
   background: #cbe7b5;
   font-size: 1.1em;
+}
+.content .key-dates-side td {
+  font-size: 1em;
+  font-weight: 400;
+}
+.content .key-dates-side .heading {
+  background: #7BC142;
+  font-size: 1.5em;
+}
+.content .key-dates-side .sub-heading {
+  background: #a3d47c;
+  font-size: 1em;
+}
+.content .key-dates-side .conference-heading {
+  background: #96ce68;
+  font-size: 1.2em;
+}
+.content .key-dates-side .conference {
+  border-top: 1px solid #b1da8f;
+  background: #cbe7b5;
+  font-size: 1em;
 }
 
 .footer {

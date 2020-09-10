@@ -23,7 +23,7 @@
                     <p class="position-absolute">Become a member</p>
                 </a>
             </div> -->
-            <div class="col-8">
+            <div class="col-12 col-lg-8">
                 <table class="key-dates" cellpadding="15" cellspacing="0" border="0" width="100%">
                     <tr align="center" class="heading"><th>Key Dates</th></tr>
                     <tr align="center" class="sub-heading"><th>Collaborative International Symposia Call</th></tr>
@@ -50,7 +50,7 @@
                         <tr align="center" class="conference"><th>Conference dates 2nd March - 5th March, 2022</th></tr>
                 </table>
             </div>
-            <div class="col-4">
+            <div class="col-12 col-lg-4 mt-4 mt-lg-5">
                 <div class="card">
                     <a href="./committee.php">
                         <img src="./img/committee.png" class="card-img-top" alt="Committee">

@@ -1,7 +1,7 @@
 <?php if ($title != "Better Together 2022") { ?>
 </div>
-    <div class="col-4">
-        <table class="key-dates" cellpadding="15" cellspacing="0" border="0" width="100%">
+    <div class="col-12 col-lg-3">
+        <table class="key-dates-side" cellpadding="15" cellspacing="0" border="0" width="100%">
             <tr align="center" class="heading"><th>Key Dates</th></tr>
             <tr align="center" class="sub-heading"><th>Collaborative International Symposia Call </th></tr>
                 <!-- <tr align="center"><td>Open July 2020</td></tr> -->
@@ -52,7 +52,7 @@
 <div class="footer py-4">
 <div class="container">
 <div class="row align-items-center">
-<div class="col-7">
+<div class="col-12 col-lg-7">
     <!-- <h3 class="mt-4 d-flex  justify-content-center">
         <a href="https://icmsaust.eventsair.com/ausacpdmiaacd-2022---childhood-disabilities/expression-of-interest" target="_blank" class="align-items-center d-flex">Register your Expression of Interest <i class="fas fa-chevron-circle-down ml-2"></i></a>
     </h3> -->
@@ -83,7 +83,7 @@
         </div>
     </div>
 </div>
-<div class="col-5">
+<div class="col-12 col-lg-5 text-center text-lg-left">
     <h1>Contact us</h1>
     <p>For all enquiries, please contact the <br>
         <b>AusACPDM/IAACD2022 Secretariat</b></p>
@@ -102,11 +102,11 @@
 <div class="footer2 my-4">
 <div class="container">
 <div class="row">
-<div class="col-8">
+<div class="col-12 col-lg-8">
     <h5>Acknowledgement of Country</h5>
     <p class="mb-0">Better Together 2022 acknowledges Aboriginal and Torres Strait Islander peoples as the Traditional Custodians of the land and sea in which we live and work, we recognise their continuing connection to land, sea and culture and pay our respects to Elders past, present and future.</p>
 </div>
-<div class="col-4 d-flex justify-content-end align-items-center">
+<div class="col-12 col-lg-4 mt-4 mt-lg-0 d-flex justify-content-lg-end align-items-center">
     <p class="d-inline mr-3"><a href="">Privacy Policy</a></p>
     <p class="d-inline mr-3"><a href="">Contact us</a></p>
 </div>

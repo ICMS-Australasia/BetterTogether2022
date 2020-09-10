@@ -8,7 +8,7 @@
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <link rel="stylesheet" href="style.css">
-<title>Better Together 2022 | Australasian Academy of Cerebral Palsy and Developmental Medicine/International Alliance of Academies of Childhood Disability 2022</title>
+<title><?php echo $title ?> | Australasian Academy of Cerebral Palsy and Developmental Medicine/International Alliance of Academies of Childhood Disability 2022</title>
 <script src="https://kit.fontawesome.com/eadd711562.js"></script>
 </head>
 <body>
@@ -27,16 +27,16 @@
 <div class="header">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-6">
-                <img src="./img/conference-logo.png" alt="AusACPDM/IAACD Logo" class="img-fluid p-5 float-right" width="650">
+            <div class="col-12 col-lg-6">
+                <a href="index.php"><img src="./img/conference-logo.png" alt="AusACPDM/IAACD Logo" class="img-fluid p-5 float-right" width="650"></a>
             </div>
-            <div class="col-6 d-flex align-items-center">
+            <div class="col-12 col-lg-6 d-flex align-items-center">
                 <div class="row">
                     <div class="col-12">
                         <img src="./img/hosted-by-logo.png" alt="AusACPDM/IAACD Logo" class="img-fluid py-4 float-left" width="600">
                     </div>
                     <!-- Navigation Bar Desktop -->
-                    <div class="col-12  pr-0">
+                    <div class="col-12  px-0 pr-lg-0">
                         <nav class="navbar navbar-expand-lg navbar-light">
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="navbar-toggler-icon"></span>
@@ -51,7 +51,7 @@
                                             About <i class="fas fa-angle-down ml-1"></i>
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" href="registration.php">Welcome Message</a>
+                                            <a class="dropdown-item" href="welcome.php">Welcome Message</a>
                                             <a class="dropdown-item" href="accommodation.php">Hosts</a>
                                             <a class="dropdown-item" href="social-functions.php">Committee</a>
                                             <a class="dropdown-item" href="visa-information.php">Latest News</a>
@@ -153,14 +153,14 @@
         <div class="row">
             <div class="col-12 text-center">
                 <div class="conference-name">
-                    <p class="p-5"><b>Combined <span>11th Australasian Academy of Cerebral Palsy and Developmental Medicine</span> and the <span>3rd International Alliance of Academies of Childhood Disabilities</span> 'Better Together' Conference 2022</b></p>
+                    <p class="p-4 p-lg-5"><b>Combined <span>11th Australasian Academy of Cerebral Palsy and Developmental Medicine</span> and the <span>3rd International Alliance of Academies of Childhood Disabilities</span> 'Better Together' Conference 2022</b></p>
                 </div>
             </div>
         </div>
         <?php if ($title != "Better Together 2022") { ?>
-        <div class="row my-5">
-            <div class="col-8">
+        <div class="row my-4 my-lg-5">
+            <div class="col-12 col-lg-9">
                 <h1><?php echo $title ?></h1>
         <?php } else { ?>
-        <div class="row my-5">
+        <div class="row my-4 my-lg-5">
         <?php } ?>
