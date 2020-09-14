@@ -52,10 +52,10 @@
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                             <a class="dropdown-item" href="welcome.php">Welcome Message</a>
-                                            <a class="dropdown-item" href="accommodation.php">Hosts</a>
-                                            <a class="dropdown-item" href="social-functions.php">Committee</a>
-                                            <a class="dropdown-item" href="visa-information.php">Latest News</a>
-                                            <a class="dropdown-item" href="media-centre.php">Conference Venue</a>
+                                            <a class="dropdown-item" href="hosts.php">Hosts</a>
+                                            <a class="dropdown-item" href="committee.php">Committee</a>
+                                            <a class="dropdown-item" href="latest-news.php">Latest News</a>
+                                            <a class="dropdown-item" href="conference-venue.php">Conference Venue</a>
                                             <!-- <a class="dropdown-item" href="privacy-policy.php">Promotional Material</a> -->
                                         </div>
                                     </li>
@@ -64,9 +64,9 @@
                                             Destination <i class="fas fa-angle-down ml-1"></i>
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="abstracts.php">Explore Melbourne</a>
-                                            <a class="dropdown-item" href="program.php">Destination Discovery</a>
-                                            <a class="dropdown-item" href="speakers.php">Travel and Transport Tips</a>
+                                        <a class="dropdown-item" href="explore-melbourne.php">Explore Melbourne</a>
+                                            <a class="dropdown-item" href="destination-discovery.php">Destination Discovery</a>
+                                            <a class="dropdown-item" href="travel-and-transport-tips.php">Travel and Transport Tips</a>
                                             <!-- <a class="dropdown-item" href="cross-disciplinary-workshops.php">Local Eats</a> -->
                                         </div>
                                     </li>
@@ -77,8 +77,8 @@
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                         <!-- <a class="dropdown-item" href="abstracts.php">Registration</a> -->
                                             <!-- <a class="dropdown-item" href="program.php">Scholarships</a> -->
-                                            <a class="dropdown-item" href="speakers.php">Awards</a>
-                                            <a class="dropdown-item" href="speakers.php">Visa Information</a>
+                                            <a class="dropdown-item" href="awards.php">Awards</a>
+                                            <a class="dropdown-item" href="visa-information.php">Visa Information</a>
                                             <!-- <a class="dropdown-item" href="speakers.php">Accommodation</a> -->
                                             <!-- <a class="dropdown-item" href="speakers.php">Social Functions</a> -->
                                             <!-- <a class="dropdown-item" href="speakers.php">Wellness Activities</a> -->
@@ -90,8 +90,8 @@
                                             Program <i class="fas fa-angle-down ml-1"></i>
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" href="speakers.php">Scientific Committee</a>
-                                            <a class="dropdown-item" href="speakers.php">Call for Symposia</a>
+                                            <a class="dropdown-item" href="scientific-committee.php">Scientific Committee</a>
+                                            <a class="dropdown-item" href="call-for-symposia.php">Call for Symposia</a>
                                             <!-- <a class="dropdown-item" href="speakers.php">Call for Abstracts</a> -->
                                             <!-- <a class="dropdown-item" href="speakers.php">Speakers</a> -->
                                             <!-- <a class="dropdown-item" href="speakers.php">Program at a Glance</a> -->
@@ -108,7 +108,7 @@
                                             Sponsorship <i class="fas fa-angle-down ml-1"></i>
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" href="speakers.php">Sponsorship Information</a>
+                                            <a class="dropdown-item" href="sponsorship-information.php">Sponsorship Information</a>
                                             <!-- <a class="dropdown-item" href="speakers.php">Confirmed Supporters</a> -->
                                         </div>
                                     </li>
@@ -117,9 +117,9 @@
                                             Information <i class="fas fa-angle-down ml-1"></i>
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" href="speakers.php">General Information</a>
-                                            <a class="dropdown-item" href="speakers.php">Privacy Policy</a>
-                                            <a class="dropdown-item" href="speakers.php">Contact Us</a>
+                                            <a class="dropdown-item" href="general-information.php">General Information</a>
+                                            <a class="dropdown-item" href="privacy-policy.php">Privacy Policy</a>
+                                            <a class="dropdown-item" href="contact-us.php">Contact Us</a>
                                         </div>
                                     </li>
                                 </ul>
@@ -133,7 +133,7 @@
 </div>
 <!-- Hero Image -->
 <div class="hero">
-    <div class="carousel slide" data-ride="carousel">
+    <div class="carousel slide carousel-fade" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img class="d-block w-100 hero-image" src="./img/144674-56.jpg" alt="First slide" style="object-position: center 40%; height: <?php if ($title != 'Better Together 2022') { echo '300px'; } ?> ">

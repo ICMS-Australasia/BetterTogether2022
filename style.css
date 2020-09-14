@@ -7,6 +7,23 @@ body, html {
   font-family: "Kumbh Sans", sans-serif;
 }
 
+h2 {
+  color: #7BC142;
+  font-size: 3em;
+}
+
+h3 {
+  font-size: 1.4em;
+}
+
+a {
+  color: black;
+  text-decoration: underline;
+}
+a:hover {
+  color: #008265;
+}
+
 .darkgreen {
   color: #008265;
 }
@@ -37,18 +54,18 @@ body, html {
 
 .button {
   font-size: 30px;
-  margin-top: 1em;
+  font-weight: bold;
   color: white;
   display: inline-block;
   text-decoration: none;
   padding: 0.5em 1em;
-  background: #7BC142;
+  background: #008265;
   transition: 0.2s background;
 }
 .button:hover {
   color: white;
   text-decoration: none;
-  background: #008265;
+  background: #006951;
 }
 
 .content {
@@ -56,8 +73,29 @@ body, html {
 }
 .content h1 {
   font-weight: bold;
-  font-size: 2.6em;
-  padding-bottom: 1.5rem;
+  font-size: 3em;
+  padding-bottom: 0.5rem;
+  margin-bottom: 2.5rem;
+  border-bottom: 3px solid #7BC142;
+}
+.content h2 {
+  color: #008265;
+  font-weight: bold;
+  font-size: 2.3em;
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+}
+.content h3 {
+  font-weight: bold;
+  font-size: 1.7em;
+  margin-top: 2rem;
+}
+.content h4 {
+  font-size: 1.4em;
+  margin-top: 2rem;
+}
+.content p {
+  margin-top: 1em;
 }
 .content .banner-welcome {
   position: relative;
@@ -258,23 +296,6 @@ body, html {
   background-size: cover;
 }
 
-h2 {
-  color: #7BC142;
-  font-size: 3em;
-}
-
-h3 {
-  font-size: 1.4em;
-}
-
-a {
-  color: black;
-  text-decoration: underline;
-}
-a:hover {
-  color: #008265;
-}
-
 .header {
   background: url("./img/header-bg.png");
   background-size: cover;
@@ -306,6 +327,9 @@ a:hover {
   background: #008c6d;
 }
 
+.hero .carousel {
+  z-index: -1;
+}
 .hero .hero-image {
   object-fit: cover;
   height: 600px;
@@ -343,7 +367,7 @@ a:hover {
   }
 
   .button {
-    font-size: 20px;
+    font-size: 30px;
   }
 }
 @media (min-width: 768px) {

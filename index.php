@@ -50,7 +50,7 @@
                         <tr align="center" class="conference"><th>Conference dates 2nd March - 5th March, 2022</th></tr>
                 </table>
             </div>
-            <div class="col-12 col-lg-4 mt-4 mt-lg-5">
+            <div class="col-12 col-lg-4 mt-5 mt-lg-0">
                 <div class="card">
                     <a href="./committee.php">
                         <img src="./img/committee.png" class="card-img-top" alt="Committee">

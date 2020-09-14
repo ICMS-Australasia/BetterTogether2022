@@ -1,6 +1,6 @@
 <?php if ($title != "Better Together 2022") { ?>
 </div>
-    <div class="col-12 col-lg-3">
+    <div class="col-12 col-lg-3 mt-5 mt-sm-0">
         <table class="key-dates-side" cellpadding="15" cellspacing="0" border="0" width="100%">
             <tr align="center" class="heading"><th>Key Dates</th></tr>
             <tr align="center" class="sub-heading"><th>Collaborative International Symposia Call </th></tr>
@@ -57,7 +57,7 @@
         <a href="https://icmsaust.eventsair.com/ausacpdmiaacd-2022---childhood-disabilities/expression-of-interest" target="_blank" class="align-items-center d-flex">Register your Expression of Interest <i class="fas fa-chevron-circle-down ml-2"></i></a>
     </h3> -->
     <h3 class="mt-4 d-flex  justify-content-center">
-        <a href="" class="align-items-center d-flex">Become an AusACPDM member <i class="fas fa-chevron-circle-down ml-2"></i></a>
+        <a href="https://www.ausacpdm.org.au/become-a-member/" target="_blank" class="align-items-center d-flex">Become an AusACPDM member</a>
     </h3>
     <div class="row">
         <div class="col-6">
@@ -107,8 +107,8 @@
     <p class="mb-0">Better Together 2022 acknowledges Aboriginal and Torres Strait Islander peoples as the Traditional Custodians of the land and sea in which we live and work, we recognise their continuing connection to land, sea and culture and pay our respects to Elders past, present and future.</p>
 </div>
 <div class="col-12 col-lg-4 mt-4 mt-lg-0 d-flex justify-content-lg-end align-items-center">
-    <p class="d-inline mr-3"><a href="">Privacy Policy</a></p>
-    <p class="d-inline mr-3"><a href="">Contact us</a></p>
+    <p class="d-inline mr-3"><a href="./privacy-policy.php">Privacy Policy</a></p>
+    <p class="d-inline mr-3"><a href="./contact-us.php">Contact us</a></p>
 </div>
 </div>
 </div>
@@ -118,5 +118,10 @@
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script type="text/javascript">
+$('.carousel').carousel({
+interval: 10000
+});
+</script>
 </body>
 </html>

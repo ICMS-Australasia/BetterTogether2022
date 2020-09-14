@@ -19,6 +19,21 @@ body,html{
 	font-family: $kumbhsans, sans-serif;
 }
 
+h2 {
+	color: $l_green;
+	font-size: 3em;
+}
+h3 {
+	font-size: 1.4em;
+}
+a {
+	color: black;
+	text-decoration: underline;
+	&:hover {
+		color: $d_green;
+	}
+}
+
 .darkgreen { color: $d_green; }
 .lightgreen { color: $l_green; }
 .teal { color: $teal; }
@@ -28,24 +43,44 @@ body,html{
 .yellow { color: $yellow; }
 
 .button {
-	font-size: 30px; margin-top: 1em; color: white;
+	font-size: 30px; font-weight: bold;
+	color: white;
 	display: inline-block;
 	text-decoration: none;
 	padding: 0.5em 1em;
-	background: $l_green;
+	background: $d_green;
 	transition: 0.2s background;
-	&:hover{
+	&:hover {
 		color: white;
 		text-decoration: none;
-		background: $d_green;
+		background: darken($d_green, 5%);
 	}
 }
 
 .content {
 	margin-top: -100px;
 	h1 {
-		font-weight: bold; font-size: 2.6em;
-		padding-bottom: 1.5rem;
+		font-weight: bold; font-size: 3em;
+		padding-bottom: 0.5rem;
+		margin-bottom: 2.5rem;
+		border-bottom: 3px solid $l_green;
+	}
+	h2 {
+		color: $d_green;
+		font-weight: bold; font-size: 2.3em;
+		padding-bottom: 0.5rem;
+		margin-top: 2rem;
+	}
+	h3 {
+		font-weight: bold; font-size: 1.7em;
+		margin-top: 2rem;
+	}
+	h4 {
+		font-size: 1.4em;
+		margin-top: 2rem;
+	}
+	p {
+		margin-top: 1em;
 	}
 	.banner-welcome {
 		position: relative;
@@ -243,22 +278,6 @@ body,html{
 	background-size: cover;
 }
 
-h2 {
-	color: $l_green;
-	font-size: 3em;
-}
-h3 {
-	font-size: 1.4em;
-}
-a {
-	color: black;
-	text-decoration: underline;
-	&:hover {
-		color: $d_green;
-	}
-}
-
-
 .header {
 	background: url('./img/header-bg.png');
 	background-size: cover;
@@ -289,6 +308,9 @@ a {
 }
 
 .hero {
+	.carousel {
+		z-index: -1;
+	}
 	.hero-image {
 		object-fit: cover;
 		height: 600px;
@@ -330,7 +352,7 @@ a {
 	}
 
 	.button {
-		font-size: 20px;
+		font-size: 30px;
 	}
 
 }
