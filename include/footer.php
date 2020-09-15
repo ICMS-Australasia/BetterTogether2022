@@ -86,7 +86,7 @@
 <div class="col-12 col-lg-5 text-center text-lg-left">
     <h1>Contact us</h1>
     <p>For all enquiries, please contact the <br>
-        <b>AusACPDM/IAACD2022 Secretariat</b></p>
+        <b>Better Together 2022 Secretariat</b></p>
     <p><b>ICMS Australasia</b> <br>
         PO Box 5005, South Melbourne <br>
         VIC, 3205 <br>
