@@ -53,7 +53,7 @@
             <div class="col-12 col-lg-4 mt-5 mt-lg-0">
                 <div class="card">
                     <a href="./committee.php">
-                        <img src="./img/committee.png" class="card-img-top" alt="Committee">
+                        <img src="./img/imms.jpg" class="card-img-top" alt="Committee">
                         <div class="card-body">
                             <h5 class="card-title">Committee</h5>
                             <p class="card-text">Meet the team that make it all happen. <u>View more</u></p>
