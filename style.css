@@ -212,6 +212,10 @@ a:hover {
 .content .conference-name span {
   font-size: 1.05em;
 }
+.content .dual-image img {
+  object-fit: cover;
+  width: 100%;
+}
 .content .key-dates td {
   font-size: 1.1em;
   font-weight: 400;
@@ -252,6 +256,52 @@ a:hover {
   border-top: 1px solid #b1da8f;
   background: #cbe7b5;
   font-size: 1em;
+}
+.content .latest-news .news-item {
+  text-decoration: none;
+}
+.content .things-to-do div {
+  height: 250px;
+}
+.content .things-to-do div img {
+  object-fit: cover;
+}
+.content .things-to-do h4 {
+  position: absolute;
+  color: white;
+  background: rgba(0, 130, 101, 0.9);
+  bottom: 0px;
+  right: 0px;
+  font-size: 1em;
+  font-weight: bold;
+  border-style: none;
+}
+.content .things-to-do a {
+  text-decoration: none;
+}
+.content .things-to-do .over {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: 0.5s ease;
+  background-color: rgba(0, 130, 101, 0.95);
+}
+.content .things-to-do .over p {
+  font-size: 1em;
+  font-weight: bold;
+  color: white;
+  margin: 0;
+}
+.content .things-to-do .over:hover {
+  opacity: 1;
+}
+.content .things-to-do .over:focus {
+  opacity: 1;
 }
 
 .footer {

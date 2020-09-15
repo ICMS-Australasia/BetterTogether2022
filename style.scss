@@ -190,6 +190,12 @@ a {
 			font-size: 1.05em;
 		}
 	}
+	.dual-image {
+		img {
+			object-fit: cover;
+			width: 100%;
+		}
+	}
 	.key-dates {
 		td {
 			font-size: 1.1em; font-weight: 400;
@@ -233,6 +239,55 @@ a {
 			font-size: 1em;
 		}
 	}
+	.latest-news {
+		.news-item {
+			text-decoration: none;
+		}
+	}
+	.things-to-do {
+		div {
+			height: 250px;
+			img {
+				object-fit: cover;
+			}
+		}
+        h4 {
+            position: absolute;
+            color: white;
+            background: rgba(0, 130, 101, 0.9);
+            bottom: 0px;
+            right: 0px;
+            font-size: 1em; font-weight: bold;
+            border-style: none;
+        }
+		a {
+			text-decoration: none;
+		}
+        .over {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 100%;
+            width: 100%;
+            opacity: 0;
+            transition: .5s ease;
+            background-color: rgba(0, 130, 101, 0.95);
+            p {
+                font-size: 1em;
+                font-weight: bold;
+                color: white;
+                margin: 0;
+            }
+            &:hover {
+                opacity: 1;
+            }
+            &:focus {
+                opacity: 1;
+            }
+        }
+    }
 }
 
 .footer {
