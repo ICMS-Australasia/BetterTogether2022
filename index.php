@@ -3,7 +3,7 @@
     include('include/header.php');
  ?>
             <div class="col-12">
-                <video id="video" src="Home Page - Promo Video.mp4" controls width="100%" preload="none"></video>
+                <video id="video" src="Home Page - Promo Video.mp4" controls width="100%" poster="./img/video-placeholder.png" preload="none"></video>
             </div>
             <div class="col-12 my-5 banner-welcome">
                 <a href="./welcome.php">
