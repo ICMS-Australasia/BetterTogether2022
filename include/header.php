@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <link rel="stylesheet" href="style.css">
 <title><?php echo $title ?> | Australasian Academy of Cerebral Palsy and Developmental Medicine/International Alliance of Academies of Childhood Disability 2022</title>
-<script src="https://kit.fontawesome.com/eadd711562.js"></script>
+<script src="https://kit.fontawesome.com/f399078202.js" crossorigin="anonymous"></script>
 </head>
 <body>
 

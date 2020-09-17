@@ -83,6 +83,12 @@
             <p><b>Murdoch Children's Research Institute, Melbourne </b><br>
         </p>
     </div>
+    <div class="col-6">
+        <h3>Lauren Caulfield</h3>
+        <h4 class="mt-0">Person with lived experience</h4>
+            <p><b>Noah’s Ark Inc, Melbourne</b><br>
+        </p>
+    </div>
 </div>
 
 <hr>
@@ -96,7 +102,7 @@
              Physiotherapist</p>
      </div>
      <div class="col-6">
-         <h3>Dinah Reddihoug</h3>
+         <h3>Dinah Reddihough</h3>
          <p><b>Royal Children's Hospital, Melbourne </b><br>
              Paediatrician</p>
      </div>

@@ -11,8 +11,8 @@
     <div class="col-6">
         <h4>Professor Alicia Spittle</h4>
         <p><b>Chair AusACPDM Scientific Committee</b> <br>
-            University of Melbourne <br>
             Physiotherapist <br>
+            University of Melbourne <br>
         </p>
     </div>
     <div class="col-6">

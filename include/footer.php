@@ -56,9 +56,9 @@
     <!-- <h3 class="mt-4 d-flex  justify-content-center">
         <a href="https://icmsaust.eventsair.com/ausacpdmiaacd-2022---childhood-disabilities/expression-of-interest" target="_blank" class="align-items-center d-flex">Register your Expression of Interest <i class="fas fa-chevron-circle-down ml-2"></i></a>
     </h3> -->
-    <h3 class="mt-4 d-flex  justify-content-center">
+    <!-- <h3 class="mt-4 d-flex  justify-content-center">
         <a href="https://www.ausacpdm.org.au/become-a-member/" target="_blank" class="align-items-center d-flex">Become an AusACPDM member</a>
-    </h3>
+    </h3> -->
     <div class="row">
         <div class="col-6">
             <h3 class="mt-4 d-flex  justify-content-end text-right">

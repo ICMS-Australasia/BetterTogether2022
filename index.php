@@ -3,18 +3,20 @@
     include('include/header.php');
  ?>
             <div class="col-12">
-                <video id="video" src="Home Page - Promo Video.mp4" controls width="100%" poster="./img/video-placeholder.png" preload="none"></video>
+                <video id="video" src="Home Page - Promo Video.mp4" controls width="100%" preload="none"></video>
             </div>
             <div class="col-12 my-5 banner-welcome">
                 <a href="./welcome.php">
-                    <img src="./img/bg2.jpg" class="img-fluid" width="100%">
-                    <p class="position-absolute">Welcome to the <br><span>11<sup>th</sup> AusACPDM biennial</span><br> and <span>3rd IAACD triennial</span> <br>International Conference <br><br> <span><u>Learn more</u></span></p>
+                    <div>
+                        <img src="./img/bg2.jpg" class="img-fluid" width="100%">
+                        <p class="position-absolute my-0">Welcome to the <br><span>11<sup>th</sup> AusACPDM biennial</span><br> and <span>3rd IAACD triennial</span> <br>International Conference <br><br> <span><u>Learn more</u></span></p>
+                    </div>
                 </a>
             </div>
             <div class="col-12 mb-5 banner-eoi">
                 <a href="https://icmsaust.eventsair.com/ausacpdmiaacd-2022---childhood-disabilities/expression-of-interest" target="_blank">
                     <img src="./img/banner-eoi.png" class="img-fluid" width="100%">
-                    <p class="position-absolute">Register your <br> <span>Expression of Interest</span></p>
+                    <p class="position-absolute my-0">Register your <br> <span>Expression of Interest</span></p>
                 </a>
             </div>
             <!-- <div class="col-6 mb-5 banner-member">
@@ -26,7 +28,7 @@
             <div class="col-12 col-lg-8">
                 <table class="key-dates" cellpadding="15" cellspacing="0" border="0" width="100%">
                     <tr align="center" class="heading"><th>Key Dates</th></tr>
-                    <tr align="center" class="sub-heading"><th>Collaborative International Symposia Call</th></tr>
+                    <tr align="center" class="sub-heading"><th><a href="call-for-symposia.php">Collaborative International Symposia Call</a></th></tr>
                         <tr align="center" bgcolor="#f2f2f2"><td>Open July 2020</td></tr>
                         <tr align="center"><td>Closes 31st October 2020</td></tr>
                         <tr align="center" bgcolor="#f2f2f2"><td>Announced January 2021</td></tr>
