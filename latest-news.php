@@ -13,6 +13,12 @@
         "items": [
             // UPDATE THIS
             {
+               "date": "Friday, September 18 2020",
+               "img": "2.jpg",
+                "title": "Welcome To The Launch Of Better Together 2022",
+                "link": "https://mailchi.mp/ceb02a08cfc0/welcome-to-the-launch-of-better-together-2022"
+            },
+            {
                "date": "Friday, July 31 2020",
                "img": "1.jpg",
                 "title": "Introducing the AusACPDM and IAACD 2022 Conference",
