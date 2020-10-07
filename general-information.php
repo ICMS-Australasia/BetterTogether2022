@@ -23,7 +23,7 @@
 </div>
 
 <h2>Getting Around</h2>
- <p>Please refer to our <a href="./travel-and-transportation-tips.php">Travel and Transportation Tips webpage</a> for more information on how to get around Melbourne and Victoria including accessible tips and rescources.</p>
+ <p>Please refer to our <a href="./travel-and-transport-tips.php">Travel and Transportation Tips webpage</a> for more information on how to get around Melbourne and Victoria including accessible tips and rescources.</p>
 
 
  <h2>Shopping Hours</h2>
