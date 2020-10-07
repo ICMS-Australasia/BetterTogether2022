@@ -37,18 +37,18 @@
 </div>
 
 
-<h2>Day Tours</h2>
+<!-- <h2>Day Tours</h2>
 <p>The Conference Secretariat has negotiated a special Conference discount on all Victoria tours available through the link below. These tours are operated by Gray Line, providing the flexibility to select your preferred tour options and travel dates, including prior to and after the Conference.</p>
 <p>For more information, or to make a booking and take advantage of the Conference discount, please click the link below.</p>
 <a href="" target="_blank" class="button d-block text-center">Click Here</a>
 <p>When booking the tour please enter the promotional code bettertogether2022 in order to receive the discount.</p>
 <h3>Disclaimer</h3>
-<p>Please be advised that the above tours are offered by independent operators who do not have any connection with the Conference or the Conference Organisers. This information is provided to delegates on a general basis and it is the delegate’s responsibility to research, make a booking and pay for the service provided directly with the supplier. Please ensure you read the terms and conditions on the tour operator’s website before proceeding with payment. Any issues relating to tour bookings are at the expense of the delegate and not the responsibility of the Conference or the Conference Organisers.</p>
+<p>Please be advised that the above tours are offered by independent operators who do not have any connection with the Conference or the Conference Organisers. This information is provided to delegates on a general basis and it is the delegate’s responsibility to research, make a booking and pay for the service provided directly with the supplier. Please ensure you read the terms and conditions on the tour operator’s website before proceeding with payment. Any issues relating to tour bookings are at the expense of the delegate and not the responsibility of the Conference or the Conference Organisers.</p> -->
 
 <h2>Accessible Victoria</h2>
 <p>Melbourne is one of Australia's oldest cities but accessibility for people with special mobility needs is improving all the time. Find out about accessible activities and attractions and the best ways to get around Melbourne and Victoria.</p>
 
-<a href="" target="_blank" class="button d-block text-center">View further information</a>
+<a href="https://www.visitvictoria.com/Information/Accessible-Victoria-Travel-Info-Melbourne-Victoria-Australia.aspx" target="_blank" class="button d-block text-center">View further information</a>
 
 
 <h2>Discover Australia</h2>
