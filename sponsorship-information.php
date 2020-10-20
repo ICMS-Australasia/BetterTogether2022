@@ -21,6 +21,18 @@
 
 <a href="https://icmsaust.eventsair.com/ausacpdmiaacd-2022---childhood-disabilities/sponsor-exhibitor-eoi/Site/Register" target="_blank" class="button d-block text-center">Express your Interest in Sponsoring</a>
 
+<h2 class="mt-5">Supported by</h2>
+
+<div class="row d-flex align-items-center">
+  <div class="col-md-5">
+    <a href="https://www.visitmelbourne.com/"><img src="./img/melbourne-victoria.gif" class="m-5"></a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.melbournecb.com.au/"><img src="./img/mcb.gif" class="m-5"></a>
+  </div>
+</div>
+
+
 <?php
     include('include/footer.php');
  ?>

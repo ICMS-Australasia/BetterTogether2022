@@ -72,7 +72,7 @@
                     </a>
                 </div>
                 <div class="card mt-4">
-                    <a href="./travel-tips.php">
+                    <a href="./travel-and-transport-tips.php">
                         <img src="./img/travel-tips.png" class="card-img-top" alt="Committee">
                         <div class="card-body">
                             <h5 class="card-title">Travel Tips</h5>

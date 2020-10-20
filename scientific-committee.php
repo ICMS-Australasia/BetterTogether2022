@@ -87,6 +87,18 @@
             Monash Children's Hospital
         </p>
     </div>
+    <div class="col-6 col-lg-4">
+
+        <h4>Shona Goldsmith</h4>
+
+        <p><b>Physiotherapist</b> <br>
+
+            Cerebral Palsy Alliance
+
+        </p>
+
+    </div>
+
 </div>
 
 <h2>IAACD members </h2>
@@ -128,14 +140,14 @@
             University of Nuevo Leon, Mexico</p>
     </div>
     <div class="col-6 col-lg-4">
-        <h4>Guro Anderson</h4>
+        <h4>Guro L. Andersen</h4>
         <p><b>Paediatrician</b> <br>
             The Cerebral Palsy Register, Vestfold Hospital Trust, Norway</p>
     </div>
     <div class="col-6 col-lg-4">
-        <h4>Sylvian Brochard</h4>
-        <p><b>MD Pediatric Rehabilitation</b> <br>
-            BEaCHILD Research Centre, France</p>
+        <h4>Sylvain Brochard</h4>
+        <p><b>MD Pediatric Rehabilitatio</b> <br>
+            BEaCHILD Research and Innovation Centre, France</p>
     </div>
     <div class="col-6 col-lg-4">
         <h4>Egmar Longo</h4>

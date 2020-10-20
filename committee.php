@@ -108,7 +108,7 @@
      </div>
      <div class="col-6">
          <h3>Tessa de Vries</h3>
-         <p><b>The University of Melbourneer </b><br>
+         <p><b>The University of Melbourne </b><br>
              Institute manager</p>
      </div>
      <div class="col-6">
