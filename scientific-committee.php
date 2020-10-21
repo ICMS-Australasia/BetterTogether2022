@@ -116,7 +116,7 @@
     </div>
     <div class="col-6 col-lg-4">
         <h4>Mark Peterson</h4>
-        <p><b>Pediatric Rehabilitation</b> <br>
+        <p><b>Exercise Physiology and Health Services Research</b> <br>
             University of Michigan</p>
     </div>
     <div class="col-6 col-lg-4">
