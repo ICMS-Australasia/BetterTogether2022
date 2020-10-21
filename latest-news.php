@@ -13,6 +13,12 @@
         "items": [
             // UPDATE THIS
             {
+               "date": "Wednesday, October 21 2020",
+               "img": "3.jpg",
+                "title": "10 days remain to submit your Symposium or Debate",
+                "link": "https://mailchi.mp/a25c0ec48cda/10-days-remain-to-submit-your-symposium-or-debate"
+            },
+            {
                "date": "Friday, September 18 2020",
                "img": "2.jpg",
                 "title": "Welcome To The Launch Of Better Together 2022",
