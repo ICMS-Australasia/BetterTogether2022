@@ -12,7 +12,7 @@
  <hr>
 
  <img src="img/keynote/peterson.jpg" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
- <h2 class="mb-0">Associate Professor Mark Peterson</h2>
+ <h2 class="mb-0">A/Prof. Mark Peterson</h2>
  <h3 class="mt-0">USA</h3>
 
  <p>Mark D. Peterson is the Charles E. Lytle, Jr. Research Professor at the University of Michigan-Medicine (Ann Arbor, Michigan, U.S.), Department of Physical Medicine and Rehabilitation, a Fulbright Scholar, and an active member in the American Academy of Cerebral Palsy and Developmental Medicine (AACPDM), Australasian Academy of Cerebral Palsy and Developmental Medicine (AusACPDM), the International Society of Physical and Rehabilitation Medicine (ISPRM), and the American College of Sports Medicine (ACSM). Dr. Peterson’s work focuses on understanding factors that influence health and life expectancy among individuals aging with disabilities across the lifespan. This includes efforts directed at identifying precision strategies to prevent cardiometabolic dysregulation and secondary physical and psychological morbidity among children and adults with cerebral palsy, as well as a variety of frailty syndromes, and to better understand health disparities among individuals with disabilities from the context of access to preventive care and community wellness. Dr. Peterson has published more than 150 peer reviewed scientific articles in the fields of exercise physiology, rehabilitation research, physical activity epidemiology, healthcare disparities, and preventive medicine. <br><br> <a href="#peterson" data-toggle="modal">Get to know Mark</a></p>
