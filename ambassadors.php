@@ -13,10 +13,10 @@
  <h2>Ambassador Resources</h2>
  <p>To assist Ambassadors in their efforts to promote the Conference, the Organising Committee has provided the following promotional materials.</p>
  <ul>
-   <li><a href="downloads/A4-Promotional-Poster.pdf" target="_blank" class="mb-2">A4 Promotional Poster</a></li>
-   <li><a href="downloads/Email-Signature.gif" target="_blank" class="mb-2">Email Signature</a></li>
-   <li><a href="downloads/PowerPoint-Template-and-Titles-Slide.pptx" target="_blank" class="mb-2">PowerPoint Template and Title Slide</a></li>
-   <li><a href="downloads/Zoom-Backgrounds.zip" target="_blank" class="mb-2">Zoom Backgrounds</a></li>
+   <li class="mb-2"><a href="downloads/A4-Promotional-Poster.pdf" target="_blank">A4 Promotional Poster</a></li>
+   <li class="mb-2"><a href="downloads/Email-Signature.gif" target="_blank">Email Signature</a></li>
+   <li class="mb-2"><a href="downloads/PowerPoint-Template-and-Titles-Slide.pptx" target="_blank">PowerPoint Template and Title Slide</a></li>
+   <li class="mb-2"><a href="downloads/Zoom-Backgrounds.zip" target="_blank">Zoom Backgrounds</a></li>
  </ul>
 
 
