@@ -177,7 +177,7 @@
   document.getElementById('ambassadors').innerHTML = ambassadors.map(a =>
     `
     <div class="col-md-4">
-      <h5 class="mt-4"><b>${a.first} ${a.last}</b></h5>
+      <h4 class="mt-4"><b>${a.first} ${a.last}</b></h4>
       <p class="mt-0 mb-4">${a.affiliation}
         ${a.affiliation == "" ? "" : `<br>` } <b>${a.country}</b></p>
     </div>
