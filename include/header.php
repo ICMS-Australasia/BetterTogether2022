@@ -54,6 +54,7 @@
                                             <a class="dropdown-item" href="welcome.php">Welcome Message</a>
                                             <a class="dropdown-item" href="hosts.php">Hosts</a>
                                             <a class="dropdown-item" href="committee.php">Committee</a>
+                                            <a class="dropdown-item" href="ambassadors.php">Ambassadors</a>
                                             <a class="dropdown-item" href="latest-news.php">Latest News</a>
                                             <a class="dropdown-item" href="conference-venue.php">Conference Venue</a>
                                             <!-- <a class="dropdown-item" href="privacy-policy.php">Promotional Material</a> -->
