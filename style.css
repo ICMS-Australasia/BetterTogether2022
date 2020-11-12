@@ -260,6 +260,50 @@ a:hover {
 .content .latest-news .news-item {
   text-decoration: none;
 }
+.content .modal-content {
+  padding: 2em;
+  display: block;
+}
+.content .modal-content h2 {
+  color: #008265;
+  font-size: 1.8em;
+  font-weight: bold;
+  line-height: 1.4;
+  margin-bottom: 10px;
+}
+.content .modal-content h3 {
+  font-size: 2em;
+  font-weight: bold;
+  color: black;
+}
+.content .modal-content button {
+  background: none;
+  border: 0;
+  float: right;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1em;
+}
+.content .modal-content img {
+  border-radius: 50%;
+  float: right;
+  max-width: 100%;
+  margin: 0.5em 0 1.5em 1.5em;
+  height: auto;
+}
+.content .modal-content h2 {
+  margin-top: 0 !important;
+}
+.content .modal-content h3 {
+  font-size: 1.3em;
+  line-height: 1.4;
+}
+.content .modal-content p:last-of-type {
+  margin-bottom: 0 !important;
+}
 .content .things-to-do div {
   height: 250px;
 }
