@@ -4,7 +4,7 @@
  ?>
 
  <img src="img/keynote/king.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
- <h2 class="mb-0">Professor Gillian King</h2>
+ <h2 class="mb-0">Prof. Gillian King</h2>
  <h3 class="mt-0">Canada</h3>
 
  <p>Gillian King is a Distinguished Senior Scientist (Bloorview Research Institute), Professor in the Department of Occupational Science and Occupational Therapy (University of Toronto), and Canada Research Chair in Optimal Care for Children with Disabilities (Tier 1). She has held over 100 peer-reviewed grants, authored over 200 peer-reviewed articles, and has developed and published over 20 measures for use in pediatric rehabilitation. Her work focuses on psychosocial aspects of care, including the delivery of health services, client engagement, family-centred care, client and family resiliency, and transition programming. Her current research focuses on measures of client, parent, and therapist engagement in service delivery, the key elements and processes underlying the effectiveness of youth transition programs, mental health and the participation of children and youth with disabilities, solution-focused coaching, and the role of resiliency in rehabilitation service delivery. <br><br> <a href="#king" data-toggle="modal">Get to know Gillian</a></p>
@@ -20,7 +20,7 @@
  <hr>
 
  <img src="img/keynote/shakespeare.jpg" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
- <h2 class="mb-0">Professor Tom Shakespeare</h2>
+ <h2 class="mb-0">Prof. Tom Shakespeare</h2>
  <h3 class="mt-0">United Kingdom</h3>
 
  <p>Tom Shakespeare trained at Cambridge University, and has worked at Sunderland, Leeds, Newcastle, University of East Anglia and London School of Hygiene and Tropical Medicine, where he is professor of disability research.  He has conducted research on disability and sexuality, with disabled children, on bioethics, on restricted growth, on independent living, on rehabilitation, on inclusive education and on employment of disabled people.  He also spent five years in the WHO Disability and rehabilitation team.  His books include Disability Rights and Wrongs and Disability – the Basics.  He broadcasts regularly on BBC Radio. <br><br> <a href="#shakespeare" data-toggle="modal">Get to know Tom</a></p>
