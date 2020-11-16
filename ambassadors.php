@@ -36,6 +36,12 @@
       "country": "India"
     },
     {
+      "first": "Sylvain",
+      "last": "Brochard",
+      "affiliation": "EACD",
+      "country": "France"
+    },
+    {
       "first": "Giovanni C",
       "last": "Cioni",
       "affiliation": "EACD",
@@ -142,6 +148,12 @@
       "last": "Morris",
       "affiliation": "BACD",
       "country": "England"
+    },
+    {
+      "first": "Gillian",
+      "last": "Saloojee",
+      "affiliation": "Southern African Academy of Childhood Disability",
+      "country": "Southern Africa"
     },
     {
       "first": "Pauline",
