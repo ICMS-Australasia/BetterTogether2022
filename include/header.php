@@ -56,7 +56,6 @@
                                             <a class="dropdown-item" href="committee.php">Committee</a>
                                             <a class="dropdown-item" href="ambassadors.php">Ambassadors</a>
                                             <a class="dropdown-item" href="latest-news.php">Latest News</a>
-                                            <a class="dropdown-item" href="conference-venue.php">Conference Venue</a>
                                             <!-- <a class="dropdown-item" href="privacy-policy.php">Promotional Material</a> -->
                                         </div>
                                     </li>
@@ -68,6 +67,7 @@
                                         <a class="dropdown-item" href="explore-melbourne.php">Explore Melbourne</a>
                                             <a class="dropdown-item" href="destination-discovery.php">Destination Discovery</a>
                                             <a class="dropdown-item" href="travel-and-transport-tips.php">Travel and Transport Tips</a>
+                                            <a class="dropdown-item" href="conference-venue.php">Conference Venue</a>
                                             <!-- <a class="dropdown-item" href="cross-disciplinary-workshops.php">Local Eats</a> -->
                                         </div>
                                     </li>
