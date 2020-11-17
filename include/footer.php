@@ -3,10 +3,6 @@
     <div class="col-12 col-lg-3 mt-5 mt-sm-0">
         <table class="key-dates-side" cellpadding="15" cellspacing="0" border="0" width="100%">
             <tr align="center" class="heading"><th>Key Dates</th></tr>
-            <tr align="center" class="sub-heading"><th>Collaborative International Symposia Call </th></tr>
-                <!-- <tr align="center"><td>Open July 2020</td></tr> -->
-                <tr align="center"><td><b>Now Open!</b> <br> Closes 31st October 2020</td></tr>
-                <!-- <tr align="center" bgcolor="#f2f2f2"><td>Announced January 2021</td></tr> -->
             <tr align="center" class="sub-heading"><th>Free Paper/Poster/Instructional Course</th></tr>
                 <tr align="center"><td>Open February 2021</td></tr>
                 <!-- <tr align="center" bgcolor="#f2f2f2"><td>Close April 2021</td></tr>
