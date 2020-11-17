@@ -29,8 +29,7 @@
                 <table class="key-dates" cellpadding="15" cellspacing="0" border="0" width="100%">
                     <tr align="center" class="heading"><th>Key Dates</th></tr>
                     <tr align="center" class="sub-heading"><th><a href="call-for-symposia.php">Collaborative International Symposia Call</a></th></tr>
-                        <tr align="center" bgcolor="#f2f2f2"><td>Open July 2020</td></tr>
-                        <tr align="center"><td>Closes 31st October 2020</td></tr>
+                        <tr align="center"><td>Now Closed</td></tr>
                         <tr align="center" bgcolor="#f2f2f2"><td>Announced January 2021</td></tr>
                     <tr align="center" class="sub-heading"><th>Free Paper/Poster/Instructional Course</th></tr>
                         <tr align="center"><td>Open February 2021</td></tr>
