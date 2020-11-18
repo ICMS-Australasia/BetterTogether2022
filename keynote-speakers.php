@@ -86,7 +86,7 @@
                <h3>What makes conferences such as this important?</h3>
                <p><em>Conferences such as this are so valuable to me. I greatly appreciate the opportunity to learn from my long-time and new friends and colleagues, as well as network and brainstorm future collaborations, visit and experience different cultures, seek adventures, and explore new places.</em></p>
 
-               <h3>What is the best piece of advice you could give a student or early career researcher who is attending their first big Conference?</h3>
+               <h3>What is the best piece of advice you could give a student or early career researcher who is attending their first big conference?</h3>
                <p><em>Connect with other attendees and network as much as possible. Don’t be afraid to reach out to senior investigators… everyone is excited to help.</em></p>
 
                <h3>What are you most looking forward to at the Better Together 2022 Conference?</h3>
