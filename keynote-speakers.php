@@ -11,7 +11,7 @@
 
  <p>Gillian King is a Distinguished Senior Scientist (Bloorview Research Institute), Professor in the Department of Occupational Science and Occupational Therapy (University of Toronto), and Canada Research Chair in Optimal Care for Children with Disabilities (Tier 1). She has held over 100 peer-reviewed grants, authored over 200 peer-reviewed articles, and has developed and published over 20 measures for use in pediatric rehabilitation. Her work focuses on psychosocial aspects of care, including the delivery of health services, client engagement, family-centred care, client and family resiliency, and transition programming. Her current research focuses on measures of client, parent, and therapist engagement in service delivery, the key elements and processes underlying the effectiveness of youth transition programs, mental health and the participation of children and youth with disabilities, solution-focused coaching, and the role of resiliency in rehabilitation service delivery. </p>
 
- <a href="#king" data-toggle="modal" class="button mt-0">Get to know Gillian</a>
+ <a href="#king" data-toggle="modal" class="button-small mt-0">Get to know Gillian</a>
 
  <hr>
 
@@ -21,7 +21,7 @@
 
  <p>Mark D. Peterson is the Charles E. Lytle, Jr. Research Professor at the University of Michigan-Medicine (Ann Arbor, Michigan, U.S.), Department of Physical Medicine and Rehabilitation, a Fulbright Scholar, and an active member in the American Academy of Cerebral Palsy and Developmental Medicine (AACPDM), Australasian Academy of Cerebral Palsy and Developmental Medicine (AusACPDM), the International Society of Physical and Rehabilitation Medicine (ISPRM), and the American College of Sports Medicine (ACSM). Dr. Peterson’s work focuses on understanding factors that influence health and life expectancy among individuals aging with disabilities across the lifespan. This includes efforts directed at identifying precision strategies to prevent cardiometabolic dysregulation and secondary physical and psychological morbidity among children and adults with cerebral palsy, as well as a variety of frailty syndromes, and to better understand health disparities among individuals with disabilities from the context of access to preventive care and community wellness. Dr. Peterson has published more than 150 peer reviewed scientific articles in the fields of exercise physiology, rehabilitation research, physical activity epidemiology, healthcare disparities, and preventive medicine.</p>
 
- <a href="#peterson" data-toggle="modal" class="button mt-0">Get to know Mark</a>
+ <a href="#peterson" data-toggle="modal" class="button-small mt-0">Get to know Mark</a>
 
  <hr>
 
@@ -31,7 +31,7 @@
 
  <p>Tom Shakespeare trained at Cambridge University, and has worked at Sunderland, Leeds, Newcastle, University of East Anglia and London School of Hygiene and Tropical Medicine, where he is professor of disability research.  He has conducted research on disability and sexuality, with disabled children, on bioethics, on restricted growth, on independent living, on rehabilitation, on inclusive education and on employment of disabled people.  He also spent five years in the WHO Disability and rehabilitation team.  His books include Disability Rights and Wrongs and Disability – the Basics.  He broadcasts regularly on BBC Radio.</p>
 
- <a href="#shakespeare" data-toggle="modal" class="button mt-0">Get to know Tom</a>
+ <a href="#shakespeare" data-toggle="modal" class="button-small mt-0">Get to know Tom</a>
 
  <!-- Modal Content -->
  <div class="modal fade" id="king">
