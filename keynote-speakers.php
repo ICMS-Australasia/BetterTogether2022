@@ -47,7 +47,7 @@
               <h3>What key messages will you have for community members and people with lived experience of child-onset disability?</h3>
               <p><em>A key message in most of my work is the importance of people’s beliefs about themselves, their relationships with others, and the things that give them a sense of energy and value in the world. We should not ignore the importance of expectations, assumptions, and values.</em></p>
 
-              <h3>What makes Conferences such as this important?</h3>
+              <h3>What makes conferences such as this important?</h3>
               <p><em>The key value to me is the coming together of like-minded people with similar interests. Conferences such as this serve to develop a ‘community of practice’ that embraces researchers, people with lived experience, clinicians, students, and educators.</em></p>
 
               <h3>What is the best piece of advice you could give a student or early career researcher who is attending their first big conference?</h3>
