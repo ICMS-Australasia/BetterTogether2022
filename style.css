@@ -68,6 +68,22 @@ a:hover {
   background: #006951;
 }
 
+.button-small {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  background: #008265;
+  transition: 0.2s background;
+}
+.button-small:hover {
+  color: white;
+  text-decoration: none;
+  background: #006951;
+}
+
 .content {
   margin-top: -100px;
 }

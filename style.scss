@@ -57,6 +57,21 @@ a {
 	}
 }
 
+.button-small {
+	font-size: 24px; font-weight: bold;
+	color: white;
+	display: inline-block;
+	text-decoration: none;
+	padding: 0.5em 1em;
+	background: $d_green;
+	transition: 0.2s background;
+	&:hover {
+		color: white;
+		text-decoration: none;
+		background: darken($d_green, 5%);
+	}
+}
+
 .content {
 	margin-top: -100px;
 	h1 {
