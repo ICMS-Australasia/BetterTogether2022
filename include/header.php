@@ -91,10 +91,10 @@
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                             <a class="dropdown-item" href="scientific-committee.php">Scientific Committee</a>
+                                            <a class="dropdown-item" href="keynote-speakers.php">Keynote Speakers</a>
                                             <!-- <a class="dropdown-item" href="call-for-symposia.php">Call for Symposia</a> -->
                                             <a class="dropdown-item" href="awards.php">Awards</a>
                                             <!-- <a class="dropdown-item" href="speakers.php">Call for Abstracts</a> -->
-                                            <!-- <a class="dropdown-item" href="speakers.php">Speakers</a> -->
                                             <!-- <a class="dropdown-item" href="speakers.php">Program at a Glance</a> -->
                                             <!-- <a class="dropdown-item" href="speakers.php">Full Program</a> -->
                                             <!-- <a class="dropdown-item" href="speakers.php">Early Career Researchers</a> -->
