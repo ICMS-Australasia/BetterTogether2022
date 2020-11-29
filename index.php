@@ -3,7 +3,9 @@
     include('include/header.php');
  ?>
             <div class="col-12">
-                <video id="video" src="Home Page - Promo Video.mp4" controls width="100%" poster="./img/video-placeholder.png" preload="none"></video>
+                <div class="embed-responsive embed-responsive-16by9 my-5">
+                  <iframe width="100%" height="100%" src="https://www.youtube.com/embed/7qobe89Xss0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
             </div>
             <div class="col-12 my-5 banner-welcome">
                 <a href="./welcome.php">
