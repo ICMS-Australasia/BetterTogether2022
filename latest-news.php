@@ -13,6 +13,12 @@
         "items": [
             // UPDATE THIS
             {
+               "date": "Thursday, December 3 2020",
+               "img": "4.jpg",
+                "title": "Better Together 2022 Celebrates IDPwD",
+                "link": "https://mailchi.mp/742c531842ca/better-together-2022-celebrates-idpwd"
+            }
+            {
                "date": "Wednesday, October 21 2020",
                "img": "3.jpg",
                 "title": "10 days remain to submit your Symposium or Debate",
