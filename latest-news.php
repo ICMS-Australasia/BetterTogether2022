@@ -17,7 +17,7 @@
                "img": "4.jpg",
                 "title": "Better Together 2022 Celebrates IDPwD",
                 "link": "https://mailchi.mp/742c531842ca/better-together-2022-celebrates-idpwd"
-            }
+            },
             {
                "date": "Wednesday, October 21 2020",
                "img": "3.jpg",
