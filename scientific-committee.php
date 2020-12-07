@@ -146,7 +146,7 @@
     </div>
     <div class="col-6 col-lg-4">
         <h4>Sylvain Brochard</h4>
-        <p><b>MD Pediatric Rehabilitatio</b> <br>
+        <p><b>MD Pediatric Rehabilitation</b> <br>
             BEaCHILD Research and Innovation Centre, France</p>
     </div>
     <div class="col-6 col-lg-4">
