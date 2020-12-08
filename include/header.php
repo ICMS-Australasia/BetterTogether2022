@@ -10,6 +10,15 @@
 <link rel="stylesheet" href="style.css">
 <title><?php echo $title ?> | Australasian Academy of Cerebral Palsy and Developmental Medicine/International Alliance of Academies of Childhood Disability 2022</title>
 <script src="https://kit.fontawesome.com/f399078202.js" crossorigin="anonymous"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128963342-26"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-128963342-26');
+</script>
 </head>
 <body>
 
