@@ -3,7 +3,7 @@
     include('include/header.php');
  ?>
 
-<p>We are delighted to welcome you as co-scientific chairs to the AusACPDM/IAACD “Better Together’ 2022 Conference. Our scientific committee includes representatives from around the globe, from many disciplines, with broad range of expertise in childhood onset disability.</p>
+<p>As the co-scientific chairs we are delighted to welcome you to the AusACPDM/IAACD ‘Better Together’ 2022 Conference. Our scientific committee includes representatives from around the globe, from many disciplines, with broad range of expertise in childhood onset disability.</p>
 <p>Together we are planning a world-class, stimulating scientific program based around our theme of Better Together. We will have both local and international keynotes speakers on a range of cutting-edge topics, and look forward to reviewing submissions over a diverse range of presentations.</p>
 <p>All our presenters will have the option to present virtually and we look forward to sharing with you some new exciting virtual only formats. As a scientific committee we are dedicated to delivering you an outstanding hybrid conference and will be supporting presenters and delegates prior and during the conference with a range of materials to make the most of engaging audiences globally both virtually and in person to ensure we are Better Together.</p>
 
