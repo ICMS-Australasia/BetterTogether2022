@@ -13,6 +13,30 @@
         "items": [
             // UPDATE THIS
             {
+               "date": "Thursday, December 17 2020",
+               "img": "5.jpg",
+                "title": "What To Look Forward To In 2021?",
+                "link": "https://mailchi.mp/e591fe57f29c/what-to-look-forward-to-in-465440"
+            },
+            {
+               "date": "Thursday, December 3 2020",
+               "img": "4.jpg",
+                "title": "Better Together 2022 Celebrates IDPwD",
+                "link": "https://mailchi.mp/742c531842ca/better-together-2022-celebrates-idpwd"
+            },
+            {
+               "date": "Wednesday, October 21 2020",
+               "img": "3.jpg",
+                "title": "10 Days Remain To Submit Your Symposium Or Debate",
+                "link": "https://mailchi.mp/a25c0ec48cda/10-days-remain-to-submit-your-symposium-or-debate"
+            },
+            {
+               "date": "Friday, September 18 2020",
+               "img": "2.jpg",
+                "title": "Welcome To The Launch Of Better Together 2022",
+                "link": "https://mailchi.mp/ceb02a08cfc0/welcome-to-the-launch-of-better-together-2022"
+            },
+            {
                "date": "Friday, July 31 2020",
                "img": "1.jpg",
                 "title": "Introducing the AusACPDM and IAACD 2022 Conference",
