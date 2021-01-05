@@ -163,7 +163,7 @@
         <div class="row">
             <div class="col-12 text-center">
                 <div class="conference-name">
-                    <p class="p-4 p-lg-5"><b>Combined <span>11th Australasian Academy of Cerebral Palsy and Developmental Medicine</span> and the <span>3rd International Alliance of Academies of Childhood Disabilities</span> 'Better Together' Conference 2022</b></p>
+                    <p class="p-4 p-lg-4"><b>Combined <span>11th Australasian Academy of Cerebral Palsy and Developmental Medicine</span> and the <span>3rd International Alliance of Academies of Childhood Disabilities</span> 'Better Together' Conference 2022</b></p>
                 </div>
             </div>
         </div>
