@@ -13,6 +13,12 @@
         "items": [
             // UPDATE THIS
             {
+               "date": "Thursday, December 17 2020",
+               "img": "5.jpg",
+                "title": "What To Look Forward To In 2021?",
+                "link": "https://mailchi.mp/e591fe57f29c/what-to-look-forward-to-in-465440"
+            },
+            {
                "date": "Thursday, December 3 2020",
                "img": "4.jpg",
                 "title": "Better Together 2022 Celebrates IDPwD",
@@ -21,7 +27,7 @@
             {
                "date": "Wednesday, October 21 2020",
                "img": "3.jpg",
-                "title": "10 days remain to submit your Symposium or Debate",
+                "title": "10 Days Remain To Submit Your Symposium Or Debate",
                 "link": "https://mailchi.mp/a25c0ec48cda/10-days-remain-to-submit-your-symposium-or-debate"
             },
             {
