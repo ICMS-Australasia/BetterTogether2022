@@ -17,13 +17,13 @@
 
  <img src="img/keynote/michie.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
  <h2 class="mb-0">Prof. Susan Michie</h2>
+ <h3 class="mt-0">United Kingdom</h3>
 
  <p>Susan Michie, FMedSci, FAcSS is Professor of Health Psychology and Director of the Centre for Behaviour Change at University <a href="https://www.ucl.ac.uk/behaviour-change/" target="_blank">College London</a>. She is co-Director of NIHR’s Behavioural Science Policy Research Unit, leads UCL’s membership of NIHR’s School of Public Health Research and is an NIHR Senior Investigator.</p>
  <p>Professor Michie’s research focuses on behaviour change in relation to health and the environment: how to understand it theoretically and apply theory to intervention development, evaluation and implementation. Her research, collaborating with disciplines such as information science, environmental science, computer science and medicine, covers population, organisational and individual level interventions. Examples include the <a href="http://www.humanbehaviourchange.org" target="_blank">Human Behaviour-Change Project</a> and <a href="http://www.ucl.ac.uk/bartlett/environmental-design/research/research-projects/cussh" target="_blank">Complex Systems for Sustainability and Health</a>. She is an investigator on three Covid-19 research projects.</p>
  <p>She serves as an expert advisor on the UK’s Scientific Pandemic Influenza Group on Behavioural Science (Covid-19) and is a member of WHO’s Behavioural Insights Technical Advisory Group. She is also expert advisor to Public Health England and the UK Department of Health and Social Care, is Chair of the UK Food Standard Agency’s Social Sciences Advisory Committee and chaired the Academy of Social Science’s ‘Health of People’ project.</p>
 
  <p><b>Website:</b> <a href="https://tinyurl.com/susan-michie" target="_blank">https://tinyurl.com/susan-michie</a> <br>
-   <b>Email:</b> <a href="mailto:s.michie@ucl.ac.uk">s.michie@ucl.ac.uk</a> <br>
    <b>Twitter:</b>  <a href="https://twitter.com/SusanMichie" target="_blank">@SusanMichie</a></p>
 
  <a href="#michie" data-toggle="modal" class="button-small mt-0">Get to know Susan</a>
