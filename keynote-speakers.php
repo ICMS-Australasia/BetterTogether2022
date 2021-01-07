@@ -15,6 +15,21 @@
 
  <hr>
 
+ <img src="img/keynote/michie.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
+ <h2 class="mb-0">Prof. Susan Michie</h2>
+
+ <p>Susan Michie, FMedSci, FAcSS is Professor of Health Psychology and Director of the Centre for Behaviour Change at University <a href="https://www.ucl.ac.uk/behaviour-change/" target="_blank">College London</a>. She is co-Director of NIHR’s Behavioural Science Policy Research Unit, leads UCL’s membership of NIHR’s School of Public Health Research and is an NIHR Senior Investigator.</p>
+ <p>Professor Michie’s research focuses on behaviour change in relation to health and the environment: how to understand it theoretically and apply theory to intervention development, evaluation and implementation. Her research, collaborating with disciplines such as information science, environmental science, computer science and medicine, covers population, organisational and individual level interventions. Examples include the <a href="http://www.humanbehaviourchange.org" target="_blank">Human Behaviour-Change Project</a> and <a href="http://www.ucl.ac.uk/bartlett/environmental-design/research/research-projects/cussh" target="_blank">Complex Systems for Sustainability and Health</a>. She is an investigator on three Covid-19 research projects.</p>
+ <p>She serves as an expert advisor on the UK’s Scientific Pandemic Influenza Group on Behavioural Science (Covid-19) and is a member of WHO’s Behavioural Insights Technical Advisory Group. She is also expert advisor to Public Health England and the UK Department of Health and Social Care, is Chair of the UK Food Standard Agency’s Social Sciences Advisory Committee and chaired the Academy of Social Science’s ‘Health of People’ project.</p>
+
+ <p><b>Website:</b> <a href="https://tinyurl.com/susan-michie" target="_blank">https://tinyurl.com/susan-michie</a> <br>
+   <b>Email:</b> <a href="mailto:s.michie@ucl.ac.uk">s.michie@ucl.ac.uk</a> <br>
+   <b>Twitter:</b>  <a href="https://twitter.com/SusanMichie" target="_blank">@SusanMichie</a></p>
+
+ <a href="#michie" data-toggle="modal" class="button-small mt-0">Get to know Susan</a>
+
+ <hr>
+
  <img src="img/keynote/peterson.jpg" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
  <h2 class="mb-0">A/Prof. Mark Peterson</h2>
  <h3 class="mt-0">USA</h3>
@@ -64,6 +79,42 @@
 
               <h3>What was your guilty COVID isolation pleasure?</h3>
               <p><em>That would be potato chips or any salty, crunchy snack, they were my pre-COVID pleasure too!</em></p>
+
+             <button type="button" class="close" data-dismiss="modal">x</button>
+         </div>
+     </div>
+ </div>
+ <div class="modal fade" id="michie">
+     <div class="modal-dialog modal-dialog-centered modal-lg">
+         <div class="modal-content">
+             <h2>Get to know Susan</h2>
+             <h3 class="mt-0">What can delegates expect to hear from you?</h3>
+             <p><em>A new way of thinking about behaviour and how to change it, both in relation to professionals and in relation to those they are providing a service to. Relevant resources are on the <a href="https://www.ucl.ac.uk/behaviour-change/" target="_blank">Centre for Behaviour Change website</a>.</em></p>
+
+             <h3>Highlight the international relevance of your work for delegates?</h3>
+             <p><em>The Behaviour Change Wheel guide to developing interventions is my most widely read book. A user-friendly version is available <a href="https://www.ucl.ac.uk/behaviour-change/resources/achieving-behaviour-change-guides-government" target="_blank">free</a>.</em></p>
+
+             <h3>What key messages will you have for community members and people with lived experience of child-onset disability?</h3>
+             <p><em>Understanding behaviour and how to change it is of potential use for everyone – in relation to enabling others and thinking about one’s own situation.</em></p>
+
+             <h3>What makes conferences such as this important?</h3>
+             <p><em>After the global pandemic, conferences where people can be together in person, sharing the same experiences, networking over drinks and meals and discussing issues in the same room will be a great treat.</em></p>
+
+             <h3>What is the best piece of advice you could give a student or early career researcher who is attending their first big conference?</h3>
+             <p><em>Don’t be afraid to go up to speakers or anyone else and talk to them – conferences are about networking and my favourite conferences are those where first year students and Professors talk (and even dance) with each other.</em></p>
+
+             <h3>What are you most looking forward to at the Better Together 2022 Conference?</h3>
+             <p><em>Getting to know something of a scientific and professional organisation that is new to me and meeting new people doing important work.</em></p>
+
+             <h3>Do you see any particular benefits of having the conference in Melbourne/ Australia?</h3>
+             <p><em>I have been to many cities in Australia and Melbourne remains my favourite – coming from London, diversity and celebrating diversity in all forms including culturally, are important.</em></p>
+
+             <h3>Do you have any hobbies outside of your work?</h3>
+             <p><em>Tennis, yoga, walking, cryptic crosswords, playing with my grandchildren</em></p>
+
+             <h3>What was your guilty COVID isolation pleasure?</h3>
+             <p><em>I don’t do guilt, such an unhelpful emotion! Putting my camera off and do what I want to do during boring meetings was fun.</em></p>
+
 
              <button type="button" class="close" data-dismiss="modal">x</button>
          </div>
