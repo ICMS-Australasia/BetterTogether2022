@@ -97,6 +97,7 @@ a {
 	p {
 		margin-top: 1em;
 	}
+
 	.banner-welcome {
 		position: relative;
 		transition: 0.2s ease-in-out;
@@ -463,6 +464,11 @@ a {
 	&:hover {
 		background: darken($l_green, 2%);
 	}
+}
+
+.alert-primary {
+	background: $teal;
+	color: white;
 }
 
 
