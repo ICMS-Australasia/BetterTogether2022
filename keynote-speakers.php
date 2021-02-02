@@ -5,6 +5,16 @@
 
  <h4><em>More speakers to be announced soon</em></h4>
 
+ <img src="img/keynote/o-flaherty.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
+ <h2 class="mb-0">Dr Steve O’Flaherty</h2>
+ <h3 class="mt-0">Australia</h3>
+
+ <p>Dr Steve O’Flaherty is a Rehabilitation Paediatrician who has worked with children for over 50 years. Originally from New Zealand he completed consultant training at Sydney Children’s Hospital and then worked as the community Paediatrician for western Sydney. From the late 1980s he was head of the Paediatric Rehabilitation department at Westmead Hospital until 1995 when all Paediatric services moved to the Children’s Hospital at Westmead where he was the inaugural head of Paediatric Rehabilitation (Kids Rehab) for 17 years. He oversaw the introduction in Australia of training of Paediatric advanced trainees in Paediatric Rehabilitation. This avoided the previous need to travel overseas for training. Such training is now offered in all Paediatric Rehab services around Australia. From this a cohort of trained consultants has developed and has facilitated the staffing of units in Australia and NZ. Amongst other things and with his colleagues he oversaw the introduction at Kids Rehab of Botulinum Toxin, Intrathecal Baclofen, Selective Dorsal Rhisotomy and Deep Brain Stimulation treatment options for managing movement disability especially in children with CP and he was part of the team that facilitated relocation of the Paediatric Gait Lab to CHW. He continues clinical work with children with CP as a senior Staff Specialist in Paediatric Rehabilitation at Sydney Children’s Hospital. </p>
+
+ <a href="#o-flaherty" data-toggle="modal" class="button-small mt-0">Get to know Steve</a>
+
+ <hr>
+
  <img src="img/keynote/king.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
  <h2 class="mb-0">Prof. Gillian King</h2>
  <h3 class="mt-0">Canada</h3>
@@ -49,6 +59,42 @@
  <a href="#shakespeare" data-toggle="modal" class="button-small mt-0">Get to know Tom</a>
 
  <!-- Modal Content -->
+ <div class="modal fade" id="o-flaherty">
+     <div class="modal-dialog modal-dialog-centered modal-lg">
+         <div class="modal-content">
+             <h2>Get to know Steve</h2>
+             <h3 class="mt-0">What can delegates expect to hear from you?</h3>
+             I intend to cover some historical aspects of development of Paediatric Rehabilitation services in Australasia, the importance of teams working together and present some thoughts about future development.
+
+            <h3>Highlight the international relevance of your work for delegates?</h3>
+            <p><em>It is hoped that the experiences in the development of Paediatric services in Australasia will be of some use to other areas of the world where these services are yet to be in place.</em></p>
+
+            <h3>What key messages will you have for community members and people with lived experience of child-onset disability?</h3>
+            <p><em>The message is that there is a group of well-trained trained professionals; therapists, nurses and doctors who are dedicated to sharing their knowledge in assisting you in the care for your child. You are not alone.</em></p>
+
+            <h3>What makes conferences such as this important?</h3>
+            <p><em>One of the ‘lessons” from the restrictions that Covid has taught is the importance of the collegiate experience of meeting with colleagues, sharing viewpoints and mixing socially. It is to be hoped that our meeting in 2022 will allow this to be re-introduced so we can all benefit from the interchange of information from the widespread group of attendees that the combined meeting will bring together.</em></p>
+
+            <h3>What is the best piece of advice you could give a student or early career researcher who is attending their first big conference?</h3>
+            <p><em>The clearest thing I remember from attending my first American Academy of CP meeting was not the information learned. It was unquestionably the people I met and with whom I have caught up with many times at subsequent meetings and in several cases have visited them and vice versa. Make yourself known. We’re a friendly lot.</em></p>
+
+            <h3>What are you most looking forward to at the Better Together 2022 Conference?</h3>
+            <p><em>The same as the above answer.</em></p>
+
+            <h3>Do you see any particular benefits of having the conference in Melbourne/ Australia?</h3>
+            <p><em>For the “second best” city in Australia it is still a wonderful place to visit! The food scene is fantastic – maybe even better than my home city of Sydney - and transport access is excellent with March being a great time to visit and enjoy the local hospitality.</em></p>
+
+            <h3>Do you have any hobbies outside of your work?</h3>
+            <p><em>I play golf – a lot; travel – a lot when Covid allows; socialise with friends and enjoy dining out and good wine.</em></p>
+
+            <h3>What was your guilty COVID isolation pleasure?</h3>
+            <p><em>Undisturbed reading – I did not feel too guilty though.</em></p>
+
+
+             <button type="button" class="close" data-dismiss="modal">x</button>
+         </div>
+     </div>
+ </div>
  <div class="modal fade" id="king">
      <div class="modal-dialog modal-dialog-centered modal-lg">
          <div class="modal-content">
