@@ -5,15 +5,6 @@
 
  <h4><em>More speakers to be announced soon</em></h4>
 
- <img src="img/keynote/o-flaherty.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
- <h2 class="mb-0">Dr Steve O’Flaherty</h2>
- <h3 class="mt-0">Australia</h3>
-
- <p>Dr Steve O’Flaherty is a Rehabilitation Paediatrician who has worked with children for over 50 years. Originally from New Zealand he completed consultant training at Sydney Children’s Hospital and then worked as the community Paediatrician for western Sydney. From the late 1980s he was head of the Paediatric Rehabilitation department at Westmead Hospital until 1995 when all Paediatric services moved to the Children’s Hospital at Westmead where he was the inaugural head of Paediatric Rehabilitation (Kids Rehab) for 17 years. He oversaw the introduction in Australia of training of Paediatric advanced trainees in Paediatric Rehabilitation. This avoided the previous need to travel overseas for training. Such training is now offered in all Paediatric Rehab services around Australia. From this a cohort of trained consultants has developed and has facilitated the staffing of units in Australia and NZ. Amongst other things and with his colleagues he oversaw the introduction at Kids Rehab of Botulinum Toxin, Intrathecal Baclofen, Selective Dorsal Rhisotomy and Deep Brain Stimulation treatment options for managing movement disability especially in children with CP and he was part of the team that facilitated relocation of the Paediatric Gait Lab to CHW. He continues clinical work with children with CP as a senior Staff Specialist in Paediatric Rehabilitation at Sydney Children’s Hospital. </p>
-
- <a href="#o-flaherty" data-toggle="modal" class="button-small mt-0">Get to know Steve</a>
-
- <hr>
 
  <img src="img/keynote/king.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
  <h2 class="mb-0">Prof. Gillian King</h2>
@@ -37,6 +28,16 @@
    <b>Twitter:</b>  <a href="https://twitter.com/SusanMichie" target="_blank">@SusanMichie</a></p>
 
  <a href="#michie" data-toggle="modal" class="button-small mt-0">Get to know Susan</a>
+
+ <hr>
+
+ <img src="img/keynote/o-flaherty.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
+ <h2 class="mb-0">Dr Steve O’Flaherty</h2>
+ <h3 class="mt-0">Australia</h3>
+
+ <p>Dr Steve O’Flaherty is a Rehabilitation Paediatrician who has worked with children for over 50 years. Originally from New Zealand he completed consultant training at Sydney Children’s Hospital and then worked as the community Paediatrician for western Sydney. From the late 1980s he was head of the Paediatric Rehabilitation department at Westmead Hospital until 1995 when all Paediatric services moved to the Children’s Hospital at Westmead where he was the inaugural head of Paediatric Rehabilitation (Kids Rehab) for 17 years. He oversaw the introduction in Australia of training of Paediatric advanced trainees in Paediatric Rehabilitation. This avoided the previous need to travel overseas for training. Such training is now offered in all Paediatric Rehab services around Australia. From this a cohort of trained consultants has developed and has facilitated the staffing of units in Australia and NZ. Amongst other things and with his colleagues he oversaw the introduction at Kids Rehab of Botulinum Toxin, Intrathecal Baclofen, Selective Dorsal Rhisotomy and Deep Brain Stimulation treatment options for managing movement disability especially in children with CP and he was part of the team that facilitated relocation of the Paediatric Gait Lab to CHW. He continues clinical work with children with CP as a senior Staff Specialist in Paediatric Rehabilitation at Sydney Children’s Hospital. </p>
+
+ <a href="#o-flaherty" data-toggle="modal" class="button-small mt-0">Get to know Steve</a>
 
  <hr>
 
