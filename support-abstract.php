@@ -8,7 +8,7 @@
 
 <h2>Checklist of questions to consider when planning your submission</h2>
 <div class="alert alert-primary">
-  <ul class="mb-0 p-4">
+  <ul class="mb-0 p-4" style="list-style: url('img/square-regular.png')">
     <li>How will you adapt your session for ‘in room’ and ‘online’ engagement with attendees?</li>
     <li>What ‘virtual strategies’ will you use for an informative and engaging session?</li>
     <li>Ha you enough people in your presenter team to engage with both online and ‘in-room’ attendees during the session? We will provide a Chairperson and IT support.</li>
@@ -20,7 +20,7 @@
 
  <p>The Better Together 2022 Conference Committee aims to support a high quality experience for all participants. We ask our presenters to consider how they will present their work so that it is equitable, engaging, and accessible for all attendees- no matter what their background, nationality, or method of attending. Here are tips for making your presentation 1. Engaging and 2. Accessible.</p>
 
- <h2>1.Tips and considerations for creating an engaging virtual presentation</h2>
+ <h2>1. Tips and considerations for creating an engaging virtual presentation</h2>
  <ul>
    <li>Will you want to use chat rooms, break out rooms, or polling questions throughout your session?</li>
    <ul>
@@ -49,7 +49,7 @@
 </ul>
 
 <h2>Checklist of questions to consider when putting your presentation together</h2>
-<div class="alert alert-primary">
+<div class="alert alert-primary" style="list-style: url('img/square-regular.png')">
   <ul class="mb-0 p-4">
     <li>Have you reviewed and considered our tips for creating an engaging virtual presentation?</li>
     <li>Have you reviewed and considered our tips for creating an accessible virtual presentation?</li>
