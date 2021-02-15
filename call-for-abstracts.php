@@ -70,7 +70,7 @@
    <li>Other</li>
  </ul>
 
- <a href="https://icmsaust.eventsair.com/ausacpdmiaacd-2022---childhood-disabilities/symposia" target="_blank" class="button d-block text-center">Submit your abstract here</a>
+ <a href="https://icmsaust.eventsair.com/ausacpdmiaacd-2022---childhood-disabilities/abstractportal" target="_blank" class="button d-block text-center">Submit your abstract here</a>
 
  <p>Members of the Better Together 2022 Scientific Program Committee will review the abstracts, blinded to the names of the authors and institutions affiliated with the submission. Presentations will be selected on the basis of their quality, relevance and impact determined by review of the research question or hypothesis, study design, methodology, conclusions, impact/relevance and importance as described in the abstract. Student status of the author will not affect the abstract submission type or the grading of the abstract.</p>
 
