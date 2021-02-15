@@ -14,7 +14,7 @@
 <p>The venue is an easy walking distance from a range of accommodation options, which will be available to delegates to book at the time of registering for the conference.</p>
 <p>The venue has many accessible features, download the guide by using the following link for more information. When you arrive at the venue, please see the Customer Service team if you have any queries or require assistance.</p>
 
-<a href="https://mcec.com.au/-/media/mcec/documents/visit-information/mel0070_297x210_accessibility-features_document_online_fa.pdf?la=en&hash=207DE18AFCE70C095E03CCC717FEF01E93DC44D2" target="_blank" class="button d-block text-center">Download the MCEC accessibility guide</a>
+<a href="https://mcec.com.au/-/media/mcec/documents/visit-information/mel0070_297x210_accessibility-features_document_online_fa.pdf?la=en&hash=207DE18AFCE70C095E03CCC717FEF01E93DC44D2" target="_blank" class="button d-block text-center mb-4">Download the MCEC accessibility guide</a>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12606.202836305327!2d144.9531856!3d-37.8239915!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d5173a284b5%3A0x958eeaf04deea384!2sMelbourne%20Convention%20and%20Exhibition%20Centre%20(MCEC)!5e0!3m2!1sen!2sau!4v1600061645750!5m2!1sen!2sau" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 <?php
