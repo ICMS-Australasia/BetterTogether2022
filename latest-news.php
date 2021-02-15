@@ -13,10 +13,10 @@
         "items": [
             // UPDATE THIS
             {
-               "date": "Thursday, December 17 2020",
-               "img": "5.jpg",
-                "title": "What To Look Forward To In 2021?",
-                "link": "https://mailchi.mp/e591fe57f29c/what-to-look-forward-to-in-465440"
+               "date": "Monday, January 25 2020",
+               "img": "6.jpg",
+                "title": "Better Together Celebrating a New Year",
+                "link": "https://mailchi.mp/72221d6d77f4/better-together-2022-celebrating-a-new-year"
             },
             {
                "date": "Thursday, December 3 2020",
