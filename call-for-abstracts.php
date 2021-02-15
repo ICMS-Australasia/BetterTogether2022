@@ -81,7 +81,7 @@
    <li><a href="./downloads/Free-Papers.docx" target="_blank">Free papers</a></li>
    <li><a href="./downloads/Scientific-Demonstration-Posters.docx" target="_blank">Scientific/demonstration posters</a></li>
    <li><a href="./downloads/Case-Study-Clinical-Obs-Posters.docx" target="_blank">Case study/clinical observation posters</a></li>
-   <li><a href="./downloads/Breakfast-Seminars.docx" target="_blank">Breakfast seminars</a></li>
+   <li><a href="./downloads/Breakfast-Seminar.docx" target="_blank">Breakfast seminars</a></li>
    <li><a href="./downloads/Instructional-Course-Workshop.docx" target="_blank">Instructional courses/workshops</a></li>
    <li><a href="./downloads/PhD-Platform-Guidelines-&-Application-Form.docx" target="_blank">PhD platforms</a></li>
  </ul>
