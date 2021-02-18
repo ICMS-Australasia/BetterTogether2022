@@ -11,7 +11,7 @@
   <ul class="mb-0 p-4" style="list-style: url('img/square-regular.png')">
     <li>How will you adapt your session for ‘in room’ and ‘online’ engagement with attendees?</li>
     <li>What ‘virtual strategies’ will you use for an informative and engaging session?</li>
-    <li>Ha you enough people in your presenter team to engage with both online and ‘in-room’ attendees during the session? We will provide a Chairperson and IT support.</li>
+    <li>Have you enough people in your presenter team to engage with both online and ‘in-room’ attendees during the session? We will provide a Chairperson and IT support.</li>
     <li>Will your planned presentation fit within the time allowed? Time limits will be strictly adhered to.</li>
     <li>Have you got permission to show videos/photos? Will it be an issue if presentation recordings are stored and available to attendees for a period of time after the conference? Our policy will be no photography or recording but we cannot guarantee “virtual” attendees will comply.</li>
     <li>Who is your target audience, and how can you make your submission accessible for all? Our scientific program will span international multidiscipline professionals and community partners - including families and young people with child-onset disability.</li>
