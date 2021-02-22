@@ -85,7 +85,7 @@
                                             Registration <i class="fas fa-angle-down ml-1"></i>
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <!-- <a class="dropdown-item" href="abstracts.php">Registration</a> -->
+                                          <!-- <a class="dropdown-item" href="scholarships.php">Scholarships</a> -->
                                             <!-- <a class="dropdown-item" href="program.php">Scholarships</a> -->
                                             <a class="dropdown-item" href="visa-information.php">Visa Information</a>
                                             <!-- <a class="dropdown-item" href="speakers.php">Accommodation</a> -->
