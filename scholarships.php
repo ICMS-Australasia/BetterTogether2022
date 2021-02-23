@@ -38,7 +38,7 @@
 <h2>Eligibility Criteria</h2>
 <p>To be eligible to receive a Conference scholarship, candidates must:</p>
 <ul>
-  <li>•	Demonstrate proof of current <a href="https://www.ausacpdm.org.au/become-a-member/" target="_blank">AusACPDM membership</a> or <a href="https://iaacd.net/about-iaacd/member-academies/" target="_blank">membership of a Full or Provisional Academy Member of the IAACD</a></li>
+  <li>Demonstrate proof of current <a href="https://www.ausacpdm.org.au/become-a-member/" target="_blank">AusACPDM membership</a> or <a href="https://iaacd.net/about-iaacd/member-academies/" target="_blank">membership of a Full or Provisional Academy Member of the IAACD</a></li>
   <li>Provide a written statement from their institution stating that other possible sources of funding have been applied for and institutional funding is not available;</li>
   <li>Ensure the Recommendation Form is submitted by their employer, supervisor or academic instructor;</li>
   <li>Provide proof of country of residence;</li>
