@@ -39,7 +39,7 @@
 <h2>Eligibility Criteria</h2>
 <p>To be eligible to receive a Conference scholarship, candidates must:</p>
 <ul>
-  <li>Demonstrate proof of current <a href="https://www.ausacpdm.org.au/become-a-member/" target="_blank">AusACPDM membership or membership of a Full or Provisional Academy Member of the IAACD</a></li>
+  <li>Demonstrate proof of current AusACPDM membership or membership of a full or Provisional Academy Member of the IAACD - see <a href="https://iaacd.net/about-iaacd/member-academies/" target="_blank">IAACD website</a></li>
   <li>Provide a written statement from their institution stating that other possible sources of funding have been applied for and institutional funding is not available;</li>
   <li>Ensure the Recommendation Form is submitted by their employer, supervisor or academic instructor;</li>
   <li>Provide proof of country of residence;</li>
@@ -47,7 +47,7 @@
   <li>Complete the self-application form (with signature) – nominations by other parties will not be accepted;</li>
   <li>Not be a recipient of other AusACPDM funding e.g PhD platform scholarship, invited speaker to the Conference;</li>
   <li>Agree and provide signed consent to have their name and photo published as a scholarship recipient in the Conference app and on the AusACPDM website;</li>
-  <li>Agree to provide a written report (300 words) within 2 months of the Conference on how their attendance at the Conference has assisted in improving their knowledge, skills and service delivery. NB: Previous successful applicants cannot apply for further scholarship funding for the next 2 AusACPDM Conferences (ie 4 years).</li>
+  <li>Agree to provide a written report (300 words) within 2 months of the Conference on how their attendance at the Conference has assisted in improving their knowledge, skills and service delivery. NB: Previous successful applicants cannot apply for further scholarship funding for the next 2 AusACPDM Conferences (i.e. 4 years).</li>
 </ul>
 
 <hr class="my-4">
@@ -56,7 +56,7 @@
 <ul>
   <li>Who can demonstrate in their application how participation will enhance their own knowledge, skills and service delivery;</li>
   <li>Who have a sound plan for disseminating and implementing the acquired knowledge and skills with colleagues in their community or country;</li>
-  <li>Whose clinical and research clients might benefit the most from the new knowledge and skills of the applicant and their colleagues.</li>
+  <li>Who’s clinical and research clients might benefit the most from the new knowledge and skills of the applicant and their colleagues.</li>
 </ul>
 
 <hr class="my-4">
