@@ -16,6 +16,17 @@
 
  <hr>
 
+ <img src="img/keynote/lieber.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
+ <h2 class="mb-0">Prof. Rick Lieber</h2>
+ <h3 class="mt-0">USA</h3>
+
+<p>Rick Lieber is a physiologist who earned his Ph.D. in Biophysics from U.C. Davis developing a theory of light diffraction that was applied to mechanical studies of single muscle cells.  He joined the faculty at the University of California, San Diego in 1985 where he spent the first 30+ years of his academic career, achieving the rank of Professor and Vice-Chair of the Department of Orthopaedic Surgery.  He received his M.B.A. in 2013 and is currently Chief Scientific Officer and Senior Vice President at the Shirley Ryan AbilityLab and Professor of Physical Medicine & Rehabilitation and Biomedical Engineering at Northwestern University in Chicago, IL.</p>
+<p>Dr. Lieber’s work in intentionally translational, applying basic scientific principles to help patients who have experienced spinal cord injury, stroke, musculoskeletal trauma or cerebral palsy.  He has published almost 300 articles in journals ranging from the very basic such as <em>The Biophysical Journal and The Journal of Cell Biology</em> to clinical journals such as <em>The Journal of Hand Surgery and Clinical Orthopaedics and Related Research</em>.  Dr. Lieber’s research focuses on design and plasticity of skeletal muscle.  Currently, he is developing state-of-the-art biological and biophysical approaches to understanding muscle contractures that result from cerebral palsy, stroke and spinal cord injury.</p>
+
+ <a href="#lieber" data-toggle="modal" class="button-small mt-0">Get to know Rick</a>
+
+ <hr>
+
  <img src="img/keynote/michie.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
  <h2 class="mb-0">Prof. Susan Michie</h2>
  <h3 class="mt-0">United Kingdom</h3>
@@ -40,13 +51,13 @@
  <a href="#o-flaherty" data-toggle="modal" class="button-small mt-0">Get to know Steve</a>
 
  <hr>
- 
+
  <img src="img/keynote/patel.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
  <h2 class="mb-0">Dr Rupal Patel</h2>
  <h3 class="mt-0">USA</h3>
 
  <p>Rupal is the Founder and CEO of VocaliD, a voice technology company that provides AI-generated voices with personality. VocaliD’s award-winning technology leverages the latest advances in machine learning, signal processing and voice analytics along with the company’s crowdsourced Voicebank to create inclusive, diverse and brand aligned voices for organizations and individuals with special needs. Rupal began her career as a speech clinician where she became fascinated with the potential of using speech technologies for assistive communication which then led to a doctorate in speech science. Her interdisciplinary research applies empirical evidence about speech motor control to develop novel communication technologies. She is currently on leave from Northeastern University where she is a tenured professor in Bouve College of Health Sciences and The Khoury College of Computer Sciences. A Health Innovation Fellow of the Aspen Institute, Rupal was named one of The Top 11 Visionaries in Voice 2019 by Voicebot.ai and Fast Company’s 100 Most Creative People in Business. Rupal has also been featured on TED, NPR, and in major international news and technology publications around the world.</p>
- <!-- <a href="#patel" data-toggle="modal" class="button-small mt-0">Get to know Rupal</a> -->
+ <a href="#patel" data-toggle="modal" class="button-small mt-0">Get to know Rupal</a>
 
  <hr>
 
@@ -140,6 +151,41 @@
          </div>
      </div>
  </div>
+ <div class="modal fade" id="lieber">
+     <div class="modal-dialog modal-dialog-centered modal-lg">
+         <div class="modal-content">
+             <h2>Get to know Rick</h2>
+             <h3 class="mt-0">What can delegates expect to hear from you?</h3>
+             <p><em>A bit of review about “what we know” about muscle in cerebral palsy but also current and future opportunities for discovery and treatment in children with cerebral palsy.</em></p>
+
+             <h3>Highlight the international relevance of your work for delegates?</h3>
+             <p><em>I believe that our work is relevant to the world in that we are one of the few laboratories in the world working on actual skeletal muscle from children with cerebral palsy rather than working on animal models.  The work is slower, because it requires human subjects research, but we believe that it is extremely relevant and offers the promise for development of future therapeutics.</em></p>
+
+             <h3>What key messages will you have for community members and people with lived experience of child-onset disability?</h3>
+             <p><em>There is great hope for the future to help kids with cerebral palsy.  We have new sets of powerful tools, are more closely aligned in purpose, and have better communication than ever.  We are here to help!</em></p>
+
+             <h3>What makes conferences such as this important?</h3>
+             <p><em>It is rare for investigators with such diverse backgrounds to gather around a single purpose—helping our patients with cerebral palsy and working toward their improved lives.  Typically, we gather with folks of the same discipline, not those trying to solve the same problem!</em></p>
+
+             <h3>What is the best piece of advice you could give a student or early career researcher who is attending their first big conference?</h3>
+             <p><em>Follow your passion and intentionally link your cart to great mentors.</em></p>
+
+             <h3>What are you most looking forward to at the Better Together 2022 Conference?</h3>
+             <p><em>I love spending time with my international colleagues and to vibrant and open discussions related to important topics in cerebral palsy patients.</em></p>
+
+             <h3>Do you see any particular benefits of having the conference in Melbourne/ Australia?</h3>
+             <p><em>We have to intentionally get away since it’ such a long trip for everyone.  As a result we probably will not have folks coming in just for a day.  Thus, we can have long and sustained interactions that should lead to new collaborations and experiments.</em></p>
+
+             <h3>Do you have any hobbies outside of your work?</h3>
+             <p><em>I am an avid runner and love playing guitar alone or with friends.  I am also an avid sports fan!</em></p>
+
+             <h3>What was your guilty COVID isolation pleasure?</h3>
+             <p><em>I am boring. I read some great books!</em></p>
+
+             <button type="button" class="close" data-dismiss="modal">x</button>
+         </div>
+     </div>
+ </div>
  <div class="modal fade" id="michie">
      <div class="modal-dialog modal-dialog-centered modal-lg">
          <div class="modal-content">
@@ -170,6 +216,43 @@
 
              <h3>What was your guilty COVID isolation pleasure?</h3>
              <p><em>I don’t do guilt, such an unhelpful emotion! Putting my camera off and do what I want to do during boring meetings was fun.</em></p>
+
+
+             <button type="button" class="close" data-dismiss="modal">x</button>
+         </div>
+     </div>
+ </div>
+ <div class="modal fade" id="patel">
+     <div class="modal-dialog modal-dialog-centered modal-lg">
+         <div class="modal-content">
+             <h2>Get to know Rupal</h2>
+
+             <h3 class="mt-0">What can delegates expect to hear from you?</h3>
+             <p><em>I will be sharing insights from our work on personalized speech synthesis and implications for communication participation. I’ll also share early findings from related work in the area of social identity.</em></p>
+
+             <h3>Highlight the international relevance of your work for delegates?</h3>
+             <p><em>Over the past 6 years, we have recruited voice contributors from 120 countries. I’d like to discuss how crowdsourcing can be utilized to a greater extent to advance research and clinical practice.</em></p>
+
+             <h3>What key messages will you have for community members and people with lived experience of child-onset disability?</h3>
+             <p><em>The medical model of Speech and Language Pathology tends to focus on loss of function in comparison to typically development. I believe that child-onset disability alters almost every aspect of development not just the core area of impairment. There are compensatory skills that are learned and difficult to neatly separate from the impairment. I think that we could better serve this population by studying and treating their residual abilities rather than focus on how those skills differ from typical development.</em></p>
+
+             <h3>What makes conferences such as this important?</h3>
+             <p><em>Conferences such as this bring together researchers, clinicians, advocates, those living with communication impairment and others from different perspectives which is key to gaining a more comprehensive understanding of complex issues. It’s also amazing how conversations in between talks or at the breaks can provide key insights and lead to friendships and collaborations that last a lifetime.</em></p>
+
+             <h3>What is the best piece of advice you could give a student or early career researcher who is attending their first big conference?</h3>
+             <p><em>When you make a list of the presentations you want to see, make at least 10% in areas that you think you are not really interested in. I think we tend to close off our interests too early. You’ll be surprised that you’ll actually learn more in those sessions than attending talks in areas you are already passionate about. I would also spend time in the exhibit hall and the poster sessions because you often learn more when you can actively participate in the learning. Last, if there are particular people you want to meet, try to set that up ahead of time.</em></p>
+
+             <h3>What are you most looking forward to at the Better Together 2022 Conference?</h3>
+             <p><em>I am looking forward to learning more about how researchers and clinicians are thinking of incorporating advances in technology into their research/clinical practice. What are their hopes, fear and opportunities.</em></p>
+
+             <h3>Do you see any particular benefits of having the conference in Melbourne/ Australia?</h3>
+             <p><em>I haven’t been to Melbourne before but from what I understand, it’s a major city that is accessible and thus makes a perfect venue for this type of conference.  The University and local hospitals will also help to attract a critical mass for the meeting.</em></p>
+
+             <h3>Do you have any hobbies outside of your work?</h3>
+             <p><em>I love almost any form of art – painting, drawing, sculpture, cooking. I enjoy making art and enjoying that created by others.</em></p>
+
+             <h3>What was your guilty COVID isolation pleasure?</h3>
+             <p><em>I never used to watch TV. We don’t even have cable. But now, I find myself binging on Netflix every once in a while to escape the boredom of everyday life. It’s usually a binge session every couple weeks.</em></p>
 
 
              <button type="button" class="close" data-dismiss="modal">x</button>
