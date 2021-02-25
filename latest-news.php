@@ -13,7 +13,13 @@
         "items": [
             // UPDATE THIS
             {
-               "date": "Monday, January 25 2020",
+               "date": "Thursday, February 25 2021",
+               "img": "7.jpg",
+                "title": "Call for abstracts now open for Better Together 2022",
+                "link": "https://mailchi.mp/27d4f3819788/call-for-abstracts-now-open-for-better-together-2022"
+            },
+            {
+               "date": "Monday, January 25 2021",
                "img": "6.jpg",
                 "title": "Better Together Celebrating a New Year",
                 "link": "https://mailchi.mp/72221d6d77f4/better-together-2022-celebrating-a-new-year"
