@@ -30,17 +30,17 @@
             <div class="col-12 col-lg-8">
                 <table class="key-dates" cellpadding="15" cellspacing="0" border="0" width="100%">
                     <tr align="center" class="heading"><th>Key Dates</th></tr>
-                    <tr align="center" class="sub-heading"><th><a href="call-for-symposia.php">Collaborative International Symposia Call</a></th></tr>
+                    <tr align="center" class="sub-heading"><th>Collaborative International Symposia Call</th></tr>
                         <tr align="center"><td>Now Closed</td></tr>
                         <tr align="center" bgcolor="#f2f2f2"><td>Announced January 2021</td></tr>
-                    <tr align="center" class="sub-heading"><th>Free Paper/Poster/Instructional Course</th></tr>
+                    <tr align="center" class="sub-heading"><th><a href="./call-for-abstracts.php">Free Paper/Poster/Instructional Course</a></th></tr>
                         <tr align="center"><td>Open February 2021</td></tr>
                         <tr align="center" bgcolor="#f2f2f2"><td>Close April 2021</td></tr>
                         <tr align="center"><td>Notify August 2021</td></tr>
                     <tr align="center" class="sub-heading"><th>Registration</th></tr>
                         <tr align="center" bgcolor="#f2f2f2"><td>Opens March 2021</td></tr>
                         <tr align="center"><td>Early bird closes December 2021</td></tr>
-                    <tr align="center" class="sub-heading"><th>Scholarship Applications</th></tr>
+                    <tr align="center" class="sub-heading"><th><a href="./scholarships.php">Scholarship Applications</a></th></tr>
                         <tr align="center" bgcolor="#f2f2f2"><td>Open February 2021</td></tr>
                         <tr align="center"><td>Close April 2021</td></tr>
                         <tr align="center" bgcolor="#f2f2f2"><td>Notify August 2021</td></tr>
