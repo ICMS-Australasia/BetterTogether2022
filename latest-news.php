@@ -13,6 +13,12 @@
         "items": [
             // UPDATE THIS
             {
+               "date": "Monday, March 8 2021",
+               "img": "8.jpg",
+                "title": "Celebrating International Women’s Day",
+                "link": "https://mailchi.mp/3c43ccbcf381/celebrating-international-womens-day"
+            },
+            {
                "date": "Thursday, February 25 2021",
                "img": "7.jpg",
                 "title": "Call for abstracts now open for Better Together 2022",
