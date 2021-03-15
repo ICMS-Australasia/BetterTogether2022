@@ -616,7 +616,6 @@
         <a href="#p${i}e${index}" data-toggle="modal" class="col-md-12">
           <p class="my-0"><b>${entry.title}</b></p>
           <p class="mt-0"><em>${entry.presenters}</em></p>
-          <hr>
         </a>
         <div class="modal fade" id="p${i}e${index}">
             <div class="modal-dialog modal-dialog-centered modal-lg">
