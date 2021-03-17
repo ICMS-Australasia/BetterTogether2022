@@ -95,7 +95,7 @@ He established a population-based register for children with cerebral palsy (CP)
      <div class="modal-dialog modal-dialog-centered modal-lg">
          <div class="modal-content">
              <h2>Get to know Gulam</h2>
-             <h3>What can delegates expect to hear from you?</h3>
+             <h3 class="mt-3">What can delegates expect to hear from you?</h3>
              <p><em>Epidemiology (determinants and distribution) of CP in low resource settings, practical experience of setting up surveillance mechanisms (e.g. CP registers) in low resource settings, research needs and opportunities for collaboration.</em></p>
 
              <h3>Highlight the international relevance of your work for delegates?</h3>
