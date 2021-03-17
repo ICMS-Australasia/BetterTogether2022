@@ -6,6 +6,17 @@
  <h4><em>More speakers to be announced soon</em></h4>
 
 
+ <img src="img/keynote/khandaker.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
+ <h2 class="mb-0">Prof. Gulam Khandaker</h2>
+ <h3 class="mt-0">Australia</h3>
+
+ <p>Prof Khandaker is recognized nationally and internationally for his work in public health and international childhood disability research. He was trained in Paediatrics and Public Health Medicine at the Children's Hospital at Westmead and National Centre for Immunisation Research and Surveillance (NCIRS). His current position is Director of Public Health and Director of Medical Research for the Central Queensland Hospital and Health Service.
+He established a population-based register for children with cerebral palsy (CP) in Bangladesh and is now leading an international multi-centre register of children with CP in low and middle-income countries (Global LMIC CP Register: GLM-CPR) in collaboration with over 30 organizations from 10 in low and middle-income countries in Asia, Africa and South America. Prof Khandaker has research collaborations in Australia, Bangladesh, Indonesia, Nepal, Sri Lanka, Vietnam, Zimbabwe, Ghana, Suriname and Saudi Arabia.</p>
+
+ <a href="#khandaker" data-toggle="modal" class="button-small mt-0">Get to know Gulam</a>
+
+ <hr>
+
  <img src="img/keynote/king.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
  <h2 class="mb-0">Prof. Gillian King</h2>
  <h3 class="mt-0">Canada</h3>
@@ -80,6 +91,41 @@
  <a href="#shakespeare" data-toggle="modal" class="button-small mt-0">Get to know Tom</a>
 
  <!-- Modal Content -->
+ <div class="modal fade" id="khandaker">
+     <div class="modal-dialog modal-dialog-centered modal-lg">
+         <div class="modal-content">
+             <h2>Get to know Gulam</h2>
+             <h3>What can delegates expect to hear from you?</h3>
+             <p><em>Epidemiology (determinants and distribution) of CP in low resource settings, practical experience of setting up surveillance mechanisms (e.g. CP registers) in low resource settings, research needs and opportunities for collaboration.</em></p>
+
+             <h3>Highlight the international relevance of your work for delegates?</h3>
+             <p><em>My work involves the majority world population (i.e. the low- and middle-income countries). It is estimated that there are 50 million people with CP globally of which 80% lives in LMICs.</em></p>
+
+             <h3>What key messages will you have for community members and people with lived experience of child-onset disability?</h3>
+             <p><em>I will share the voice of those living in extremely difficult conditions, marginalised and barely have access to any form of early intervention, rehabilitation.</em></p>
+
+             <h3>What makes conferences such as this important?</h3>
+             <p><em>This is one of the biggest gathering of clinicians, researchers, academics working on cerebral palsy and other disabilities.</em></p>
+
+             <h3>What is the best piece of advice you could give a student or early career researcher who is attending their first big conference?</h3>
+             <p><em>Meet with people, say hello, introduce yourself, attend all the social (and scientific) events, and take these opportunities to collaborate.</em></p>
+
+             <h3>What are you most looking forward to at the Better Together 2022 Conference?</h3>
+             <p><em>I am hopeful that by Mar 2022, life would return to some degree of normality, and this conference would give us the opportunity to come together as a group, collaboratively and effectively to share our ideas and work on CP and developmental medicine.</em></p>
+
+             <h3>Do you see any particular benefits of having the conference in Melbourne/ Australia?</h3>
+             <p><em>I am Queenslander, so, I rather not comment on this 😊 Melbourne is a great city, looking forward to enjoying the food and vibe of Melbourne.</em></p>
+
+             <h3>Do you have any hobbies outside of your work?</h3>
+             <p><em>Cooking and gardening (host and chef at philosopher’s kitchen (a boutique restaurant), where attendance is only by invitation for those with an open mind and taste for imagination)</em></p>
+
+             <h3>What was your guilty COVID isolation pleasure?</h3>
+             <p><em>As a frontline HCW I was working throughout the pandemic and did not really need to isolate.</em></p>
+
+             <button type="button" class="close" data-dismiss="modal">x</button>
+         </div>
+     </div>
+ </div>
  <div class="modal fade" id="o-flaherty">
      <div class="modal-dialog modal-dialog-centered modal-lg">
          <div class="modal-content">
