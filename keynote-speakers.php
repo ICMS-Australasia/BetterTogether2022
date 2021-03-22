@@ -6,7 +6,7 @@
  <h4><em>More speakers to be announced soon</em></h4>
 
 
- <img src="img/keynote/huppi.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
+ <img src="img/keynote/huppi.jpg" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
  <h2 class="mb-0">Prof. Petra S. Hüppi</h2>
  <h3 class="mt-0">Switzerland</h3>
 
