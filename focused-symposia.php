@@ -67,7 +67,7 @@
                <li>Explore a framework for future research in LMICs, including an Asia-Pacific collaborative research network.</li>
              </ol>
              `,
-           "presenters": "DrPH Candidate, MSc  Antony Duttine"
+           "presenters": "Dr Antony Duttine, A/Prof Egmar Longo, Prof Tracey Smythe, Dr Alessandra Carvalho, Prof Ana Carolina, Prof Miriam Calheiros"
          },
          {
            "title": "Early assessment and intervention for children with Cerebral Visual Impairment and Cerebral Palsy in Low Resource Settings",
@@ -125,23 +125,7 @@
                <li>promote inclusive innovation for the development of technological solutions for children with disabilities.</li>
              </ul>
              `,
-           "presenters": "Dr Christelle Pons"
-         }
-       ]
-     },
-     // Early detection, neonatal care and early interventions
-     {
-       "theme": "Early detection, neonatal care and early interventions",
-       "entries": [
-         {
-           "title": "Neuroimaging of early brain development in preterm infants – from research to clinical practice",
-           "abstract":
-            `
-             <p>Infants born preterm are at an increased risk of adverse neurodevelopmental outcomes including cerebral palsy, autism spectrum disorder, and intellectual disability; amongst others. The impact of these conditions can be ameliorated by targeting interventions at a very young age, when neuroplasticity is greatest. Gaining a deeper understanding of normal and abnormal early brain development in the neonatal period is key to developing earlier predictors of outcomes, enabling early intervention and allowing assessment of the brain’s response.</p>
-             <p>The preterm neonate undergoes rapid brain development in the postnatal period to term equivalent age. Neuroimaging, including MRI and EEG, provide valuable insights into brain injury, as well as structural and functional changes in this period. Clinical MRI identifies gross brain abnormalities indicative of adverse outcomes, and semi-quantitative approaches can be used to interrogate brain growth. Advanced MRI provides detailed insights into brain development, including changes in morphology (cortical folding, volumes of individual brain regions) and microstructure (myelination, organisation); while advanced EEG elucidates brain connectivity. Measures obtained from advanced MRI and EEG have shown to be associated with neurodevelopmental outcomes and could augment clinical MRI interpretation; however, translation into clinical practice remains challenging.</p>
-             <p>This symposium brings together experts from clinical and research backgrounds from four countries (Australia, Italy, UK, USA) to present the current state of early brain neuroimaging, and discuss barriers and opportunities for translation into clinical practice.</p>
-            `,
-           "presenters": "Dr. Kerstin Pannek"
+           "presenters": "Dr Christelle Pons, Bryce Johnson, Alain Chatelin, Dr Luca Randazzo, Dr Johanne Mensah, Prof Jan Willem Gorter, Farida Bedwei"
          }
        ]
      },
@@ -155,7 +139,7 @@
             `
              <p>The COVID-19 Pandemic has influenced families, caregivers, health care providers and children with disabilities around the globe. As an international task force of over 50 health care providers from over 30 countries, we teamed together to create the IAACD COVID-19 Task Force. Three working subgroups were organized as follows: Listening and Sharing sessions, Resources and Surveys. As we met throughout the pandemic, our unified understanding of the impact and the means to cope and recover through this challenge provided pivotal examples of worldwide comparisons and contrasts. By understanding the impact, we can further understand the opportunities for improvement to promote the health and rights of children with disabilities and their support systems through and beyond COVID-19. This focused symposium will consist of a series of trans-disciplinary and international presentations. Attendees will engage in active discussions about that which each of the three subgroups within the Task Force developed and learned.</p>
             `,
-           "presenters": "Prof. Bernadette Gillick"
+           "presenters": "Prof. Bernadette Gillick, Dr Arnab Seal, Prof Alicia Spittle, Jenny Carroll. Mairead Dempsey, Katarzyna Swieczkowska, Dr Veronica Schiariti"
          }
        ]
      },
@@ -214,7 +198,7 @@
              <p>Knowledge translation (KT) from research to clinical practice and implementation of evidence-based practice is often hindered by a number of barriers. The complexity of scientific language and the applicability of research that is generated largely in high income countries may be important barriers for the effective application of knowledge. Children with CP and their families often do not have access to the latest scientific evidence, or may have a limited understanding of what is applicable to their reality. In many low-and-middle incoming countries (LMIC), as those in Latin-American, there are added barriers to KT to include the actual language in which most scientific evidence is published (English), and the challenges in applying research produced in high income countries to the sociodemographic characteristics of the population, and the limited financial and professional training capacity of health and rehabilitation services and professionals.</p>
              <p>This focused symposium will consist of a series of transdisciplinary presentations sharing some solutions for breaking barriers to KT, particularly in LMIC, using the example of one KT organization in Brazil. Attendees will be invited to contribute with challenges encountered in their context and to discuss solutions that can be replicated and foster international collaborations.</p>
              `,
-           "presenters": "Ms. Beatriz Vieira, Dr. Marisa Mancini, Mrs. Marina Airoldi, Dr. Marina Brandão, Dr. Peter Rosenbaum"
+           "presenters": "Ms. Beatriz Vieira, Dr. Marisa Mancini, Mrs. Marina Airoldi, Dr. Marina Brandão, Prof. Peter Rosenbaum"
          },
          {
            "title": "Bringing the “F-Words for Child Development” to Life: Lessons Learned from Global Implementation Efforts",
@@ -240,6 +224,22 @@
              `,
            "presenters": "Alex Pagnozzi"
          },
+       ]
+     },
+     // Early detection, neonatal care and early interventions
+     {
+       "theme": "Early detection, neonatal care and early interventions",
+       "entries": [
+         {
+           "title": "Neuroimaging of early brain development in preterm infants – from research to clinical practice",
+           "abstract":
+            `
+             <p>Infants born preterm are at an increased risk of adverse neurodevelopmental outcomes including cerebral palsy, autism spectrum disorder, and intellectual disability; amongst others. The impact of these conditions can be ameliorated by targeting interventions at a very young age, when neuroplasticity is greatest. Gaining a deeper understanding of normal and abnormal early brain development in the neonatal period is key to developing earlier predictors of outcomes, enabling early intervention and allowing assessment of the brain’s response.</p>
+             <p>The preterm neonate undergoes rapid brain development in the postnatal period to term equivalent age. Neuroimaging, including MRI and EEG, provide valuable insights into brain injury, as well as structural and functional changes in this period. Clinical MRI identifies gross brain abnormalities indicative of adverse outcomes, and semi-quantitative approaches can be used to interrogate brain growth. Advanced MRI provides detailed insights into brain development, including changes in morphology (cortical folding, volumes of individual brain regions) and microstructure (myelination, organisation); while advanced EEG elucidates brain connectivity. Measures obtained from advanced MRI and EEG have shown to be associated with neurodevelopmental outcomes and could augment clinical MRI interpretation; however, translation into clinical practice remains challenging.</p>
+             <p>This symposium brings together experts from clinical and research backgrounds from four countries (Australia, Italy, UK, USA) to present the current state of early brain neuroimaging, and discuss barriers and opportunities for translation into clinical practice.</p>
+            `,
+           "presenters": "Dr. Kerstin Pannek, Prof Rod Hunt, Dr Simona Fiori, Dr Antonis Makropoulos, Prof. Jessica Rose, Dr Rachel Vasser, Dr James Roberts "
+         }
        ]
      },
      // New technologies, innovations and robotics
@@ -355,7 +355,7 @@
              `
              <p>Guided by the International Classification of Functioning, Disability and Health (ICF), participation is currently considered the main outcome of pediatric rehabilitation. Despite this, many countries still face challenges in implementing participation-focused practices for children with disabilities. The main reason is that many validated participation measurement tools were originally developed in English speaking countries, such as Canada, United States and Australia. In order to address this issue, the use of a rigorous methodological process is critical, encompassing  translation, cross-cultural adaptation and validation stages. In this symposium, researchers from Spain, Portugal, Brazil and Colombia will discuss the methodological similarities and differences for obtaining valid and reliable instruments for participation assessment in their countries. In addition, the participation patterns of children with disabilities evaluated using the Participation and Environment Measure – Children and Youth (PEM-CY), Young Children’s Participation and Environment Measure (YC-PEM), Children's Assessment of Participation and Enjoyment (CAPE) and Preferences for Activities of Children (PAC) measures will be presented, enabling  a rich discussion on barriers and facilitators in different countries, paths for context-focused interventions and possibilities for a collaborative network in future research.</p>
              `,
-           "presenters": "PhD Rachel Teplicky"
+           "presenters": "PhD Rachel Teplicky, A/Prof Egmar Longo, Prof Ana Carolina de Campos, Prof Lida Gil Obando, Prof Maria Gomez-Vela, Fabio Vila-Nova, Prof Cristina Sa, Prof Hercules Ribeiro Leite"
          },
        ]
      },
@@ -369,7 +369,7 @@
              `
              <p>Reviews of efficacious treatment approaches for children with cerebral palsy (CP) indicate two commonalities: 1) use of "motor learning-based treatment approach," and 2) sufficient intensity of treatment. However careful examination of the literature reveals that the term "Motor Learning Treatment Approach" is rarely qualified with sufficient description. We will describe what a "Motor Learning-based Treatment Approach" is, including the minimum common requirements and various interpretations and examples of implementation across different sites and ages. We bring together three unique teams to discuss their interpretations and provide examples, with focus on the commonalities and differences of opinion and practice, and how improved function relates to "Better Together."</p>
              `,
-           "presenters": "Prof. Andrew Gordon"
+           "presenters": "Prof. Andrew Gordon, A/Prof Leanne Sakzewski, Prof. Yannick Bleyenheuft"
          },
        ]
      },
