@@ -85,13 +85,14 @@
                                             Registration <i class="fas fa-angle-down ml-1"></i>
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                          <a class="dropdown-item" href="registration.php">Registration</a>
                                           <a class="dropdown-item" href="scholarships.php">Scholarships</a>
                                             <!-- <a class="dropdown-item" href="program.php">Scholarships</a> -->
                                             <a class="dropdown-item" href="visa-information.php">Visa Information</a>
                                             <!-- <a class="dropdown-item" href="speakers.php">Accommodation</a> -->
                                             <!-- <a class="dropdown-item" href="speakers.php">Social Functions</a> -->
                                             <!-- <a class="dropdown-item" href="speakers.php">Wellness Activities</a> -->
-                                            <!-- <a class="dropdown-item" href="speakers.php">Cancellation Terms & Conditions</a> -->
+                                            <a class="dropdown-item" href="terms-and-conditions.php">Terms & Conditions</a>
                                         </div>
                                     </li>
                                     <li class="nav-item dropdown">
