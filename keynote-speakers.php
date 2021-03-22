@@ -6,6 +6,19 @@
  <h4><em>More speakers to be announced soon</em></h4>
 
 
+ <img src="img/keynote/huppi.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
+ <h2 class="mb-0">Prof. Petra S. Hüppi</h2>
+ <h3 class="mt-0">Switzerland</h3>
+
+<p>Prof. Petra Susan Hüppi is Professor of Paediatrics and Director of the Division of Child Development and Growth at the Geneva University Hospitals, Switzerland. She is currently the Vice-dean of the Medical Faculty of the University of Geneva and member of the board of trustees of the University of Zurich. She also directs the <a href="https://www.campusbiotech.ch/index.php/en/node/468" target="_blank">ChildLab at the Campus Biotech</a> of the University of Geneva, Switzerland.</p>
+<p>Trained as a clinician in pediatrics, specialist in newborn medicine and developmental pediatrics, her research is focused on the study of the developing brain, the application of magnetic resonance (MR) techniques to relate brain structure and function to the neurodevelopmental outcome of high risk newborns. She has international research activities with a visiting scientist position at Harvard Medical School in Boston, USA. She has directed numerous research projects both at Harvard Medical School and the University of Geneva, aimed at the better understanding of early human brain development both from a nature and nurture perspective. Her research has helped in a major way to understand the specific brain deficits found in prematurely born children, highly relevant for the cognitive and socio-emotional development of children and adolescents.</p>
+<p>Her international status is further documented through her various commitments in major scientific societies and organizations. Currently she serves as a Vice president of the European Society for Pediatric Research, is honorary Fellow of the International Society for Magnetic Resonance in Medicine (ISMRM).</p>
+<p>In order to join forces to study scientifically both the care and medical interventions on children’s long-term development, she founded the <a href="http://www.eadcare.org/site/en/" target="_blank">European association for developmental care</a>.</p>
+
+ <a href="#huppi" data-toggle="modal" class="button-small mt-0">Get to know Petra</a>
+
+ <hr>
+
  <img src="img/keynote/khandaker.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
  <h2 class="mb-0">Prof. Gulam Khandaker</h2>
  <h3 class="mt-0">Australia</h3>
@@ -91,6 +104,33 @@ He established a population-based register for children with cerebral palsy (CP)
  <a href="#shakespeare" data-toggle="modal" class="button-small mt-0">Get to know Tom</a>
 
  <!-- Modal Content -->
+ <div class="modal fade" id="huppi">
+     <div class="modal-dialog modal-dialog-centered modal-lg">
+         <div class="modal-content">
+             <h2>Get to know Petra</h2>
+             <h3 class="mt-3">What can delegates expect to hear from you?</h3>
+             <p><em>I will present data on how neuroimaging can help assess the developing brain, how brain structure and function matures and the effect of sensorial activity on brain maturation from the newborn to adolescence.</em></p>
+             <h3>Highlight the international relevance of your work for delegates?</h3>
+             <p><em>Prematurity is a worldwide problem and findings ways to reduce the burden of neurodevelopmental consequences  is of international relevance. We developed ways of using easy to use developmental care interventions (music, mindfulness) to improve neurodevelopmental outcome</em></p>
+             <h3>What key messages will you have for community members and people with lived experience of child-onset disability?</h3>
+             <p><em>Understanding the structural and functional basis of child-onset disability provides means to develop brain based developmental care interventions .</em></p>
+             <h3>What makes conferences such as this important?</h3>
+             <p><em>Meetings that bring together patients, parents, professionals and scientists will help advance medicine and care for us all. .</em></p>
+             <h3>What is the best piece of advice you could give a student or early career researcher who is attending their first big conference?</h3>
+             <p><em>Listen-reflect-challenge views and have a great time socializing.</em></p>
+             <h3>What are you most looking forward to at the Better Together 2022 Conference?</h3>
+             <p><em>Interacting with patients parents professionals and scientists and learn more about what is important in child onset disability.</em></p>
+             <h3>Do you see any particular benefits of having the conference in Melbourne/ Australia?</h3>
+             <p><em>Roger Federer loves Melbourne so where else could it be.</em></p>
+             <h3>Do you have any hobbies outside of your work?</h3>
+             <p><em>My work is my hobby and if I really need a break you will find me on the golf course</em></p>
+             <h3>What was your guilty COVID isolation pleasure?</h3>
+             <p><em>MMh… never was really isolated went to work every day-but maybe eating one to many chocolates (very efficient antidepressant).</em></p>
+
+             <button type="button" class="close" data-dismiss="modal">x</button>
+         </div>
+     </div>
+ </div>
  <div class="modal fade" id="khandaker">
      <div class="modal-dialog modal-dialog-centered modal-lg">
          <div class="modal-content">
