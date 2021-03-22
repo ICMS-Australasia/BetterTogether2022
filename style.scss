@@ -130,10 +130,40 @@ a {
 			}
 		}
 	}
+	.banner-covid {
+		position: relative;
+		img {
+			object-fit: cover; object-position: center center;
+			height: 250px;
+			transition: 0.2s ease-in-out;
+			filter: brightness(70%);
+		}
+		p {
+			color: white;
+			font-weight: bold; font-size: 2.3em;
+			top: 110px;
+			bottom: 0px;
+			padding-left: 1em;
+			line-height: 1.3em;
+			transition: 0.2s ease-in-out;
+			span {
+				font-size: 1.3em;
+				text-decoration: underline;
+			}
+		}
+		&:hover {
+			p {
+				transform: scale(1.03);
+			}
+			img {
+				filter: brightness(95%);
+			}
+		}
+	}
 	.banner-eoi {
 		position: relative;
 		img {
-			object-fit: none; object-position: 30% 60%;
+			object-fit: none; object-position: 70% 60%;
 			height: 250px;
 			transition: 0.2s ease-in-out;
 			filter: brightness(100%);
@@ -355,6 +385,25 @@ a {
             }
         }
     }
+		.reg-table {
+			th {
+				background-color: $teal;
+				color: white;
+				padding: 10px;
+				font-size: 1.2em;
+				span {
+					font-size:0.8em;
+					font-weight: normal;
+				}
+			}
+			td {
+				border: 1px solid #e0e0e0;
+			}
+			.highlight {
+				font-weight: bold;
+				background-color: lighten($mustard, 30%);
+			}
+		}
 }
 
 .footer {

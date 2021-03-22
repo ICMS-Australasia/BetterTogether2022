@@ -118,11 +118,35 @@ a {
       transform: scale(1.04); }
     .content .banner-welcome:hover img {
       filter: brightness(100%); }
+  .content .banner-covid {
+    position: relative; }
+    .content .banner-covid img {
+      object-fit: cover;
+      object-position: center center;
+      height: 250px;
+      transition: 0.2s ease-in-out;
+      filter: brightness(70%); }
+    .content .banner-covid p {
+      color: white;
+      font-weight: bold;
+      font-size: 2.3em;
+      top: 110px;
+      bottom: 0px;
+      padding-left: 1em;
+      line-height: 1.3em;
+      transition: 0.2s ease-in-out; }
+      .content .banner-covid p span {
+        font-size: 1.3em;
+        text-decoration: underline; }
+    .content .banner-covid:hover p {
+      transform: scale(1.03); }
+    .content .banner-covid:hover img {
+      filter: brightness(95%); }
   .content .banner-eoi {
     position: relative; }
     .content .banner-eoi img {
       object-fit: none;
-      object-position: 30% 60%;
+      object-position: 70% 60%;
       height: 250px;
       transition: 0.2s ease-in-out;
       filter: brightness(100%); }
@@ -290,6 +314,19 @@ a {
       opacity: 1; }
     .content .things-to-do .over:focus {
       opacity: 1; }
+  .content .reg-table th {
+    background-color: #07948A;
+    color: white;
+    padding: 10px;
+    font-size: 1.2em; }
+    .content .reg-table th span {
+      font-size: 0.8em;
+      font-weight: normal; }
+  .content .reg-table td {
+    border: 1px solid #e0e0e0; }
+  .content .reg-table .highlight {
+    font-weight: bold;
+    background-color: #f4eeb2; }
 
 .footer {
   background: #008265;

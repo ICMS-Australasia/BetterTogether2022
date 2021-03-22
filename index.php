@@ -15,10 +15,16 @@
                     </div>
                 </a>
             </div>
-            <div class="col-12 mb-5 banner-eoi">
-                <a href="https://icmsaust.eventsair.com/ausacpdmiaacd-2022---childhood-disabilities/expression-of-interest" target="_blank">
+            <div class="col-12 col-md-6 mb-5 banner-eoi">
+                <a href="./registration.php">
                     <img src="./img/banner-eoi.png" class="img-fluid" width="100%">
                     <p class="position-absolute my-0">Register your <br> <span>Expression of Interest</span></p>
+                </a>
+            </div>
+            <div class="col-12 col-md-6 mb-5 banner-covid">
+                <a href="https://covid19.homeaffairs.gov.au/travel-restrictions" target="_blank">
+                    <img src="./img/banner-covid.jpg" class="img-fluid" width="100%">
+                    <p class="position-absolute my-0">What we know today </span></p>
                 </a>
             </div>
             <!-- <div class="col-6 mb-5 banner-member">
@@ -30,27 +36,23 @@
             <div class="col-12 col-lg-8">
                 <table class="key-dates" cellpadding="15" cellspacing="0" border="0" width="100%">
                     <tr align="center" class="heading"><th>Key Dates</th></tr>
-                    <tr align="center" class="sub-heading"><th>Collaborative International Symposia Call</th></tr>
-                        <tr align="center"><td>Now Closed</td></tr>
-                        <tr align="center" bgcolor="#f2f2f2"><td>Announced January 2021</td></tr>
-                    <tr align="center" class="sub-heading"><th><a href="./call-for-abstracts.php">Free Paper/Poster/Instructional Course</a></th></tr>
-                        <tr align="center"><td>Open February 2021</td></tr>
-                        <tr align="center" bgcolor="#f2f2f2"><td>Close April 2021</td></tr>
-                        <tr align="center"><td>Notify August 2021</td></tr>
-                    <tr align="center" class="sub-heading"><th>Registration</th></tr>
-                        <tr align="center" bgcolor="#f2f2f2"><td>Opens March 2021</td></tr>
-                        <tr align="center"><td>Early bird closes December 2021</td></tr>
-                    <tr align="center" class="sub-heading"><th><a href="./scholarships.php">Scholarship Applications</a></th></tr>
-                        <tr align="center" bgcolor="#f2f2f2"><td>Open February 2021</td></tr>
-                        <tr align="center"><td>Close April 2021</td></tr>
-                        <tr align="center" bgcolor="#f2f2f2"><td>Notify August 2021</td></tr>
-                    <tr align="center" class="sub-heading"><th>Late breaking abstracts</th></tr>
-                        <tr align="center"><td>Open September 2021</td></tr>
-                        <tr align="center" bgcolor="#f2f2f2"><td>Close December 2021</td></tr>
-                        <tr align="center"><td>Notify January 2022</td></tr>
-                    <tr align="center" class="conference-heading"><th>AusACPDM / IAACD 2022 in Melbourne</th></tr>
-                        <tr align="center"  class="conference"><th>Pre-conference 28th February, 1st March 2022</th></tr>
-                        <tr align="center" class="conference"><th>Conference dates 2nd March - 5th March, 2022</th></tr>
+                    <tr align="center" class="sub-heading"><th><a href="./focused-symposia.php">Focussed Symposia - now announced</a></th></tr>
+                    <tr align="center" class="sub-heading"><th>Pre-Conference Sessions - now announced</th></tr>
+                    <tr align="center" class="sub-heading"><th><a href="./call-for-abstracts.php">Call for Abstracts - now open</a></th></tr>
+                        <tr align="center"><td>Closes 30 April 2021</td></tr>
+                        <tr align="center" bgcolor="#f2f2f2"><td>Announced August 2021</td></tr>
+                    <tr align="center" class="sub-heading"><th><a href="./scholarships.php">Scholarship Applications - now open</a></th></tr>
+                        <tr align="center"><td>Closes 30 April 2021</td></tr>
+                        <tr align="center" bgcolor="#f2f2f2"><td>Announced August 2021</td></tr>
+                    <tr align="center" class="sub-heading"><th><a href="./registration.php">Registration - now open</a></th></tr>
+                        <tr align="center"><td>Early Bird closes 1 November 2021</td></tr>
+                        <tr align="center" class="sub-heading"><th><a href="./call-for-abstracts.php">Late Breaking Abstracts</a></th></tr>
+                        <tr align="center"><td>Opens September 2021</td></tr>
+                        <tr align="center" bgcolor="#f2f2f2"><td>Closes December 2021</td></tr>
+                        <tr align="center"><td>Announced January 2022</td></tr>
+                    <tr align="center" class="conference-heading"><th>Better Together 2022</th></tr>
+                        <tr align="center"  class="conference"><th>Pre-conference Sessions, 1 - 2 March 2022</th></tr>
+                        <tr align="center" class="conference"><th>Conference dates 2 - 5 March 2022</th></tr>
                 </table>
             </div>
             <div class="col-12 col-lg-4 mt-5 mt-lg-0">
