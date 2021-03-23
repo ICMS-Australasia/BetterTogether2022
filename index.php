@@ -18,7 +18,7 @@
             <div class="col-12 col-md-6 mb-5 banner-eoi">
                 <a href="./registration.php">
                     <img src="./img/banner-eoi.png" class="img-fluid" width="100%">
-                    <p class="position-absolute my-0">Register your <br> <span>Expression of Interest</span></p>
+                    <p class="position-absolute my-0">Register <br> <span>Now!</span></p>
                 </a>
             </div>
             <div class="col-12 col-md-6 mb-5 banner-covid">
@@ -46,7 +46,7 @@
                         <tr align="center" bgcolor="#f2f2f2"><td>Announced August 2021</td></tr>
                     <tr align="center" class="sub-heading"><th><a href="./registration.php">Registration - now open</a></th></tr>
                         <tr align="center"><td>Early Bird closes 1 November 2021</td></tr>
-                        <tr align="center" class="sub-heading"><th><a href="./call-for-abstracts.php">Late Breaking Abstracts</a></th></tr>
+                        <tr align="center" class="sub-heading"><th>Late Breaking Abstracts</th></tr>
                         <tr align="center"><td>Opens September 2021</td></tr>
                         <tr align="center" bgcolor="#f2f2f2"><td>Closes December 2021</td></tr>
                         <tr align="center"><td>Announced January 2022</td></tr>
