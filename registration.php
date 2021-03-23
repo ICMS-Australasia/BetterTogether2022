@@ -33,7 +33,7 @@
 <p>Registration for the AusACPDM/IAACD ‘Better Together’ 2022 Conference is now open. Please read the registration information carefully before beginning the on-line registration.</p>
 <p>Registration can be submitted by completing the on-line form. Both virtual and in person registrations are available via the on-line registration form.</p>
 
- <a href="https://icmsaust.eventsair.com/ausacpdmiaacd-2022---childhood-disabilities/abstractportal" target="_blank" class="button d-block text-center">Registration Form</a>
+ <a href="https://icmsaust.eventsair.com/ausacpdmiaacd-2022---childhood-disabilities/registration-form" target="_blank" class="button d-block text-center">Registration Form</a>
 
 <h2>Registration Fees</h2>
 <p>All fees are quoted in Australian dollars ($AUD) and are inclusive of 10% GST (Goods and Services Tax).</p>
