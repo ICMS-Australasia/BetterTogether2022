@@ -66,6 +66,16 @@ He established a population-based register for children with cerebral palsy (CP)
 
  <hr>
 
+ <img src="img/keynote/miller.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
+ <h2 class="mb-0">Prof. Suzanne Miller</h2>
+ <h3 class="mt-0">Australia</h3>
+
+ <p>Professor Suzie Miller’s training and expertise is in neurodevelopmental physiology. Suzie is an NHMRC Senior Research Fellow (Level B), Deputy Director of The Ritchie Centre at Monash University and the Hudson Institute of Medical Research, and she leads the Neurodevelopment Theme at the Centre. Her research group predominately uses experimental animal models of the primary causes of neonatal brain injury – including intrauterine infection, preterm birth, fetal growth restriction, and perinatal asphyxia - to better understand the progression of neuropathology under compromised conditions, so that targeted interventions can be implemented. Suzie and her clinical and research colleagues are working towards the translation of neuroprotective therapies before or after birth, so that neonatal brain injury can be reduced, and cerebral palsy might be prevented. An example of the translation of positive preclinical results through to clinical trial is evident in the current PROTECT-ME trial of antenatal melatonin for pregnancies complicated by fetal growth restriction; Suzie led the preclinical work to show that melatonin acts as a strong neuroprotective agent for the developing fetal brain, predominantly via melatonin’s anti-oxidant and anti-inflammatory effects. This international trial is currently recruiting and we keenly await results.  </p>
+
+ <a href="#miller" data-toggle="modal" class="button-small mt-0">Get to know Suzanne</a>
+
+ <hr>
+
  <img src="img/keynote/o-flaherty.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
  <h2 class="mb-0">Dr Steve O’Flaherty</h2>
  <h3 class="mt-0">Australia</h3>
@@ -302,6 +312,42 @@ He established a population-based register for children with cerebral palsy (CP)
 
              <h3>What was your guilty COVID isolation pleasure?</h3>
              <p><em>I don’t do guilt, such an unhelpful emotion! Putting my camera off and do what I want to do during boring meetings was fun.</em></p>
+
+
+             <button type="button" class="close" data-dismiss="modal">x</button>
+         </div>
+     </div>
+ </div>
+ <div class="modal fade" id="miller">
+     <div class="modal-dialog modal-dialog-centered modal-lg">
+         <div class="modal-content">
+             <h2>Get to know Suzanne</h2>
+             <h3 class="mt-0">What can delegates expect to hear from you?</h3>
+             <p><em>My talk will present our most recent preclinical data to show the correlation between the progression of neuropathology that occurs with fetal growth restriction (FGR) and functional deficits in the neonatal period, with a particular emphasis on compromised brain connectivity in infants born with fetal growth restriction.</em></p>
+
+             <h3>Highlight the international relevance of your work for delegates?</h3>
+             <p><em>My group have been characterising neuropathology associated with fetal growth restriction for over a decade, and the work I will present at the meeting complements the work of international groups such as that of Professor Petra Huppi (who is also presenting at the meeting) who have shown deficits in brain connectivity using brain imaging. Our work has examined the progression of neuropathology at the individual cellular level, which likely underlies poor brain connectivity.</em></p>
+
+             <h3>What key messages will you have for community members and people with lived experience of child-onset disability?</h3>
+             <p><em>I am really keen to let community members know that my team, and many scientific research teams around the world, are working extremely hard to better understand the mechanisms that cause perinatal brain injury so that interventions and therapies can be in implemented to reduce the progression of brain injury, with the end-goal of preventing disability.</em></p>
+
+             <h3>What makes conferences such as this important?</h3>
+             <p><em>The AusCPDM/ IAACD meeting is a fabulous opportunity to bring together varied expertise, experience and up-to-date results to improve outcomes for individuals with cerebral palsy and childhood disabilities. There is no other conference like it where we can hear from such a large number of speakers all working towards this common goal of improved outcomes.</em></p>
+
+             <h3>What is the best piece of advice you could give a student or early career researcher who is attending their first big conference?</h3>
+             <p><em>I would really encourage students and ECRs to engage and speak with presenters and other meeting attendees. Large meetings can feel a bit intimidating, but it is such a great opportunity to talk to others, make new friends, ask questions and tell others about your own work.</em></p>
+
+             <h3>What are you most looking forward to at the Better Together 2022 Conference?</h3>
+             <p><em>I’m looking forward to carefully highlighting and mapping my timetable so I can get to hear all the sessions and speakers of interest to me! I love that I can go from an in-depth scientific talk on mechanisms that mediate neuropathology, to talks on state-of-the-art brain imaging, through to talks on lived-experiences. It keeps me engaged and I come away having learnt so much.</em></p>
+
+             <h3>Do you see any particular benefits of having the conference in Melbourne/ Australia?</h3>
+             <p><em>This is a great way to showcase Melbourne and the excellent research that is coming out of Victoria and Australia. I really hope that the majority of international speakers and meeting attendees can come in person, because catching-up in person after a day’s talks is a wonderful opportunity to engage with established and new research friends.</em></p>
+
+             <h3>Do you have any hobbies outside of your work?</h3>
+             <p><em>Work takes up a lot of my time, but outside of work I like to relax with my husband and children, not look at emails and take our dog for a run.</em></p>
+
+             <h3>What was your guilty COVID isolation pleasure?</h3>
+             <p><em>Too much chocolate for sure…. And therefore needing to spend a lot more time running!</em></p>
 
 
              <button type="button" class="close" data-dismiss="modal">x</button>
