@@ -279,6 +279,19 @@ a {
       line-height: 1.4; }
     .content .modal-content p:last-of-type {
       margin-bottom: 0 !important; }
+  .content .reg-table th {
+    background-color: #07948A;
+    color: white;
+    padding: 10px;
+    font-size: 1.2em; }
+    .content .reg-table th span {
+      font-size: 0.8em;
+      font-weight: normal; }
+  .content .reg-table td {
+    border: 1px solid #e0e0e0; }
+  .content .reg-table .highlight {
+    font-weight: bold;
+    background-color: #f4eeb2; }
   .content .things-to-do div {
     height: 250px; }
     .content .things-to-do div img {
@@ -314,19 +327,38 @@ a {
       opacity: 1; }
     .content .things-to-do .over:focus {
       opacity: 1; }
-  .content .reg-table th {
-    background-color: #07948A;
+  .content .program td {
+    border: 1px solid #e0e0e0;
+    font-size: 0.9em; }
+  .content .program .heading {
+    background-color: #7BC142;
     color: white;
-    padding: 10px;
+    font-size: 2em; }
+  .content .program .sub-heading {
+    background-color: #96ce68;
+    color: white;
     font-size: 1.2em; }
-    .content .reg-table th span {
+    .content .program .sub-heading span {
       font-size: 0.8em;
-      font-weight: normal; }
-  .content .reg-table td {
-    border: 1px solid #e0e0e0; }
-  .content .reg-table .highlight {
-    font-weight: bold;
-    background-color: #f4eeb2; }
+      font-weight: 400; }
+  .content .program .break {
+    background-color: #f2f2f2;
+    font-size: 1.1em; }
+  .content .program .event-yellow {
+    background-color: #fff8cc;
+    font-size: 1.1em; }
+    .content .program .event-yellow td {
+      border: 1px solid #ffeb66; }
+  .content .program .event-teal {
+    background-color: #d0fdfa;
+    font-size: 1.1em; }
+    .content .program .event-teal td {
+      border: 1px solid #6ff8ee; }
+  .content .program .event-blue {
+    background-color: #dce9f5;
+    font-size: 1.1em; }
+    .content .program .event-blue td {
+      border: 1px solid #b3d0eb; }
 
 .footer {
   background: #008265;

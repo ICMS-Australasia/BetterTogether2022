@@ -1,4 +1,4 @@
-<?php if ($title != "Better Together 2022") { ?>
+<?php if (!in_array($title, array("Better Together 2022", "Program Overview"))) { ?>
 </div>
     <div class="col-12 col-lg-3 mt-5 mt-sm-0">
         <table class="key-dates-side" cellpadding="15" cellspacing="0" border="0" width="100%">

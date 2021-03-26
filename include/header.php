@@ -100,12 +100,13 @@
                                             Program <i class="fas fa-angle-down ml-1"></i>
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" href="scientific-committee.php">Scientific Committee</a>
+                                            <!-- <a class="dropdown-item" href="program-overview.php">Program Overview</a> -->
                                             <a class="dropdown-item" href="call-for-abstracts.php">Call for Abstracts</a>
                                             <a class="dropdown-item" href="keynote-speakers.php">Keynote Speakers</a>
                                             <a class="dropdown-item" href="focused-symposia.php">Focused Symposia</a>
                                             <a class="dropdown-item" href="support-abstract.php">Support for Abstract Submissions</a>
                                             <a class="dropdown-item" href="awards.php">Awards</a>
+                                            <a class="dropdown-item" href="scientific-committee.php">Scientific Committee</a>
                                             <!-- <a class="dropdown-item" href="speakers.php">Program at a Glance</a> -->
                                             <!-- <a class="dropdown-item" href="speakers.php">Full Program</a> -->
                                             <!-- <a class="dropdown-item" href="speakers.php">Early Career Researchers</a> -->
@@ -169,7 +170,13 @@
                 </div>
             </div>
         </div>
-        <?php if ($title != "Better Together 2022") { ?>
+    </div>
+    <?php if ($title == "Program Overview") {?>
+      <div class="container-fluid">
+    <?php } else { ?>
+      <div class="container">
+    <?php } ?>
+        <?php if (!in_array($title, array("Better Together 2022", "Program Overview"))) { ?>
         <div class="row my-4 my-lg-5">
             <div class="col-12 col-lg-9">
                 <h1><?php echo $title ?></h1>
