@@ -1,6 +1,11 @@
-<?php if (!in_array($title, array("Better Together 2022", "Program Overview"))) { ?>
+<?php if (!in_array($title, array("Better Together 2022"))) { ?>
 </div>
-    <div class="col-12 col-lg-3 mt-5 mt-sm-0">
+
+    <div class="col-12 <?php if ($title == "Program Overview") { echo 'col-lg-2'; } else { echo 'col-lg-3'; } ?> mt-5 mt-sm-0">
+      <?php if ($title == "Program Overview") {?>
+        <a href="./focused-symposia.php" class="button-small mx-auto d-block text-center p-4 mb-4">Accepted Focused Symposia</a>
+        <a href="./pre-conference-sessions.php" class="button-small mx-auto d-block text-center p-4 mb-4">Pre-Conference Sessions</a>
+      <?php } ?>
         <table class="key-dates-side" cellpadding="15" cellspacing="0" border="0" width="100%">
             <tr align="center" class="heading"><th>Key Dates</th></tr>
             <tr align="center" class="sub-heading"><th>Call for Abstracts</th></tr>

@@ -172,14 +172,25 @@
         </div>
     </div>
     <?php if ($title == "Program Overview") {?>
+      <div class="container">
+        <div class="row my-4 my-lg-5">
+          <div class="col">
+            <h1><?php echo $title ?></h1>
+            <p>The Better Together 2022 program will be held both in-person and virtually in Melbourne, Australia time. For your convenience we have included other common time zones in the program overview below, alternatively please see the following link to a <a href="https://www.timeanddate.com/worldclock/converter.html" target="_blank">time zone convertor</a>.</p>
+            <p>*This is a preliminary program overview and is subject to change.</p>
+          </div>
+        </div>
+      </div>
       <div class="container-fluid">
     <?php } else { ?>
       <div class="container">
     <?php } ?>
-        <?php if (!in_array($title, array("Better Together 2022", "Program Overview"))) { ?>
+        <?php if (!in_array($title, array("Better Together 2022"))) { ?>
         <div class="row my-4 my-lg-5">
-            <div class="col-12 col-lg-9">
+            <div class="col-12 <?php if ($title == "Program Overview") { echo 'col-lg-10'; } else { echo 'col-lg-9'; } ?>">
+              <?php if ($title != "Program Overview") { ?>
                 <h1><?php echo $title ?></h1>
+              <?php } ?>
         <?php } else { ?>
-        <div class="row my-4 my-lg-0">
+          <div class="row my-4 my-lg-0">
         <?php } ?>

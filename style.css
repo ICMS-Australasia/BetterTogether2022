@@ -335,9 +335,9 @@ a {
     color: white;
     font-size: 2em; }
   .content .program .sub-heading {
-    background-color: #96ce68;
-    color: white;
-    font-size: 1.2em; }
+    background-color: #d0d0d0;
+    color: black;
+    font-size: 1em; }
     .content .program .sub-heading span {
       font-size: 0.8em;
       font-weight: 400; }
@@ -345,20 +345,14 @@ a {
     background-color: #f2f2f2;
     font-size: 1.1em; }
   .content .program .event-yellow {
-    background-color: #fff8cc;
     font-size: 1.1em; }
-    .content .program .event-yellow td {
-      border: 1px solid #ffeb66; }
   .content .program .event-teal {
     background-color: #d0fdfa;
     font-size: 1.1em; }
     .content .program .event-teal td {
       border: 1px solid #6ff8ee; }
   .content .program .event-blue {
-    background-color: #dce9f5;
     font-size: 1.1em; }
-    .content .program .event-blue td {
-      border: 1px solid #b3d0eb; }
 
 .footer {
   background: #008265;
