@@ -5,7 +5,7 @@
 
  <p>Better Together 2022 will be a hybrid format, meaning there are both virtual and in person registration opportunities available. The live in person registration rate is applicable for those attending Better Together 2022 at the Melbourne Convention & Exhibition Centre in Melbourne, Australia. The virtual registration rate is applicable for those attending Better Together 2022 on-line only.</p>
 
- <h2>Benefits of attending Better Together 2022</h2>
+ <h2>Registration Entitlements</h2>
 
  <h3>Virtual Registration Entitlements:</h3>
 <ul>
@@ -51,7 +51,7 @@
     <td colspan="3">In-person Registration Options</td>
   </tr>
   <tr>
-    <td>Member</td>
+    <td><a href="#member">Member</a></td>
     <td align="center">$880</td>
     <td align="center">$990</td>
   </tr>
@@ -61,7 +61,7 @@
     <td align="center">$1,095</td>
   </tr>
   <tr>
-    <td>Student Member</td>
+    <td><a href="#student-member">Student Member</a></td>
     <td align="center">$495</td>
     <td align="center">$595</td>
   </tr>
@@ -71,7 +71,7 @@
     <td align="center">$695</td>
   </tr>
   <tr>
-    <td>Low Resource Nation</td>
+    <td><a href="#low-resource-nation">Low Resource Nation</a></td>
     <td align="center">$495</td>
     <td align="center">$595</td>
   </tr>
@@ -81,26 +81,26 @@
     <td align="center">$595</td>
   </tr>
     <tr>
-      <td>Accompanying Carer</td>
+      <td><a href="#accompanying-carer">Accompanying Carer</a></td>
       <td colspan="2" align="center">$380</td>
     </tr>
     <tr bgcolor="#f2f2f2">
-      <td>One Day Person with Lived Experience</td>
+      <td><a href="#one-day">One Day Person with Lived Experience</a></td>
       <td colspan="2" align="center">$150</td>
     </tr>
     <tr>
-      <td>One Day Accompanying Carer</td>
+      <td><a href="#one-day">One Day Accompanying Carer</a></td>
       <td colspan="2" align="center">$110</td>
     </tr>
     <tr bgcolor="#f2f2f2">
-      <td>One Day Member and Non-Member</td>
+      <td><a href="#one-day">One Day Member and Non-Member</a></td>
       <td colspan="2" align="center">$385</td>
     </tr>
   <tr class="highlight">
     <td colspan="3">Virtual Registration Options</td>
   </tr>
   <tr bgcolor="#f2f2f2">
-    <td>Member</td>
+    <td><a href="#member">Member</a></td>
      <td align="center">$440</td>
      <td align="center">$550</td>
   </tr>
@@ -110,12 +110,12 @@
      <td align="center">$660</td>
   </tr>
   <tr bgcolor="#f2f2f2">
-    <td>Student</td>
+    <td><a href="#student-member">Student</a></td>
      <td align="center">$165</td>
      <td align="center">$275</td>
   </tr>
   <tr>
-    <td>Low Resource Nation</td>
+    <td><a href="#low-resource-nation">Low Resource Nation</a></td>
      <td align="center">$165</td>
      <td align="center">$275</td>
   </tr>
@@ -132,19 +132,19 @@
 <h3>Early Bird Fees</h3>
 <p>In order to receive the early bird registration fee, registrants must register and pay in full by <b>1 November 2021</b>. If payment is not received by this date then registrations will be automatically transferred to the Standard Registration fee.</p>
 
-<h3>Member Registration</h3>
+<h3 id="member">Member Registration</h3>
 <p>To be eligible for Member Registration rates, registrants must be a member of the AusACPDM and be able to provide their academy membership number or alternatively membership of a <a href="https://iaacd.net/about-iaacd/member-academies/" target="_blank">full provisional academy member of the IAACD</a> and be able to provide proof if requested.</p>
 
-<h3>Student Registration</h3>
+<h3 id="student-member">Student Registration</h3>
 <p>To be eligible for Student Registration rates, registrants must be enrolled students undertaking full-time study, and be able to provide evidence of their status if requested to do so.</p>
 
-<h3>Low Resource Nation Registration</h3>
+<h3 id="low-resource-nation">Low Resource Nation Registration</h3>
 <p>To be eligible for the Low Resource Nation Registration you must come from a country on the <a href="https://www.research4life.org/access/eligibility/" target="_blank">HINARI list</a>.</p>
 
-<h3>Accompanying Carer Registration</h3>
+<h3 id="accompanying-carer">Accompanying Carer Registration</h3>
 <p>An Accompanying Carer Registration can be purchased as an add-on to the Person with Lived Experience Registration.</p>
 
-<h3>One Day Registration</h3>
+<h3 id="one-day">One Day Registration</h3>
 <p>One Day Registrations are only available for in-person delegates. Registrants will be asked to select the day that they wish to attend at the time of registration.</p>
 
 <h2>Social Functions</h2>

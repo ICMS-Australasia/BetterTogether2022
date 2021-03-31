@@ -25,11 +25,11 @@
 
  <h2>Accommodation Cancellations</h2>
  <h3>Deadline: 24 January 2022</h3>
- <p>No accommodation payments will be refunded on or after Friday 24 January 2022 <br>
+ <p>No accommodation payments will be refunded on or after Friday 24 January 2022. <br>
    Participants who confirm an accommodation booking with a credit card or full pre-payment and who wish to cancel on or after Friday 24 January 2022 are liable for the full cost of their accommodation nights cancelled. To cancel your reservation, please contact The Accommodation Secretariat at <a href="mailto:accommodation@bettertogether2022.org">accommodation@bettertogether2022.org</a>. Name changes to a reservation can be made at no charge.</p>
- <p>Delegates who confirm attendance by paying a minimum of the first night and do not advise of cancellation before 24 January 2022 the ‘no show’ rate, as penalised by the hotel will be charged to you and your payment will not be refunded. This charge is calculated as the room rate per night multiplied by the dates booked and secured. Please ensure that accommodation dates are correct at time of booking and before 24 January 2022 if any changes are required.</p>
+ <p>Delegates who confirm attendance by paying a minimum of the first night and do not advise of cancellation before 24 January 2022 the ‘no show’ rate, as penalised by the hotel, will be charged to you and your payment will not be refunded. This charge is calculated as the room rate per night multiplied by the dates booked and secured. Please ensure that accommodation dates are correct at time of booking and before 24 January 2022 if any changes are required.</p>
 
- <h3>Change of booking</h3>
+ <h3>Change of accommodation booking</h3>
  <p>Any change in booking must be made in writing to the Conference Secretariat and NOT directly to the hotel before 24 January 2022. Any changes received after 24 January 2022 will be at the hotels discretion and based on availability.</p>
 
  <h3>Early arrival</h3>
