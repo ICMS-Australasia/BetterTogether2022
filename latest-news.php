@@ -13,6 +13,12 @@
         "items": [
             // UPDATE THIS
             {
+               "date": "Thursday, April 1 2021",
+               "img": "9.jpg",
+                "title": "One Month Remains To Submit Your Abstract For Better Together 2022",
+                "link": "https://mailchi.mp/a134b08afb57/one-month-remains-to-submit-your-abstract-for-better-together-2022"
+            },
+            {
                "date": "Monday, March 8 2021",
                "img": "8.jpg",
                 "title": "Celebrating International Women’s Day",
