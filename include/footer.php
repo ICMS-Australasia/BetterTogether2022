@@ -13,7 +13,7 @@
                 <!-- <tr align="center" bgcolor="#f2f2f2"><td>Close April 2021</td></tr>
                 <tr align="center"><td>Notify August 2021</td></tr> -->
             <tr align="center" class="sub-heading"><th>Scholarship Applications</th></tr>
-                <tr align="center"><td>Closes 30 April 2021</td></tr>
+                <tr align="center"><td>Closes 6 June 2021</td></tr>
                 <!-- <tr align="center"><td>Early bird closes December 2021</td></tr> -->
             <tr align="center" class="sub-heading"><th>Early Bird Registration</th></tr>
                 <tr align="center"><td>Closes 1 November 2021</td></tr>

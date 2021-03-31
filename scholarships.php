@@ -61,7 +61,7 @@
 
 <hr class="my-4">
 <h2>Selection Criteria</h2>
-<p>Applications received by 30 April 2021 will be checked for completeness. All complete applications will be forwarded to the International Affairs Committee for review.</p>
+<p>Applications received by 6 June 2021 will be checked for completeness. All complete applications will be forwarded to the International Affairs Committee for review.</p>
 <p>Applications will be reviewed, discussed and scored by the Committee members, with a final decision made by the end of August. Applicants will be notified by 31 August 2021.</p>
 
 <hr class="my-4">
