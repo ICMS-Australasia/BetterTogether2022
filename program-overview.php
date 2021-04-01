@@ -170,9 +170,9 @@
           <td colspan="6"><em>Lunch</em></td>
         </tr>
         <tr>
-          <td align="center">17:30 - 19:00</td>
-          <td align="center">24:30 - 02:00</td>
-          <td align="center">10:30 - 12:00</td>
+          <td align="center">20:00 - 21:30</td>
+          <td align="center">03:00 - 04:30</td>
+          <td align="center">13:00 - 14:30</td>
           <td><em>Workshop Continued...</em></td>
           <td><em>Workshop Continued...</em></td>
           <td><em>Workshop Continued...</em></td>
@@ -238,6 +238,12 @@
           <th align="center">EU/CGM +1 <br> <span>(Stockholm)</span> </th>
           <th align="center">AEDT +11 <br> <span>(Melbourne)</span> </th>
           <th>Sessions</th>
+        </tr>
+        <tr class="event-yellow">
+          <td align="center">13:30 - 14:30</td>
+          <td align="center">20:30 - 21:30</td>
+          <td align="center">06:30 - 07:30</td>
+          <td>Wellness Activity</td>
         </tr>
         <tr class="event-yellow">
           <td align="center">14:15 - 15:15</td>
@@ -317,6 +323,12 @@
           <td align="center">17:45 - 18:00</td>
           <td>Panel Discusion</td>
         </tr>
+        <tr class="event-blue">
+          <td align="center">02:30 - 02:45</td>
+          <td align="center">08:15 - 09:15</td>
+          <td align="center">18:15 - 19:15</td>
+          <td>Poster Sessions</td>
+        </tr>
     </table>
     `,
     `
@@ -333,6 +345,12 @@
           <th align="center">EU/CGM +1 <br> <span>(Stockholm)</span> </th>
           <th align="center">AEDT +11 <br> <span>(Melbourne)</span> </th>
           <th>Sessions</th>
+        </tr>
+        <tr class="event-yellow">
+          <td align="center">13:30 - 14:30</td>
+          <td align="center">20:30 - 21:30</td>
+          <td align="center">06:30 - 07:30</td>
+          <td>Wellness Activity</td>
         </tr>
         <tr class="event-yellow">
           <td align="center">14:15 - 15:15</td>
