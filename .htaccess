@@ -1,5 +1,5 @@
 #Protect a single file
-<Files /downloads/text.html>
+<Files text.html>
   AuthType Basic
   AuthName "Restricted File"
   AuthUserFile /public_html/.htpasswd
