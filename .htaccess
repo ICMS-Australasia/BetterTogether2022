@@ -1,7 +1,7 @@
 #Protect a single file
 <Files /downloads/text.txt>
-AuthType Basic
-AuthName "Prompt-Here"
-AuthUserFile /.htpasswd
-Require valid-user
+  AuthType Basic
+  AuthName "Restricted File"
+  AuthUserFile /public_html/.htpasswd
+  Require valid-user
 </Files>
