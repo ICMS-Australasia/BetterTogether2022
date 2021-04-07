@@ -1,7 +1,0 @@
-#Protect a single file
-<Files text.html>
-  AuthType Basic
-  AuthName "Restricted File"
-  AuthUserFile /public_html/.htpasswd
-  Require valid-user
-</Files>
