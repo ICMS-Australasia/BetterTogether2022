@@ -37,7 +37,7 @@
                 <table class="key-dates" cellpadding="15" cellspacing="0" border="0" width="100%">
                     <tr align="center" class="heading"><th>Key Dates</th></tr>
                     <tr align="center" class="sub-heading"><th><a href="./focused-symposia.php">Focused Symposia - now announced</a></th></tr>
-                    <tr align="center" class="sub-heading"><th>Pre-Conference Sessions - now announced</th></tr>
+                    <tr align="center" class="sub-heading"><th><a href="./pre-conference-sessions.php">Pre-Conference Sessions - now announced</a></th></tr>
                     <tr align="center" class="sub-heading"><th><a href="./call-for-abstracts.php">Call for Abstracts - now open</a></th></tr>
                         <tr align="center"><td>Closes 30 April 2021</td></tr>
                         <tr align="center" bgcolor="#f2f2f2"><td>Announced August 2021</td></tr>
