@@ -255,7 +255,7 @@
           <td align="center">15:30 - 16:00</td>
           <td align="center">22:30 - 23:00</td>
           <td align="center">08:30 - 09:00</td>
-          <td>Paediatric orthopaedics/ Muscle in CP- Prof Rick Leiber (USA)</td>
+          <td>Paediatric orthopaedics/ Muscle in CP- Prof Rick Lieber (USA)</td>
         </tr>
         <tr class="event-blue">
           <td align="center">16:00 - 16:30</td>
@@ -315,7 +315,7 @@
           <td align="center">24:30 - 01:00</td>
           <td align="center">07:15 - 07:45</td>
           <td align="center">17:15 - 17:45</td>
-          <td>Knowledge Translation - Prof Susan Mitchie (UK)</td>
+          <td>Knowledge Translation - Prof Susan Michie (UK)</td>
         </tr>
         <tr class="event-blue">
           <td align="center">01:00 - 01:30</td>
