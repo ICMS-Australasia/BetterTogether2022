@@ -6,7 +6,7 @@
 <p>The AusACPDM/IAACD 2022 will provide the perfect forum for companies actively involved in Cerebral Palsy and Developmental Medicine to promote their products and services.   The Conference will provide multidisciplinary scientific education for health professionals as well as promote excellence in research and best practice clinical care for children and adults with cerebral palsy and developmental conditions.</p>
 <p>There will be many attractive sponsorship and exhibiting opportunities available to increase your company’s awareness to this audience, ranging from small to high level packages.  Packages can also be individually tailored to suit your requirements.</p>
 <h4>Please contact the Sponsorship and Exhibition Director for more information;</h4>
-<p><b>Emma Bowyer</b> <br>
+<p><b>Andrea O'Sullivan</b> <br>
     <a href="mailto:sponsorship@bettertogether2022.org">sponsorship@bettertogether2022.org</a></p>
 
 <h2>Why Sponsor or Exhibit?</h2>
@@ -19,7 +19,8 @@
     <li>Develop business connections and strengthen relationships through face-to-face and virtual engagement</li>
 </ul>
 
-<a href="https://icmsaust.eventsair.com/ausacpdmiaacd-2022---childhood-disabilities/sponsor-exhibitor-eoi/Site/Register" target="_blank" class="button d-block text-center">Express your Interest in Sponsoring</a>
+<a href="./downloads/IAACD2022-Prospectus.pdf" target="_blank" class="button d-block text-center my-4">Download the Supporter and Exhibition Prospectus</a>
+<a href="./downloads/IAACD2022-Application-Form.pdf" target="_blank" class="button d-block text-center my-4">Download the Supporter and Exhibitor Application form</a>
 
 <h2 class="mt-5">Supported by</h2>
 
