@@ -32,7 +32,7 @@
 </div>
 
 <h3>Better Together 2022 is proudly managed by</h3>
-<a href="https://icmsaust.com.au/" target="_blank"><img src="./img/icms-logo.png" class="mt-2" width="250"></a>
+<a href="https://icmsaust.com.au/" target="_blank"><img src="http://www.icmsaust.com.au/wp-content/uploads/2021/02/icmsa55.png" class="mt-2" width="250"></a>
 
 <?php
     include('include/footer.php');
