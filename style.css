@@ -101,6 +101,7 @@ a {
       transition: 0.2s ease-in-out;
       filter: brightness(95%); }
     .content .banner-welcome p {
+      will-change: transform;
       color: #639ED5;
       font-weight: bold;
       font-size: 1.5rem;
@@ -127,6 +128,7 @@ a {
       transition: 0.2s ease-in-out;
       filter: brightness(70%); }
     .content .banner-covid p {
+      will-change: transform;
       color: white;
       font-weight: bold;
       font-size: 2.3em;
@@ -151,6 +153,7 @@ a {
       transition: 0.2s ease-in-out;
       filter: brightness(100%); }
     .content .banner-eoi p {
+      will-change: transform;
       color: white;
       font-weight: bold;
       font-size: 2em;
@@ -175,6 +178,7 @@ a {
       transition: 0.2s ease-in-out;
       filter: brightness(90%); }
     .content .banner-member p {
+      will-change: transform;
       color: white;
       font-weight: bold;
       font-size: 2em;

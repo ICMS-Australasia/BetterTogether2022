@@ -108,6 +108,7 @@ a {
 			filter: brightness(95%);
 		}
 		p {
+			will-change: transform;
 			color: $blue;
 			font-weight: bold; font-size: 1.5rem; text-align: right;
 			padding-right: 2em;
@@ -139,6 +140,7 @@ a {
 			filter: brightness(70%);
 		}
 		p {
+			will-change: transform;
 			color: white;
 			font-weight: bold; font-size: 2.3em;
 			top: 110px;
@@ -169,6 +171,7 @@ a {
 			filter: brightness(100%);
 		}
 		p {
+			will-change: transform;
 			color: white;
 			font-weight: bold; font-size: 2em;
 			top: 90px;
@@ -199,6 +202,7 @@ a {
 			filter: brightness(90%);
 		}
 		p {
+			will-change: transform;
 			color: white;
 			font-weight: bold; font-size: 2em; text-align: right;
 			padding-right: 1.7em;
