@@ -164,15 +164,15 @@
           <td><em>Workshop Continued...</em></td>
         </tr>
         <tr align="center" class="break">
-          <td>19:00 - 20:00</td>
-          <td>02:00 - 03:00</td>
-          <td>12:00 - 13:00</td>
+          <td>19:00 - 19:45</td>
+          <td>02:00 - 02:45</td>
+          <td>12:00 - 12:45</td>
           <td colspan="6"><em>Lunch</em></td>
         </tr>
         <tr>
-          <td align="center">20:00 - 21:30</td>
-          <td align="center">03:00 - 04:30</td>
-          <td align="center">13:00 - 14:30</td>
+          <td align="center">19:45 - 21:15</td>
+          <td align="center">02:45 - 04:15</td>
+          <td align="center">12:45 - 14:15</td>
           <td><em>Workshop Continued...</em></td>
           <td><em>Workshop Continued...</em></td>
           <td><em>Workshop Continued...</em></td>
@@ -181,15 +181,15 @@
           <td><em>Workshop Continued...</em></td>
         </tr>
         <tr align="center" class="break">
-          <td>21:30 - 22:00</td>
-          <td>04:30 - 05:00</td>
-          <td>14:30 - 15:00</td>
+          <td>21:15 - 21:45</td>
+          <td>04:15 - 04:45</td>
+          <td>14:15 - 14:45</td>
           <td colspan="6"><em>Break</em></td>
         </tr>
         <tr class="event-yellow">
-          <td align="center">22:00 - 22:45</td>
-          <td align="center">05:00 - 05:45</td>
-          <td align="center">15:00 - 15:45</td>
+          <td align="center">21:45 - 22:45</td>
+          <td align="center">04:45 - 05:45</td>
+          <td align="center">14:45 - 15:45</td>
           <td colspan="6">Opening Ceremony</td>
         </tr>
         <tr class="event-yellow">
@@ -204,22 +204,28 @@
           <td align="center">16:15 - 16:45</td>
           <td colspan="6">Low Middle Income Countries - Prof Gulam Khandaker (Australia, Bangladesh)</td>
         </tr>
+        <tr align="center" class="break">
+          <td>23:45 - 00:00</td>
+          <td>06:45 - 07:00</td>
+          <td>16:45 - 17:00</td>
+          <td colspan="6"><em>Break (no catering)</em></td>
+        </tr>
         <tr class="event-yellow">
-          <td align="center">23:45 - 24:15</td>
-          <td align="center">06:45 - 07:15</td>
-          <td align="center">16:45 - 17:45</td>
+          <td align="center">00:00 - 00:30</td>
+          <td align="center">07:00 - 07:30</td>
+          <td align="center">17:00 - 17:30</td>
           <td colspan="6">First Nations - Dr Yvette Roe, Dr Sue Kildea "Birthing on Country"</td>
         </tr>
         <tr class="event-yellow">
-          <td align="center">24:15 - 24:45</td>
-          <td align="center">07:15 - 07:45</td>
-          <td align="center">17:45 - 18:15</td>
+          <td align="center">00:30 - 01:00</td>
+          <td align="center">07:30 - 08:00</td>
+          <td align="center">17:30 - 18:00</td>
           <td colspan="6">International Prizes, IAACD Awards, Elsass Prize</td>
         </tr>
         <tr class="event-teal">
           <td align="center">01:00 - 03:00</td>
           <td align="center">08:00 - 10:00</td>
-          <td align="center">18:30 - 20:30</td>
+          <td align="center">18:00 - 20:00</td>
           <td colspan="6">Welcome Reception</td>
         </tr>
     </table>
