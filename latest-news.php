@@ -85,7 +85,7 @@
         compiledHtml = news.items.map(items =>
             `
             <a href="${items.link}" target="_blank"class="col-6 col-lg-4 news-item">
-                <img src="./img/news/${items.img}" class="img-fluid" alt="${items.title}">
+                <img src="./img/news/${items.img}" class="img-fluid" alt="${items.title}" loading="lazy">
                 <p class="mt-2 mb-0 date"><b>${items.date}</b></p>
                 <p class="mt-0 title">${items.title}</p>
             `
