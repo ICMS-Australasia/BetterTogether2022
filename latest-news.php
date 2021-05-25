@@ -12,12 +12,12 @@
     let news = {
         "items": [
             // UPDATE THIS
-            // {
-            //    "date": "Thursday, April 1 2021",
-            //    "img": "11.jpg",
-            //     "title": "Submit Your Scholarship Application Today",
-            //     "link": "https://mailchi.mp/a134b08afb57/one-month-remains-to-submit-your-abstract-for-better-together-2022"
-            // },
+            {
+               "date": "Thursday, May 13 2021",
+               "img": "11.jpg",
+                "title": "Submit Your Scholarship Application Today",
+                "link": "https://mailchi.mp/a134b08afb57/one-month-remains-to-submit-your-abstract-for-better-together-2022"
+            },
             {
                "date": "Thursday, April 22 2021",
                "img": "10.jpg",
