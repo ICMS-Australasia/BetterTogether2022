@@ -101,7 +101,7 @@
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                             <a class="dropdown-item" href="program-overview.php">Program Overview</a>
-                                            <a class="dropdown-item" href="call-for-abstracts.php">Call for Abstracts</a>
+                                            <!-- <a class="dropdown-item" href="call-for-abstracts.php">Call for Abstracts</a> -->
                                             <a class="dropdown-item" href="keynote-speakers.php">Keynote Speakers</a>
                                             <a class="dropdown-item" href="pre-conference-sessions.php">Pre-Conference Sessions</a>
                                             <a class="dropdown-item" href="focused-symposia.php">Focused Symposia</a>
