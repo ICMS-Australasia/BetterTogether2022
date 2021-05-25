@@ -38,7 +38,7 @@
                     <tr align="center" class="heading"><th>Key Dates</th></tr>
                     <tr align="center" class="sub-heading"><th><a href="./focused-symposia.php">Focused Symposia - now announced</a></th></tr>
                     <tr align="center" class="sub-heading"><th><a href="./pre-conference-sessions.php">Pre-Conference Sessions - now announced</a></th></tr>
-                    <tr align="center" class="sub-heading"><th><a href="./call-for-abstracts.php">Call for Abstracts - now closed</a></th></tr>
+                    <tr align="center" class="sub-heading"><th>Call for Abstracts - now closed</th></tr>
                         <tr align="center" bgcolor="#f2f2f2"><td>Announced August 2021</td></tr>
                     <tr align="center" class="sub-heading"><th><a href="./scholarships.php">Scholarship Applications - now open</a></th></tr>
                         <tr align="center"><td>Closes 6 June 2021</td></tr>
