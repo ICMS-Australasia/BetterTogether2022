@@ -184,7 +184,7 @@
           <td>21:15 - 21:45</td>
           <td>04:15 - 04:45</td>
           <td>14:15 - 14:45</td>
-          <td colspan="6"><em>Break</em></td>
+          <td colspan="6"><em>Break (no catering)</em></td>
         </tr>
         <tr class="event-yellow">
           <td align="center">21:45 - 22:45</td>
