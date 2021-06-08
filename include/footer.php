@@ -8,9 +8,6 @@
       <?php } ?>
         <table class="key-dates-side" cellpadding="15" cellspacing="0" border="0" width="100%">
             <tr align="center" class="heading"><th>Key Dates</th></tr>
-            <tr align="center" class="sub-heading"><th>Scholarship Applications</th></tr>
-                <tr align="center"><td>Closes 5 September 2021</td></tr>
-                <!-- <tr align="center"><td>Early bird closes December 2021</td></tr> -->
             <tr align="center" class="sub-heading"><th>Abstract Notifications</th></tr>
                 <tr align="center"><td>August 2021</td></tr>
                 <!-- <tr align="center"><td>Early bird closes December 2021</td></tr> -->
@@ -18,6 +15,9 @@
                 <tr align="center"><td>Opens September 2021</td></tr>
                 <!-- <tr align="center" bgcolor="#f2f2f2"><td>Close December 2021</td></tr>
                 <tr align="center"><td>Notify January 2022</td></tr> -->
+            <tr align="center" class="sub-heading"><th>Scholarship Applications</th></tr>
+                <tr align="center"><td>Closes 5 September 2021</td></tr>
+                <!-- <tr align="center"><td>Early bird closes December 2021</td></tr> -->
             <tr align="center" class="sub-heading"><th>Early Bird Registration</th></tr>
                 <tr align="center"><td>Closes 1 November 2021</td></tr>
                 <!-- <tr align="center"><td>Close April 2021</td></tr>
