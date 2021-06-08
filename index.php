@@ -41,8 +41,8 @@
                     <tr align="center" class="sub-heading"><th>Call for Abstracts - now closed</th></tr>
                         <tr align="center" bgcolor="#f2f2f2"><td>Announced August 2021</td></tr>
                     <tr align="center" class="sub-heading"><th><a href="./scholarships.php">Scholarship Applications - now open</a></th></tr>
-                        <tr align="center"><td>Closes 6 June 2021</td></tr>
-                        <tr align="center" bgcolor="#f2f2f2"><td>Announced August 2021</td></tr>
+                        <tr align="center"><td>Closes 5 September 2021</td></tr>
+                        <tr align="center" bgcolor="#f2f2f2"><td>Announced October 2021</td></tr>
                     <tr align="center" class="sub-heading"><th><a href="./registration.php">Registration - now open</a></th></tr>
                         <tr align="center"><td>Early Bird closes 1 November 2021</td></tr>
                         <tr align="center" class="sub-heading"><th>Late Breaking Abstracts</th></tr>
