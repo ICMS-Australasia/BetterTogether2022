@@ -13,7 +13,7 @@
         "items": [
             // UPDATE THIS
             {
-               "date": "Tuesdsay, June 15 2021",
+               "date": "Tuesday, June 15 2021",
                "img": "12.jpg",
                 "title": "Take A Look At The Better Together 2022 Keynote Speakers",
                 "link": "https://mailchi.mp/dda2cf632082/take-a-look-at-the-better-together-2022-keynote-speakers"
