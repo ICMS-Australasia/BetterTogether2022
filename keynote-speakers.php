@@ -30,6 +30,16 @@ He established a population-based register for children with cerebral palsy (CP)
 
  <hr>
 
+<img src="img/keynote/kildea.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
+<h2 class="mb-0">Prof. Sue Kildea</h2>
+<h3 class="mt-0">Australia</h3>
+
+<p>Co-Director of The Molly Wardaguga Research Centre, Professor Sue Kildea is internationally recognised as a midwifery leader at the cutting edge of Indigenous maternal and infant health and Birthing on Country Service design. She has strong links with Indigenous researchers and Aboriginal and Torres Strait Islander Community Controlled Health Organisations across the country, built across a 35-year career in clinical, research, education and policy. Since her PhD in 2005, she has maintained a 0.2-0.6FTE clinical load and has had a steep upwards research trajectory, ranked 13th most active researcher worldwide (2012- 17) in Maternity and Midwifery. She has supervised 20 HDR students and currently mentors 8 Early Career Researchers. She is a Chief Investigator on 5 NHMRC Grants (3 as CIA), 1 CIHR grant ($1.8M) and a NIH grant ($2M). Received 54 grants with direct responsibility for $9.1M of the $23.2M awarded, plus $6M for service delivery. Authored 178 publications and 46 keynote addresses. She won Research Australia’s Health services Research Award in 2018. Sue is passionate about the year before and after birth and see these as the best times to positively impact Mums, bubs and families for the best start in life. She uses research for social change and leads multi-site projects across Australia.</p>
+
+<a href="#kildea" data-toggle="modal" class="button-small mt-0">Get to know Sue</a>
+
+<hr>
+
  <img src="img/keynote/king.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
  <h2 class="mb-0">Prof. Gillian King</h2>
  <h3 class="mt-0">Canada</h3>
@@ -102,6 +112,16 @@ He established a population-based register for children with cerebral palsy (CP)
  <p>Mark D. Peterson is the Charles E. Lytle, Jr. Research Professor at the University of Michigan-Medicine (Ann Arbor, Michigan, U.S.), Department of Physical Medicine and Rehabilitation, a Fulbright Scholar, and an active member in the American Academy of Cerebral Palsy and Developmental Medicine (AACPDM), Australasian Academy of Cerebral Palsy and Developmental Medicine (AusACPDM), the International Society of Physical and Rehabilitation Medicine (ISPRM), and the American College of Sports Medicine (ACSM). Dr. Peterson’s work focuses on understanding factors that influence health and life expectancy among individuals aging with disabilities across the lifespan. This includes efforts directed at identifying precision strategies to prevent cardiometabolic dysregulation and secondary physical and psychological morbidity among children and adults with cerebral palsy, as well as a variety of frailty syndromes, and to better understand health disparities among individuals with disabilities from the context of access to preventive care and community wellness. Dr. Peterson has published more than 150 peer reviewed scientific articles in the fields of exercise physiology, rehabilitation research, physical activity epidemiology, healthcare disparities, and preventive medicine.</p>
 
  <a href="#peterson" data-toggle="modal" class="button-small mt-0">Get to know Mark</a>
+
+ <hr>
+
+ <img src="img/keynote/roe.jpg" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
+ <h2 class="mb-0">A/Prof. Yvette Roe</h2>
+ <h3 class="mt-0">Australia</h3>
+
+ <p>Co-Director of The Molly Wardaguga Research Centre, Professor Yvette Roe is a proud Njikena Jawuru woman from the West Kimberley region, Western Australia. Yvette grew up in Darwin where she has strong family and friend connections. Yvette has more than 25 years’ experience working in the Indigenous health. She was awarded her PhD, in 2015. As an Aboriginal scholar, Yvette’s research and priority has been to identify opportunities to improve health outcomes for First Nations peoples by delivering and evaluating services that are client, family and community focused. Yvette has diverse interests across a number of disciplines such as public health, sociology, and realist evaluation. She is a CI/AI on 5 NHMRC and Lowitja Institute grants and leading research across multiple sites in Australia to build First Nations people research capacity. She is a member of the NHMRC Research Committee (2018-2021) and Principal Committee Indigenous Caucus (2016- 21) an advisory body for the NHMRC Council and CEO on First Nation health research and implementation of NHMRC Roadmap II. She provides Indigenous leadership across all of the studies in the Molly Wardaguga Research Centre.</p>
+
+ <a href="#roe" data-toggle="modal" class="button-small mt-0">Get to know Yvette</a>
 
  <hr>
 
@@ -456,6 +476,75 @@ He established a population-based register for children with cerebral palsy (CP)
               <p><em>Cheese.</em></p>
 
 
+             <button type="button" class="close" data-dismiss="modal">x</button>
+         </div>
+     </div>
+ </div>
+ <div class="modal fade" id="kildea">
+     <div class="modal-dialog modal-dialog-centered modal-lg">
+         <div class="modal-content">
+             <h2>Get to know Sue</h2>
+             <h3 class="mt-0">What can delegates expect to hear from you?</h3>
+             <p><em>Passionate support for Birthing on Country</em></p>
+
+             <h3>Highlight the international relevance of your work for delegates?</h3>
+             <p><em>Birthing on Country is an international movement to return birthing services to Indigenous and other communities to improve outcomes for mothers and babies.</em></p>
+
+             <h3>What key messages will you have for community members and people with lived experience of child-onset disability?</h3>
+             <p><em>It’s important for health service researchers to hear your stories.</em></p>
+
+             <h3>What makes conferences such as this important?</h3>
+             <p><em>Networking with other researchers</em></p>
+
+             <h3>What is the best piece of advice you could give a student or early career researcher who is attending their first big conference?</h3>
+             <p><em>Be brave and go and introduce yourself to the speakers you loved the best.</em></p>
+
+             <h3>What are you most looking forward to at the Better Together 2022 Conference?</h3>
+             <p><em>Learning from others.</em></p>
+
+             <h3>Do you see any particular benefits of having the conference in Melbourne/ Australia?</h3>
+             <p><em>Yes, it’s a great place to visit with fabulous art galleries, restaurants and parks.</em></p>
+
+             <h3>Do you have any hobbies outside of your work?</h3>
+             <p><em>Bushwalking.</em></p>
+
+             <h3>What was your guilty COVID isolation pleasure?</h3>
+             <p><em>Working from home.</em></p>
+
+             <button type="button" class="close" data-dismiss="modal">x</button>
+         </div>
+     </div>
+ </div>
+ <div class="modal fade" id="roe">
+     <div class="modal-dialog modal-dialog-centered modal-lg">
+         <div class="modal-content">
+             <h2>Get to know Yvette</h2>
+             <h3 class="mt-0">What can delegates expect to hear from you?</h3>
+             <p><em>Cutting edge research design and outcomes that demonstrate and improve life expectancy of Aboriginal and Torres Strait Islander mothers and babies in the first 1000 days.</em></p>
+
+             <h3>Highlight the international relevance of your work for delegates?</h3>
+             <p><em>This is an international movement and First Nations people in colonised countries are leading the way in presenting solutions on how these health inequities can be addressed.</em></p>
+
+             <h3>What key messages will you have for community members and people with lived experience of child-onset disability?</h3>
+             <p><em>Importance of privileged Aboriginal and Torres Strait Islander knowledge in developing solutions.</em></p>
+
+             <h3>What makes conferences such as this important?</h3>
+             <p><em>It is critical for opportunities to share and improve ATSI morality in the first 100 days.</em></p>
+
+             <h3>What is the best piece of advice you could give a student or early career researcher who is attending their first big conference?</h3>
+             <p><em>Be passionate about what you do. Research is about transformation.</em></p>
+
+             <h3>What are you most looking forward to at the Better Together 2022 Conference?</h3>
+             <p><em>Opportunity to network with likeminded people and share our findings.</em></p>
+
+             <h3>Do you see any particular benefits of having the conference in Melbourne/ Australia?</h3>
+             <p><em>Yes, it is a very dynamic town with lots of interest and a great gathering spot.</em></p>
+
+             <h3>Do you have any hobbies outside of your work?</h3>
+             <p><em>Hiking, trail running, AFL, reading.</em></p>
+
+             <h3>What was your guilty COVID isolation pleasure?</h3>
+             <p><em>Planning hiking trips for when COVID was over.</em></p>
              <button type="button" class="close" data-dismiss="modal">x</button>
          </div>
      </div>
