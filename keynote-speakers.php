@@ -6,6 +6,18 @@
  <h4><em>More speakers to be announced soon</em></h4>
 
 
+ <img src="img/keynote/forssberg.jpg" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
+ <h2 class="mb-0">Prof. Hans Forssberg</h2>
+ <h3 class="my-0">Sweden</h3>
+ <p class="mt-0"><em>President IAACD</em></p>
+
+ <p>Neuropaediatrics at Astrid Lindgren Children’s Hospital in Stockholm, Sweden. He is one of the founders of the International Alliance of Academies of Childhood Disability (IAACD; together with Bob Armstrong and Diane Damiano) and has been its first president. He is past chairman of the European Academy of Childhood Disability; past dean and past vice president of Karolinska Institutet; and past member of the Nobel Committee for Physiology or Medicine.</p>
+ <p>His research has focused on children with neurodevelopmental disorders; from translational research on mechanisms underlying motor and cognitive dysfunctions, to clinical research aiming at developing new methods for assessment and intervention. During recent years, he has shifted focus to research on global health of children with disabilities, in particular in low and middle income countries (LMIC). He has published around 250 original research articles and is one of the internationally most cited researchers in neurodevelopmental disorders (>30 000 citations; h-index=81; Google Scholar). He is presently leading a UNICEF project developing, implementing and evaluating global recommendations for early identification and intervention for children with developmental delay and disability, particularly in LMIC.</p>
+
+ <a href="#forssberg" data-toggle="modal" class="button-small mt-0">Get to know Hans</a>
+
+ <hr>
+
  <img src="img/keynote/huppi.jpg" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
  <h2 class="mb-0">Prof. Petra S. Hüppi</h2>
  <h3 class="mt-0">Switzerland</h3>
@@ -545,6 +557,38 @@ He established a population-based register for children with cerebral palsy (CP)
 
              <h3>What was your guilty COVID isolation pleasure?</h3>
              <p><em>Planning hiking trips for when COVID was over.</em></p>
+             <button type="button" class="close" data-dismiss="modal">x</button>
+         </div>
+     </div>
+ </div>
+ <div class="modal fade" id="forssberg">
+     <div class="modal-dialog modal-dialog-centered modal-lg">
+         <div class="modal-content">
+             <h2>Get to know Hans</h2>
+             <h3 class="mt-0">What can delegates expect to hear from you?</h3>
+             <p>I will give a global perspective on childhood disability and the rational for building a global network of professionals working with children and youth with developmental disabilities; particularly including colleagues in low and middle income countries. I will describe the founding of the International Alliance of Academies of Childhood Disability (IAACD) 2014 and its growth and development until the Melbourne conference 2022. At the end I will highlight future challenges.</p>
+
+             <h3>Highlight the international relevance of your work for delegates?</h3>
+             <p>The mission of IAACD is to improve the health and well-being of children and youth with developmental disabilities around the globe by enhancing local multidisciplinary professional capacity and expertise. IAACD promotes evidence-based teaching and training of multidisciplinary professionals, implements best clinical practice change, supports collaborative scientific and needs-driven research, and fosters collaboration of all involved in the care of children and youth with disabilities including parents, caretakers, communities and professionals.</p>
+
+             <h3>What key messages will you have for community members and people with lived experience of child-onset disability?</h3>
+             <p>Children with disabilities and their families are often neglected and face discrimination and exclusion from health care and education services. Driven by global goals most LMICs have focused on reducing childhood mortality, leaving disability low in their priorities. In order to change global priorities, and influence governments to provide evidence based services for children and youth with developmental disabilities, people with lived experience, parents, and community members are encouraged to collaborate with IAACD on both international and local levels.</p>
+
+             <h3>What makes conferences such as this important?</h3>
+             <p>The Triennial conferences are the premier events of the IAACD and a prestigious opportunity for the hosting Academy to hold a large international conference of high scientific standard, which provides an international forum for knowledge transfer in the field of childhood disability. The conference will present knowledge of new research results and methods; knowledge of evidence based clinical practice; education, training and career development (in particular for younger and from both low and high resource settings); promote connection among members leading to the development of international collaboration and networks; reinforce the link between the users and health professionals at a local, regional and international level.</p>
+
+             <h3>What is the best piece of advice you could give a student or early career researcher who is attending their first big conference?</h3>
+             <p>Make friends. Involve yourself in international networks of interest for your research. Search for and make contact with researchers of scientific articles you have found particularly interesting and useful for your research. Prepare intelligent questions to ask.</p>
+
+             <h3>What are you most looking forward to at the Better Together 2022 Conference?</h3>
+             <p>The 3rd International Conference in Melbourne will mark a milestone in the development of the IAACD. There will be a transition into the constitutional organization, a transfer of power to an elected Executive Committee and the first face to face meeting of the Governing Council (and I will exit my 8 year-leadership of IAACD).</p>
+
+             <h3>Do you see any particular benefits of having the conference in Melbourne/ Australia?</h3>
+             <p>The Australasian Academy of Cerebral Palsy and Developmental Medicine (AusACPDM) is one of the three Founding Academies and has been instrumental in the development of IAACD. The academy and its members have contributed significantly to international research in childhood disability and expanding our knowledge in this area. Therefore, I am glad that the AusACPDM is hosting the third international conference in Melbourne and I am sure it will become a great success.</p>
+
+             <h3>Do you have any hobbies outside of your work?</h3>
+             <p>Ice skating tours and winter sauna.</p>
+
              <button type="button" class="close" data-dismiss="modal">x</button>
          </div>
      </div>
