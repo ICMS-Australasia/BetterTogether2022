@@ -275,7 +275,7 @@
              `
              <p>Laboratory-based optical motion capture is the current gold standard for clinical motion analysis, but expensive and time consuming. It may fail to capture how individuals move in natural settings. Markerless motion capture is now feasible with availability of large-scale computing power and recent developments in image-based analysis using deep learning approaches. Modern computational methods, along with large publicly available datasets has enabled the development of algorithms for human pose estimation from videos and images, such as OpenPose and DeepLabCut. These provide the opportunity for biomechanical analysis outside the laboratory. This session will provide an international perspective on the use of markerless motion capture in various paediatric settings, presented by a diverse team from four continents (Asia, Australia, Europe and Africa) and with a variety of backgrounds.</p>
              `,
-           "presenters": "Prof. Dong-wook Rha, Dr. Helga Haberfelner, Dr. Elyse Passmore, Dr. Nelleke Langerak, Prof. Dong-wook Rha"
+           "presenters": "Prof. Dong-wook Rha, Dr. Helga Haberfehlner, Dr. Elyse Passmore, Dr. Nelleke Langerak, Prof Annemieke Buizer"
          },
          {
            "title": "Global Perspectives and Challenges on the Use of Robotics to Enhance Mobility in Cerebral Palsy",
