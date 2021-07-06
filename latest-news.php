@@ -13,6 +13,12 @@
         "items": [
             // UPDATE THIS
             {
+               "date": "Tuesday, July 6 2021",
+               "img": "13.jpg",
+                "title": "Your Melbourne Bucket List for Better Together 2022",
+                "link": "https://mailchi.mp/4d52aebc5282/your-melbourne-bucket-list-for-better-together-2022"
+            },
+            {
                "date": "Tuesday, June 15 2021",
                "img": "12.jpg",
                 "title": "Take A Look At The Better Together 2022 Keynote Speakers",
