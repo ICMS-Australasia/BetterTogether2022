@@ -7,7 +7,7 @@
 
 <div class="row d-flex align-items-center">
   <div class="col-md-4">
-    <a href="https://cerebralpalsy.org.au/our-research/" target="_blank"><img src="./img/sponsors/cerebral-palsy-alliance-research.jpg"></a>
+    <a href="https://cerebralpalsy.org.au/our-research/" target="_blank"><img src="./img/sponsors/cerebral-palsy-alliance-research.jpg" class="img-fluid"></a>
   </div>
 </div>
 
