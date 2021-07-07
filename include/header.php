@@ -123,7 +123,7 @@
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                             <a class="dropdown-item" href="sponsorship-information.php">Sponsorship Information</a>
-                                            <!-- <a class="dropdown-item" href="speakers.php">Confirmed Supporters</a> -->
+                                            <a class="dropdown-item" href="supporters.php">Our Supporters</a>
                                         </div>
                                     </li>
                                     <li class="nav-item dropdown">
