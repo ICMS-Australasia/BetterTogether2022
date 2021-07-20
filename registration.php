@@ -149,18 +149,18 @@
 
 <h2>Social Functions</h2>
 
-<h3>Meet the Keynotes Dinner</h3>
-<p>Explore Melbourne, the hub of Australia’s culinary delights and get to know the esteemed Keynote Speakers over a casual meal, a great opportunity to network in a social environment.</p>
+<h3>Dine with Delegates</h3>
+<p>Arrive at the Conference early and get to know your fellow delegates and speakers over a casual meal. A great opportunity to network and explore Melbourne, the hub of Australia’s culinary delights.</p>
 <p>Date: Tuesday 1 March 2022 <br>
   Cost: Tickets can be purchased for $100 per person</p>
 
 <h3>Welcome Reception</h3>
-<p>Take this opportunity to meet your peers from the industry. Experience a taste of Australia and New Zealand and be captivated by sights and sounds from these lands down under.</p>
+<p>Take this opportunity to connect with your community and meet other conference attendees on the first day of the conference. Enjoy a truly Melbourne themed experience showcasing what makes Melbourne unique.</p>
 <p>Date: Wednesday 2 March 2022 <br>
   Cost: Inclusive ticket for full in-person registration delegates, additional tickets can be purchased for $85 per person</p>
 
 <h3>Conference Gala Dinner</h3>
-<p>A true conference highlight! Enjoy a 3 course dinner with accompanying beverages for a night of entertainment that’s not to be missed. Don’t forget your dancing shoes!</p>
+<p>A true conference highlight! Enjoy a three course dinner with accompanying beverages for a night of entertainment that’s not to be missed. Don’t forget your dancing shoes!</p>
 <p>Date: Friday 4 March 2022 <br>
   Cost: Tickets can be purchased for $150 per person</p>
 
