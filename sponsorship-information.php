@@ -6,7 +6,7 @@
 <p>The AusACPDM/IAACD 2022 virtual Conference will provide the perfect forum for companies actively involved in Cerebral Palsy and Developmental Medicine to promote their products and services to this vast audience.</p>
 <p>The Conference will provide multidisciplinary scientific education for health professionals as well as promote excellence in research and best practice clinical care for children and adults with cerebral palsy and developmental conditions.</p>
 <p>We have created many attractive sponsorship opportunities for the virtual platform that also include promotion before, during and after the Conference dates.  Packages can also be individually tailored to suit your requirements.</p>
-<h4>Please contact the Sponsorship and Exhibition Director for more information;</h4>
+<h4>Please contact the Sponsorship and Exhibition Manager for more information;</h4>
 <p><b>Andrea O'Sullivan</b> <br>
     <a href="mailto:sponsorship@bettertogether2022.org">sponsorship@bettertogether2022.org</a></p>
 
