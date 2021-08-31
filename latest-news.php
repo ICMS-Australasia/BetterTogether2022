@@ -13,6 +13,12 @@
         "items": [
             // UPDATE THIS
             {
+               "date": "Friday, August 27 2021",
+               "img": "14.jpg",
+                "title": "Conference Announcement – Moving Fully Virtual",
+                "link": "https://mailchi.mp/93be9a65a8fa/conference-announcement-moving-fully-virtual"
+            },
+            {
                "date": "Tuesday, July 6 2021",
                "img": "13.jpg",
                 "title": "Your Melbourne Bucket List for Better Together 2022",
