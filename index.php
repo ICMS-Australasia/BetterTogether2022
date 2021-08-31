@@ -3,8 +3,14 @@
     include('include/header.php');
  ?>
             <div class="col-12">
-                <div class="embed-responsive embed-responsive-16by9 mt-4">
-                  <iframe width="100%" height="100%" src="https://www.youtube.com/embed/7qobe89Xss0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="alert alert-secondary p-5 mt-4">
+                  <p class="mt-0">The current COVID-19 outbreaks throughout Australia have created increasing uncertainty about travel both within Australia and Internationally. Currently there is almost no travel across state borders in Australia, and the likelihood of international borders opening early in 2022 seems remote.</p>
+                  <p>Because of these uncertainties, the Better Together 2022 Organising Committee, in consultation with the AusACPDM Board and IAACD Steering Group, have made the decision to move to a fully virtual Conference in March 2022.</p>
+                  <p>This decision has been made now in advance before there are too many financial implications to the Host Academy, to those wishing to make plans to attend, and to allow time for the Committee to put together the best virtual conference possible for our participants.</p>
+                  <p>We thank everyone for their support and understanding in this decision, and we are all very much looking forward to a day when we can all safely come together again.</p>
+                  <p>We are Better Together, and we can be Better Together virtually as well as in person.</p>
+                  <p class="mb-0"><b>Warmest regards</b> <br>
+                    Better Together 2022 Organising Committee</p>
                 </div>
             </div>
             <div class="col-12 my-5 banner-welcome">
@@ -22,10 +28,13 @@
                 </a>
             </div>
             <div class="col-12 col-md-6 mb-5 banner-covid">
-                <a href="https://covid19.homeaffairs.gov.au/travel-restrictions" target="_blank">
-                    <img src="./img/banner-covid.jpg" class="img-fluid" width="100%">
-                    <p class="position-absolute my-0">What we know today </span></p>
+                <a href="https://www.youtube.com/watch?v=7qobe89Xss0&ab_channel=ICMSAustralasia" target="_blank">
+                    <img src="./img/banner-video.jpg" class="img-fluid" width="100%">
+                    <p class="position-absolute my-0">Introducing Better Together 2022</p>
                 </a>
+                <!-- <div class="embed-responsive embed-responsive-16by9 mt-4">
+                  <iframe width="100%" height="100%" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div> -->
             </div>
             <!-- <div class="col-6 mb-5 banner-member">
                 <a href="./">

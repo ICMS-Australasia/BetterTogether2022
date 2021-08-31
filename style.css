@@ -145,12 +145,12 @@ a {
       object-position: center center;
       height: 250px;
       transition: 0.2s ease-in-out;
-      filter: brightness(70%); }
+      filter: brightness(90%); }
     .content .banner-covid p {
       will-change: transform;
       color: white;
       font-weight: bold;
-      font-size: 2.3em;
+      font-size: 1.5em;
       top: 110px;
       bottom: 0px;
       padding-left: 1em;
@@ -162,7 +162,7 @@ a {
     .content .banner-covid:hover p {
       transform: scale(1.03); }
     .content .banner-covid:hover img {
-      filter: brightness(95%); }
+      filter: brightness(100%); }
   .content .banner-eoi {
     position: relative; }
     .content .banner-eoi img {
@@ -489,6 +489,9 @@ a {
       text-decoration: underline; }
   .skip:hover {
     background: #76bb3d; }
+
+.alert {
+  border-radius: 0; }
 
 .alert-primary {
   background: #07948A;

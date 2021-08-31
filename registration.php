@@ -3,7 +3,10 @@
     include('include/header.php');
  ?>
 
- <p>Better Together 2022 will be a hybrid format, meaning there are both virtual and in person registration opportunities available. The live in person registration rate is applicable for those attending Better Together 2022 at the Melbourne Convention & Exhibition Centre in Melbourne, Australia. The virtual registration rate is applicable for those attending Better Together 2022 on-line only.</p>
+<div class="alert alert-primary text-center">
+  <h5 class="my-2"><b>Registration for the Better Together 2022 Fully Virtual Conference opening soon</b></h5>
+</div>
+ <!-- <p>Better Together 2022 will be a hybrid format, meaning there are both virtual and in person registration opportunities available. The live in person registration rate is applicable for those attending Better Together 2022 at the Melbourne Convention & Exhibition Centre in Melbourne, Australia. The virtual registration rate is applicable for those attending Better Together 2022 on-line only.</p>
 
  <h2>Registration Entitlements</h2>
 
@@ -177,7 +180,7 @@
 
 <p><b>Accommodation Enquires</b> <br>
   P: +61 2 9254 5000 <br>
-  <a href="mailto:Accommodation@bettertogether2022.org">Accommodation@bettertogether2022.org</a></p>
+  <a href="mailto:Accommodation@bettertogether2022.org">Accommodation@bettertogether2022.org</a></p> -->
 
 
 

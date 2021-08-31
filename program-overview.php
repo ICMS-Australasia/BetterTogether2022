@@ -3,7 +3,12 @@
     include("./include/header.php");
 ?>
 
-<div class="row">
+<div class="alert alert-primary text-center">
+  <h5 class="mt-2"><b>Program overview coming soon.</b></h5>
+  <h6 class="mb-2">Due to the recent announcement to move fully virtual the Scientific Committee is working closely on re-imaging the program</h6>
+</div>
+
+<!-- <div class="row">
   <div class="col">
     <a href="./program-overview.php?d=1#tables" class="button-small mx-auto d-block text-center p-4 mb-4">Tuesday 1 March</a>
   </div>
@@ -19,13 +24,13 @@
   <div class="col">
     <a href="./program-overview.php?d=5#tables" class="button-small mx-auto d-block text-center p-4 mb-4">Saturday 5 March</a>
   </div>
-</div>
+</div> -->
 
-  <div class="col-12 px-0" id="tables"></div>
+<!-- <div class="col-12 px-0" id="tables"></div> -->
 
 
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
   let queries = window.location.search;
   let parameters, pageNum;
 
@@ -495,7 +500,7 @@
 
   document.getElementById("tables").innerHTML = tables[pageNum-1];
 
-</script>
+</script> -->
 
 <?php
     include("./include/footer.php");

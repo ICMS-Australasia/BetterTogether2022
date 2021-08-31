@@ -1,5 +1,5 @@
 <?php
-    $title = "Support for Abstract Submissions";
+    $title = "Presentation Tips";
     include('include/header.php');
  ?>
 

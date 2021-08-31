@@ -76,7 +76,7 @@
                                         <a class="dropdown-item" href="explore-melbourne.php">Explore Melbourne</a>
                                             <a class="dropdown-item" href="destination-discovery.php">Destination Discovery</a>
                                             <a class="dropdown-item" href="travel-and-transport-tips.php">Travel and Transport Tips</a>
-                                            <a class="dropdown-item" href="conference-venue.php">Conference Venue</a>
+                                            <!-- <a class="dropdown-item" href="conference-venue.php">Conference Venue</a> -->
                                             <!-- <a class="dropdown-item" href="cross-disciplinary-workshops.php">Local Eats</a> -->
                                         </div>
                                     </li>
@@ -87,9 +87,9 @@
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                           <a class="dropdown-item" href="registration.php">Registration</a>
                                           <a class="dropdown-item" href="scholarships.php">Scholarships</a>
-                                          <a class="dropdown-item" href="accommodation.php">Accommodation</a>
+                                          <!-- <a class="dropdown-item" href="accommodation.php">Accommodation</a> -->
                                             <!-- <a class="dropdown-item" href="program.php">Scholarships</a> -->
-                                            <a class="dropdown-item" href="visa-information.php">Visa Information</a>
+                                            <!-- <a class="dropdown-item" href="visa-information.php">Visa Information</a> -->
                                             <!-- <a class="dropdown-item" href="speakers.php">Social Functions</a> -->
                                             <!-- <a class="dropdown-item" href="speakers.php">Wellness Activities</a> -->
                                             <a class="dropdown-item" href="terms-and-conditions.php">Terms & Conditions</a>
@@ -105,7 +105,7 @@
                                             <a class="dropdown-item" href="keynote-speakers.php">Keynote Speakers</a>
                                             <a class="dropdown-item" href="pre-conference-sessions.php">Pre-Conference Sessions</a>
                                             <a class="dropdown-item" href="focused-symposia.php">Focused Symposia</a>
-                                            <a class="dropdown-item" href="support-abstract.php">Support for Abstract Submissions</a>
+                                            <a class="dropdown-item" href="support-abstract.php">Presentation Tips</a>
                                             <a class="dropdown-item" href="awards.php">Awards</a>
                                             <a class="dropdown-item" href="scientific-committee.php">Scientific Committee</a>
                                             <!-- <a class="dropdown-item" href="speakers.php">Program at a Glance</a> -->
@@ -131,7 +131,7 @@
                                             Information <i class="fas fa-angle-down ml-1"></i>
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" href="general-information.php">General Information</a>
+                                            <!-- <a class="dropdown-item" href="general-information.php">General Information</a> -->
                                             <a class="dropdown-item" href="privacy-policy.php">Privacy Policy</a>
                                             <a class="dropdown-item" href="contact-us.php">Contact Us</a>
                                         </div>
@@ -172,26 +172,11 @@
             </div>
         </div>
     </div>
-    <?php if ($title == "Program Overview") {?>
       <div class="container">
-        <div class="row my-4 my-lg-5">
-          <div class="col">
-            <h1><?php echo $title ?></h1>
-            <p>The Better Together 2022 program will be held both in-person and virtually in Melbourne, Australia time. For your convenience we have included other common time zones in the program overview below, alternatively please see the following link to a <a href="https://www.timeanddate.com/worldclock/converter.html" target="_blank">time zone convertor</a>.</p>
-            <p>*This is a preliminary program overview and is subject to change.</p>
-          </div>
-        </div>
-      </div>
-      <div class="container-fluid">
-    <?php } else { ?>
-      <div class="container">
-    <?php } ?>
         <?php if (!in_array($title, array("Better Together 2022"))) { ?>
         <div class="row my-4 my-lg-5">
-            <div class="col-12 <?php if ($title == "Program Overview") { echo 'col-lg-10'; } else { echo 'col-lg-9'; } ?>">
-              <?php if ($title != "Program Overview") { ?>
-                <h1><?php echo $title ?></h1>
-              <?php } ?>
-        <?php } else { ?>
-          <div class="row my-4 my-lg-0">
-        <?php } ?>
+            <div class="col-12 col-lg-9">
+              <h1><?php echo $title ?></h1>
+            <?php } else { ?>
+              <div class="row my-4 my-lg-0">
+            <?php } ?>
