@@ -83,11 +83,11 @@
                     </a>
                 </div>
                 <div class="card mt-4">
-                    <a href="./travel-and-transport-tips.php">
-                        <img src="./img/travel-tips.png" class="card-img-top" alt="Committee">
+                    <a href="./support-abstract.php">
+                        <img src="./img/presentation-tips.png" class="card-img-top" alt="Committee">
                         <div class="card-body">
-                            <h5 class="card-title">Travel Tips</h5>
-                            <p class="card-text">What you need to know to get around Melbourne. <u>View more</u></p>
+                            <h5 class="card-title">Presentation Tips</h5>
+                            <p class="card-text">Learn some helpful tips and tricks for your presentation. <u>View more</u></p>
                         </div>
                     </a>
                 </div>
