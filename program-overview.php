@@ -2,7 +2,7 @@
     $title = "Program Overview";
     include("./include/header.php");
 ?>
-<!-- 
+<!--
 <div class="alert alert-primary text-center">
   <h5 class="mt-2"><b>Program overview coming soon.</b></h5>
   <h6 class="mb-2">Due to the recent announcement to move fully virtual the Scientific Committee is working closely on re-imaging the program</h6>
@@ -26,7 +26,7 @@
   </div>
 </div>
 
-<div class="col-12 px-0" id="tables"></div>
+<div class="col-12 px-0" id="tables" style="overflow-x: scroll"></div>
 
 
 
