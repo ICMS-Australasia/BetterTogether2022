@@ -13,6 +13,12 @@
         "items": [
             // UPDATE THIS
             {
+               "date": "Thursday, September 23 2021",
+               "img": "15.jpg",
+                "title": "What have you got planned for World CP Day?",
+                "link": "https://bettertogether2022.org/news/15.html"
+            },
+            {
                "date": "Friday, August 27 2021",
                "img": "14.jpg",
                 "title": "Conference Announcement – Moving Fully Virtual",
@@ -102,13 +108,23 @@
     let compiledHtml = ``;
         compiledHtml = news.items.map(items =>
             `
-            <a href="${items.link}" target="_blank"class="col-6 col-lg-4 news-item">
+            <a href="${items.link}" target="_blank"class="col-6 col-lg-4 news-item" data-date="${items.date}">
                 <img src="./img/news/${items.img}" class="img-fluid" alt="${items.title}" loading="lazy">
                 <p class="mt-2 mb-0 date"><b>${items.date}</b></p>
                 <p class="mt-0 title">${items.title}</p>
             `
         ).join(``);
         document.getElementById('latest-news').innerHTML = compiledHtml;
+</script>
+
+<script type="text/javascript" defer>
+  // Only show ezine when the current date is past the date the ezine was sent
+  let date_arr = document.querySelectorAll('[data-date]');
+  date_arr.forEach(date => {
+    if (new Date(date.dataset.date) > Date.now()) {
+      date.classList.add('d-none');
+    }
+  });
 </script>
 
 <?php
