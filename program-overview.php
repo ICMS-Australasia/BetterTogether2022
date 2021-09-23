@@ -444,13 +444,13 @@ MinYoung Kim, Suzie Miller, Iona Novak
           <td align="center">*17:45 - 18:15</td>
           <td align="center">24:45 - 01:15</td>
           <td align="center">10:45 - 11:15</td>
-          <td>"Keynote: Engagement</br>Prof Gillian King, Canada"</td>
+          <td>Keynote: Engagement</br>Prof Gillian King, Canada</td>
         </tr>
         <tr class="event-blue">
           <td align="center">*18:15 - 18:45</td>
           <td align="center">01:15 - 01:45</td>
           <td align="center">11:15 - 11:45</td>
-          <td>"Keynote: Adults with CP</br>Prof Mark Peterson, USA"</td>
+          <td>Keynote: Adults with CP</br>Prof Mark Peterson, USA</td>
         </tr>
         <tr class="event-blue">
           <td align="center">*18:45 - 19:15</td>

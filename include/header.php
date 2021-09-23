@@ -103,9 +103,9 @@
                                             <a class="dropdown-item" href="program-overview.php">Program Overview</a>
                                             <!-- <a class="dropdown-item" href="call-for-abstracts.php">Call for Abstracts</a> -->
                                             <a class="dropdown-item" href="keynote-speakers.php">Keynote Speakers</a>
-											<!-- <a class="dropdown-item" href="late-breaking-abstracts.php">Late Breaking Abstracts</a> -->
+											<a class="dropdown-item" href="late-breaking-abstracts.php">Late Breaking Abstracts</a>
                                             <a class="dropdown-item" href="pre-conference-workshops.php">Pre-Conference Workshops</a>
-                                            <a class="dropdown-item" href="focused-symposia.php">Focused Symposia</a>
+                                            <!-- <a class="dropdown-item" href="focused-symposia.php">Focused Symposia</a> -->
                                             <a class="dropdown-item" href="support-abstract.php">Presentation Tips</a>
                                             <a class="dropdown-item" href="awards.php">Awards</a>
                                             <a class="dropdown-item" href="scientific-committee.php">Scientific Committee</a>
