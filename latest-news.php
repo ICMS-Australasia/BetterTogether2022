@@ -16,7 +16,7 @@
                "date": "Thursday, September 23 2021",
                "img": "15.jpg",
                 "title": "What have you got planned for World CP Day?",
-                "link": "https://bettertogether2022.org/news/15.html"
+                "link": "https://mailchi.mp/de3f96e07984/what-have-you-got-planned-for-world-cp-day"
             },
             {
                "date": "Friday, August 27 2021",
