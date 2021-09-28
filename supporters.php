@@ -21,16 +21,6 @@
   </div>
 </div>
 
-<hr class='mt-5 mb-4'>
-
-<h2>Exhibitor</h2>
-
-<div class="row d-flex align-items-center">
-  <div class="col-md-4">
-    <a href="https://www.korthotics.com.au/" target="_blank"><img src="./img/sponsors/korthotics.jpg" class="img-fluid"></a>
-  </div>
-</div>
-
 
 <?php
     include('include/footer.php');

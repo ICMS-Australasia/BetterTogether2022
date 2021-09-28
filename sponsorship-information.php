@@ -29,6 +29,10 @@
   </ul>
 </ul>
 
+<a href="./downloads/IAACD2022-Prospectus.pdf" target="_blank" class="button d-block text-center my-4">Download Virtual Sponsorship Prospectus</a>
+
+<a href="./downloads/IAACD2022-Application-Form.pdf" target="_blank" class="button d-block text-center my-4">Download Application Form</a>
+
 <h4>Interested?  For further information please contact:</h4>
 <p><b>Andrea O’Sullivan</b> <br>
   <em>Sponsorship & Exhibition Manager</em> <br>
