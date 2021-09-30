@@ -86,7 +86,7 @@
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                           <a class="dropdown-item" href="registration.php">Registration</a>
-                                          <a class="dropdown-item" href="live-experience-grants.php">Live Experience Grants</a>
+                                          <a class="dropdown-item" href="live-experience-grants.php">Lived Experience Free Passes</a>
                                           <a class="dropdown-item" href="scholarships.php">Scholarships</a>
                                           <!-- <a class="dropdown-item" href="accommodation.php">Accommodation</a> -->
                                             <!-- <a class="dropdown-item" href="program.php">Scholarships</a> -->
