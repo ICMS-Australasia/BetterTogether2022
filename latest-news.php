@@ -16,7 +16,7 @@
                "date": "Friday, October 8 2021",
                "img": "16.jpg",
                 "title": "Better Together 2022 Supports World Mental Health Day",
-                "link": "https://mailchi.mp/<INSERT ID>/better-together-2022-supports-world-mental-health-day"
+                "link": "https://mailchi.mp/03db24e5af1c/better-together-2022-supports-world-mental-health-day"
             },
             {
                "date": "Thursday, September 23 2021",
