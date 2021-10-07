@@ -40,6 +40,15 @@ a {
 .yellow {
   color: #FFDD00; }
 
+.container.full {
+  max-width: 100%; }
+  .container.full .col-12.col-lg-3.mt-5.mt-sm-0 {
+    display: none; }
+  .container.full .container.full .col-12.col-lg-9 {
+    max-width: 100%;
+    width: 100%;
+    flex: 0 0 100%; }
+
 .button {
   font-size: 28px;
   font-weight: bold;
