@@ -52,6 +52,54 @@ a {
 			}
 }
 
+.register-banner {
+	a {
+		display: block;
+		p {
+			top: 50%;
+			left: 3rem;
+			transform: translateY(-50%);
+			font-size: 2rem;
+			font-weight: bold;
+			color: white;
+			transition: 0.2s;
+			&:hover {
+				font-size:2.3rem;
+			}
+		}
+		
+	}
+}
+.is-banner {
+	a {
+		display: block;
+		p {
+			top: 50%;
+			right: 3rem;
+			text-align: right;
+			font-weight: bold;
+			font-size: 2rem;
+			transform: translateY(-50%);
+			transition: 0.2s;
+			&:hover {
+				font-size:2.3rem;
+			}
+		}
+		
+	}
+}
+
+.keynote-block {
+	a {
+		text-decoration: none;
+		display: block;
+	}
+	p.speaker-name {
+		font-size: 1.2rem;
+		margin-top: 10px;
+	}
+}
+
 .button {
 	font-size: 28px; font-weight: bold;
 	color: white;
@@ -82,6 +130,89 @@ a {
 	}
 }
 a.pv {margin-left: 10px;}
+
+.tdata {
+	border-bottom: 1px solid;
+		h3 {
+			color: #018265;
+		}
+		.tdata-wrapper {
+			border-bottom: 1px solid #ccc;
+			cursor: pointer;
+			padding: 10px 20px;
+			&:hover {
+				background: #eee;
+			}
+			h5 {
+				color: #018265;
+				font-size: 1.2rem;
+			}
+		}
+		.tdata-wrapper:last-child {
+			border-bottom: none;
+		}
+		
+}
+
+.popup {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%) scale(0);
+	padding: 20px;
+	z-index: 20;
+	background: white;
+	width: 100%;
+	max-width: 1000px;
+	transition: 0.2s;
+	overflow-y: auto;
+	max-height: 90%;
+		.popup-header {
+			align-items: center;
+			justify-content: space-betwee;
+			display: flex;
+				.close-btn {
+					cursor: pointer;
+					border: none;
+					outline: none;
+					background: none;
+					font-weight: bold;
+					position: absolute;
+					top: 0;
+					right: 0;
+					font-size: 2rem;
+					width: 50px;
+				}
+		}
+		h3 {
+			margin-top: 0 !important;
+			width: calc(100% - 50px);
+			font-size: 1.5rem !important;
+		}
+		.popup-body {
+			word-break: break-word;
+		}
+		&.active {
+			transform: translate(-50%, -50%) scale(1);
+		}
+}
+
+#overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba(0,0,0,0.5);
+	pointer-events: none;
+	opacity: 0;
+	z-index: 5;
+		&.active {
+			opacity: 1;
+			pointer-events:all;
+		}
+}
+
 
 .content {
 	margin-top: -100px;
@@ -305,6 +436,8 @@ a.pv {margin-left: 10px;}
 		}
 	}
 	.key-dates-side {
+			position: sticky;
+			top: 50px;
 		td {
 			font-size: 1em; font-weight: 400;
 		}

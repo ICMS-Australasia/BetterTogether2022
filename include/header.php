@@ -7,7 +7,9 @@
 
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <link rel="stylesheet" href="style.css">
+<script src="./js/interactive-s.js" defer></script>
 <title><?php echo $title ?> | Australasian Academy of Cerebral Palsy and Developmental Medicine/International Alliance of Academies of Childhood Disability 2022</title>
 <script src="https://kit.fontawesome.com/f399078202.js" crossorigin="anonymous"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -60,24 +62,12 @@
                                             About <i class="fas fa-angle-down ml-1"></i>
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <a class="dropdown-item" href="latest-news.php">Latest News</a>
                                             <a class="dropdown-item" href="welcome.php">Welcome Message</a>
-                                            <a class="dropdown-item" href="hosts.php">Hosts</a>
-                                            <a class="dropdown-item" href="committee.php">Committee</a>
                                             <a class="dropdown-item" href="ambassadors.php">Ambassadors</a>
-                                            <a class="dropdown-item" href="latest-news.php">Latest News</a>
+                                            <a class="dropdown-item" href="committee.php">Committee</a>
+                                            <a class="dropdown-item" href="hosts.php">Hosts</a>
                                             <!-- <a class="dropdown-item" href="privacy-policy.php">Promotional Material</a> -->
-                                        </div>
-                                    </li>
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Destination <i class="fas fa-angle-down ml-1"></i>
-                                        </a>
-                                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="explore-melbourne.php">Explore Melbourne</a>
-                                            <a class="dropdown-item" href="destination-discovery.php">Destination Discovery</a>
-                                            <a class="dropdown-item" href="travel-and-transport-tips.php">Travel and Transport Tips</a>
-                                            <!-- <a class="dropdown-item" href="conference-venue.php">Conference Venue</a> -->
-                                            <!-- <a class="dropdown-item" href="cross-disciplinary-workshops.php">Local Eats</a> -->
                                         </div>
                                     </li>
                                     <li class="nav-item dropdown">
@@ -98,16 +88,38 @@
                                     </li>
                                     <li class="nav-item dropdown">
                                         <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            Call for Abstracts <i class="fas fa-angle-down ml-1"></i>
+                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                            <a class="dropdown-item" href="late-breaking-abstracts.php">Late Breaking Abstracts</a>
+                                            <a class="dropdown-item" href="presentation-tips.php">Presentation Tips</a>
+                                        </div>
+                                    </li>
+                                    <!-- <li class="nav-item dropdown">
+                                        <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            Destination <i class="fas fa-angle-down ml-1"></i>
+                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        
+                                            <a class="dropdown-item" href="destination-discovery.php">Destination Discovery</a>
+                                            <a class="dropdown-item" href="travel-and-transport-tips.php">Travel and Transport Tips</a>
+                                            <a class="dropdown-item" href="conference-venue.php">Conference Venue</a>
+                                            <a class="dropdown-item" href="cross-disciplinary-workshops.php">Local Eats</a>
+                                        </div>
+                                    </li> -->
+                                    
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             Program <i class="fas fa-angle-down ml-1"></i>
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                             <a class="dropdown-item" href="program-overview.php">Program Overview</a>
                                             <!-- <a class="dropdown-item" href="call-for-abstracts.php">Call for Abstracts</a> -->
                                             <a class="dropdown-item" href="keynote-speakers.php">Keynote Speakers</a>
-											<a class="dropdown-item" href="late-breaking-abstracts.php">Late Breaking Abstracts</a>
+											
                                             <a class="dropdown-item" href="pre-conference-workshops.php">Pre-Conference Workshops</a>
                                             <!-- <a class="dropdown-item" href="focused-symposia.php">Focused Symposia</a> -->
-                                            <a class="dropdown-item" href="support-abstract.php">Presentation Tips</a>
+                                            <a class="dropdown-item" href="interactive-sessions.php">Interactive Sessions</a>
                                             <a class="dropdown-item" href="awards.php">Awards</a>
                                             <a class="dropdown-item" href="scientific-committee.php">Scientific Committee</a>
                                             <!-- <a class="dropdown-item" href="speakers.php">Program at a Glance</a> -->
@@ -133,6 +145,7 @@
                                             Information <i class="fas fa-angle-down ml-1"></i>
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <a class="dropdown-item" href="host-city.php">Host City</a>
                                             <!-- <a class="dropdown-item" href="general-information.php">General Information</a> -->
                                             <a class="dropdown-item" href="privacy-policy.php">Privacy Policy</a>
                                             <a class="dropdown-item" href="contact-us.php">Contact Us</a>
