@@ -37,7 +37,7 @@ You are able to purchase an add-on to your registration to attend any these Work
     <div class="popup-wrapper">
         <div class="ws-info">
           <p><b>International Genomics</b></p>
-          <p>Michael Fahey, Michael Kruer, Joseph Getz, Sarah McIntyre, Yana Wilson</p>
+          <p>Michael Fahey, Michael Kruer, Joseph Getz, Yana Wilson</p>
         </div>
         <div class="ws-popup">
         <div class="popup-header">
