@@ -201,6 +201,12 @@ a.pv {
   min-height: 100px;
 }
 
+.sub-button {
+  color: #008265;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
 .ws-info {
   display: block;
   width: 100%;

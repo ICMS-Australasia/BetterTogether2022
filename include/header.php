@@ -10,6 +10,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <link rel="stylesheet" href="style.css">
 <script src="./js/interactive-s.js" defer></script>
+<script src="./js/workshops.js" defer></script>
 <script src="./js/popup.js" defer></script>
 <title><?php echo $title ?> | Australasian Academy of Cerebral Palsy and Developmental Medicine/International Alliance of Academies of Childhood Disability 2022</title>
 <script src="https://kit.fontawesome.com/f399078202.js" crossorigin="anonymous"></script>
