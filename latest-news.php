@@ -13,6 +13,12 @@
         "items": [
             // UPDATE THIS
             {
+               "date": "Thursday, October 21 2021",
+               "img": "17.jpg",
+                "title": "Last Chance for Early Bird Registration",
+                "link": "https://mailchi.mp/62b219332058/last-chance-for-early-bird-registration?e=04e59afc71"
+            },
+            {
                "date": "Thursday, October 7 2021",
                "img": "16.jpg",
                 "title": "Better Together 2022 Supports World Mental Health Day",
