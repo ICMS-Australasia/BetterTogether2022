@@ -3,18 +3,7 @@ document.getElementById("workshops").innerHTML= `
 <div class="col-12">
   <div class="row">
 
-    <div class="popup-wrapper">
-        <div class="ws-info">
-          <p><b>International Genomics</b></p>
-          <p>Prof Michael Fahey, Prof Michael Kruer, Prof Jozef Gecz, Dr Sarah McIntyre, Ms Yana Wilson, Dr Charles Steward, Prof Gareth Baynam, Dr Clare van Eyk, Prof Zornitza Stark, Prof Nadia Badawi</p>
-        </div>
-        <div class="ws-popup">
-        <div class="popup-header">
-          <p>The aim of this Workshop is to introduce and discuss the latest advances in the field of Genomics of Cerebral Palsies (CP) and with the members and supporters of the International Cerebral Palsy Genomics Consortium. The agenda of the workshop aims to inform the participants about the most up to date CP gene diagnostic gene panel and what constitutes a CP gene. To discuss engagement with the CP communities and specifically in view of the impact of a genetic diagnosis and treatment opportunities such a diagnosis may present. We shall also present select state-of-the-art basic and translational research in genomics of CP or related fields.</p>
-          <button data-close-button class="close-btn">&times;</button>
-        </div>
-        </div>
-    </div>
+    
 
     <div class="popup-wrapper">
       <div class="ws-info">
@@ -70,6 +59,19 @@ document.getElementById("workshops").innerHTML= `
 <h3 class="color-title mb-0">LONG WORKSHOPS</h3>
 <div class="col-12">
   <div class="row">
+
+  <div class="popup-wrapper">
+        <div class="ws-info">
+          <p><b>International Genomics</b></p>
+          <p>Prof Michael Fahey, Prof Michael Kruer, Prof Jozef Gecz, Dr Sarah McIntyre, Ms Yana Wilson, Dr Charles Steward, Prof Gareth Baynam, Dr Clare van Eyk, Prof Zornitza Stark, Prof Nadia Badawi</p>
+        </div>
+        <div class="ws-popup">
+        <div class="popup-header">
+          <b class="color-title">AEDT Time: 8:00am – 12:30pm</b><button data-close-button class="close-btn">&times;</button>
+        </div>
+          <p>The aim of this Workshop is to introduce and discuss the latest advances in the field of Genomics of Cerebral Palsies (CP) and with the members and supporters of the International Cerebral Palsy Genomics Consortium. The agenda of the workshop aims to inform the participants about the most up to date CP gene diagnostic gene panel and what constitutes a CP gene. To discuss engagement with the CP communities and specifically in view of the impact of a genetic diagnosis and treatment opportunities such a diagnosis may present. We shall also present select state-of-the-art basic and translational research in genomics of CP or related fields.</p> 
+        </div>
+    </div>
 
   <div class="popup-wrapper">
     <div class="ws-info">
