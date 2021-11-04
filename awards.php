@@ -3,7 +3,28 @@
     include('include/header.php');
  ?>
 
- <p>The AusACPDM is pleased to offer a series of awards to honour our outstanding members and contributors to society. The Academy recognises scientific excellence and professional and community contributions with the following awards:</p>
+<p>The AusACPDM is pleased to offer a series of awards to honour our outstanding members and contributors to society. The Academy recognises scientific excellence and professional and community contributions with the following awards.</p>
+<b>Nominations are now open and will close on 15 December 2021</b>
+<ul>
+    <li>Advocacy Achievement Award </li>
+    <li>Mentorship Award</li>
+    <li>Transformative Practice Award</li>
+    <li>Person with lived experience – Outstanding Contribution Award</li>
+    <li>Local Hero Award (from Victoria – host state of the conference)</li>
+</ul>
+<p>Visit the <a href="https://www.ausacpdm.org.au/about/awards/" target="_blank">AusACPDM website</a> for further information on the awards criteria and submission process.</p>
+<h2>Conference Awards</h2>
+<p>Each conference year, the AusACPDM recognises scientific excellence and professional and community contributions with the following awards presented at each AusACPDM conference.</p>
+<ul>
+    <li>Best Paper and Best Poster</li>
+    <li>Cerebral Palsy Alliance Research Foundation: Best prevention or cure paper</li>
+    <li>Promising Career Award</li>
+</ul>
+	
+<p>Visit the <a href="https://www.ausacpdm.org.au/conference-2/awards/" target="_blank">AusACPDM website</a> for further information on these awards. </p>
+
+
+ <!-- <p>The AusACPDM is pleased to offer a series of awards to honour our outstanding members and contributors to society. The Academy recognises scientific excellence and professional and community contributions with the following awards:</p>
 
 <h2>Best Paper and Best Poster</h2>
 <p><b>Who</b>: The recipients of these awards will be the first author of the paper and the poster that receive the highest score for their abstract and paper or poster presentation.</p>
@@ -42,7 +63,7 @@
 <h4>For further information on AUSACPDM Awards, please contact:</h4>
  <p><b>Sarah McIntyre</b>
      <a href="mailto:awards@ausacpdm.org.au">awards@ausacpdm.org.au</a></p>
-
+ -->
 
 
 <?php

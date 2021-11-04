@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 <!-- Bootstrap CSS -->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <link rel="stylesheet" href="style.css">
 <script src="./js/interactive-s.js" defer></script>
@@ -40,18 +40,19 @@
 <div class="header">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-12 col-lg-6">
-                <a href="index.php"><img src="./img/conference-logo.png" alt="AusACPDM/IAACD Logo" class="img-fluid p-5 float-right" width="650"></a>
+            <div class="col-12 col-lg-5">
+                <a href="index.php"><img src="./img/conference-logo.png" alt="AusACPDM/IAACD Logo" class="img-fluid p-5 float-end" width="550"></a>
             </div>
-            <div class="col-12 col-lg-6 d-flex align-items-center">
+            <div class="col-12 col-lg-7 d-flex align-items-center">
                 <div class="row">
                     <div class="col-12">
-                        <img src="./img/hosted-by-logo.png" alt="AusACPDM/IAACD Logo" class="img-fluid py-4 float-left" width="600">
+                        <img src="./img/hosted-by-logo.png" alt="AusACPDM/IAACD Logo" class="img-fluid py-4 float-start" width="600">
                     </div>
                     <!-- Navigation Bar Desktop -->
                     <div class="col-12  px-0 pr-lg-0">
                         <nav class="navbar navbar-expand-lg navbar-light">
-                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <div class="container-fluid">
+                            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="navbar-toggler-icon"></span>
                             </button>
                             <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -60,101 +61,72 @@
                                         <a class="nav-link" href="index.php">Home</a>
                                     </li>
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             About <i class="fas fa-angle-down ml-1"></i>
                                         </a>
-                                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="latest-news.php">Latest News</a>
-                                            <a class="dropdown-item" href="welcome.php">Welcome Message</a>
-                                            <a class="dropdown-item" href="ambassadors.php">Ambassadors</a>
-                                            <a class="dropdown-item" href="committee.php">Committee</a>
-                                            <a class="dropdown-item" href="hosts.php">Hosts</a>
-                                            <!-- <a class="dropdown-item" href="privacy-policy.php">Promotional Material</a> -->
-                                        </div>
+                                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                            <li><a class="dropdown-item" href="latest-news.php">Latest News</a></li>
+                                            <li><a class="dropdown-item" href="welcome.php">Welcome Message</a></li>
+                                            <li><a class="dropdown-item" href="ambassadors.php">Ambassadors</a></li>
+                                            <li><a class="dropdown-item" href="committee.php">Committee</a></li>
+                                            <li><a class="dropdown-item" href="hosts.php">Hosts</a></li>
+                                        </ul>
                                     </li>
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             Registration <i class="fas fa-angle-down ml-1"></i>
                                         </a>
-                                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                          <a class="dropdown-item" href="registration.php">Registration</a>
-                                          <a class="dropdown-item" href="lived-experience-free-passes.php">Lived Experience Free Passes</a>
-                                          <a class="dropdown-item" href="scholarships.php">Scholarships</a>
-                                          <!-- <a class="dropdown-item" href="accommodation.php">Accommodation</a> -->
-                                            <!-- <a class="dropdown-item" href="program.php">Scholarships</a> -->
-                                            <!-- <a class="dropdown-item" href="visa-information.php">Visa Information</a> -->
-                                            <!-- <a class="dropdown-item" href="speakers.php">Social Functions</a> -->
-                                            <!-- <a class="dropdown-item" href="speakers.php">Wellness Activities</a> -->
-                                            <a class="dropdown-item" href="terms-and-conditions.php">Terms & Conditions</a>
-                                        </div>
+                                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                            <li><a class="dropdown-item" href="registration.php">Registration</a></li>
+                                            <li><a class="dropdown-item" href="lived-experience-free-passes.php">Lived Experience Free Passes</a></li>
+                                            <li><a class="dropdown-item" href="scholarships.php">Scholarships</a></li>
+                                            <li><a class="dropdown-item" href="terms-and-conditions.php">Terms & Conditions</a></li>
+                                        </ul>
                                     </li>
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             Call for Abstracts <i class="fas fa-angle-down ml-1"></i>
                                         </a>
-                                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" href="late-breaking-abstracts.php">Late Breaking Abstracts</a>
-                                            <a class="dropdown-item" href="presentation-tips.php">Presentation Tips</a>
-                                        </div>
+                                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                            <li><a class="dropdown-item" href="late-breaking-abstracts.php">Late Breaking Abstracts</a></li>
+                                            <li><a class="dropdown-item" href="presenter-hub.php">Presenter Hub</a></li>
+                                        </ul>
                                     </li>
-                                    <!-- <li class="nav-item dropdown">
-                                        <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Destination <i class="fas fa-angle-down ml-1"></i>
-                                        </a>
-                                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        
-                                            <a class="dropdown-item" href="destination-discovery.php">Destination Discovery</a>
-                                            <a class="dropdown-item" href="travel-and-transport-tips.php">Travel and Transport Tips</a>
-                                            <a class="dropdown-item" href="conference-venue.php">Conference Venue</a>
-                                            <a class="dropdown-item" href="cross-disciplinary-workshops.php">Local Eats</a>
-                                        </div>
-                                    </li> -->
-                                    
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             Program <i class="fas fa-angle-down ml-1"></i>
                                         </a>
-                                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" href="program-overview.php">Program Overview</a>
-                                            <!-- <a class="dropdown-item" href="call-for-abstracts.php">Call for Abstracts</a> -->
-                                            <a class="dropdown-item" href="keynote-speakers.php">Keynote Speakers</a>
-											
-                                            <a class="dropdown-item" href="pre-conference-workshops.php">Pre-Conference Workshops</a>
-                                            <!-- <a class="dropdown-item" href="focused-symposia.php">Focused Symposia</a> -->
-                                            <a class="dropdown-item" href="interactive-sessions.php">Interactive Sessions</a>
-                                            <a class="dropdown-item" href="awards.php">Awards</a>
-                                            <a class="dropdown-item" href="scientific-committee.php">Scientific Committee</a>
-                                            <!-- <a class="dropdown-item" href="speakers.php">Program at a Glance</a> -->
-                                            <!-- <a class="dropdown-item" href="speakers.php">Full Program</a> -->
-                                            <!-- <a class="dropdown-item" href="speakers.php">Early Career Researchers</a> -->
-                                            <!-- <a class="dropdown-item" href="speakers.php">Mentor Program</a> -->
-                                            <!-- <a class="dropdown-item" href="speakers.php">Workshops/Symposia</a> -->
-                                            <!-- <a class="dropdown-item" href="speakers.php">Breakfast Sessions</a> -->
-                                            <!-- <a class="dropdown-item" href="speakers.php">Presenter Instructions</a> -->
-                                        </div>
+                                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                            <li><a class="dropdown-item" href="program-overview.php">Program Overview</a></li>
+                                            <li><a class="dropdown-item" href="keynote-speakers.php">Keynote Speakers</a></li>
+                                            <li><a class="dropdown-item" href="pre-conference-workshops.php">Pre-Conference Workshops</a></li>
+                                            <li><a class="dropdown-item" href="interactive-sessions.php">Interactive Sessions</a></li>
+                                            <li><a class="dropdown-item" href="awards.php">Awards</a></li>
+                                            <li><a class="dropdown-item" href="scientific-committee.php">Scientific Committee</a></li>
+                                        </ul>
                                     </li>
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             Sponsorship <i class="fas fa-angle-down ml-1"></i>
                                         </a>
-                                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" href="sponsorship-information.php">Sponsorship Information</a>
-                                            <a class="dropdown-item" href="supporters.php">Our Supporters</a>
-                                        </div>
+                                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                            <li><a class="dropdown-item" href="sponsorship-information.php">Sponsorship Information</a></li>
+                                            <li><a class="dropdown-item" href="supporters.php">Our Supporters</a></li>
+                                        </ul>
                                     </li>
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             Information <i class="fas fa-angle-down ml-1"></i>
                                         </a>
-                                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="host-city.php">Host City</a>
-                                            <!-- <a class="dropdown-item" href="general-information.php">General Information</a> -->
-                                            <a class="dropdown-item" href="privacy-policy.php">Privacy Policy</a>
-                                            <a class="dropdown-item" href="contact-us.php">Contact Us</a>
-                                        </div>
+                                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                            <li><a class="dropdown-item" href="host-city.php">Host City</a></li>
+                                            <li><a class="dropdown-item" href="privacy-policy.php">Privacy Policy</a></li>
+                                            <li><a class="dropdown-item" href="contact-us.php">Contact Us</a></li>
+                                        </ul>
                                     </li>
                                 </ul>
                             </div>
+                        </div>
                         </nav>
                     </div>
                 </div>

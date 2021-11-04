@@ -71,6 +71,7 @@ a:hover {
 
 .register-banner a {
   display: block;
+  position: relative;
 }
 
 .register-banner a p {
@@ -91,6 +92,7 @@ a:hover {
 
 .is-banner a {
   display: block;
+  position: relative;
 }
 
 .is-banner a p {
@@ -184,6 +186,29 @@ a.pv {
 
 .tdata .tdata-wrapper:last-child {
   border-bottom: none;
+}
+
+.resource-tbl button {
+  background: #7bc142;
+  color: white;
+}
+
+.resource-tbl tr:nth-child(odd) {
+  background: #eee;
+}
+
+#pt-faq .accordion-button:not(.collapsed) {
+  background: #09948a;
+  color: white;
+}
+
+#pt-faq .accordion-button:not(.collapsed)::after {
+  -webkit-filter: brightness(5);
+          filter: brightness(5);
+}
+
+#pt-faq .accordion-body {
+  background: #eee;
 }
 
 .placeholdr {
@@ -762,6 +787,7 @@ a.pv {
 
 .content .things-to-do div {
   height: 250px;
+  position: relative;
 }
 
 .content .things-to-do div img {
@@ -937,6 +963,17 @@ a.pv {
 
 .header .navbar .dropdown-menu .dropdown-item:hover {
   background: #008c6d;
+}
+
+.navbar-light .navbar-toggler-icon {
+  -webkit-filter: invert(1) brightness(5);
+          filter: invert(1) brightness(5);
+  opacity: 1;
+}
+
+.navbar-light .navbar-toggler {
+  color: white;
+  border: none;
 }
 
 .hero .carousel {

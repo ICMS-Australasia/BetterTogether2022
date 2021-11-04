@@ -55,6 +55,7 @@ a {
 .register-banner {
 	a {
 		display: block;
+		position: relative;
 		p {
 			top: 50%;
 			left: 3rem;
@@ -73,6 +74,7 @@ a {
 .is-banner {
 	a {
 		display: block;
+		position: relative;
 		p {
 			top: 50%;
 			right: 3rem;
@@ -152,6 +154,29 @@ a.pv {margin-left: 10px;}
 			border-bottom: none;
 		}
 		
+}
+
+.resource-tbl {
+	button {
+		background: #7bc142;
+		color: white;
+	}
+	tr:nth-child(odd) {
+    	background: #eee;
+	}
+}
+
+#pt-faq {
+	.accordion-button:not(.collapsed) {
+		background: #09948a;
+		color: white;
+		&::after {
+			filter: brightness(5);
+		}
+	}
+	.accordion-body {
+		background: #eee;
+	}
 }
 
 .placeholdr {
@@ -622,6 +647,7 @@ a.pv {margin-left: 10px;}
 	.things-to-do {
 		div {
 			height: 250px;
+			position: relative;
 			img {
 				object-fit: cover;
 			}
@@ -774,6 +800,17 @@ a.pv {margin-left: 10px;}
 				}
 			}
 		}
+	}
+}
+
+.navbar-light {
+	.navbar-toggler-icon {
+		filter: invert(1) brightness(5);
+		opacity: 1;
+	}
+	.navbar-toggler {
+		color: white;
+		border: none;
 	}
 }
 
