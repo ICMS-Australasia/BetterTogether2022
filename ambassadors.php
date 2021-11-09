@@ -6,10 +6,6 @@
 
  <p>If you are interested in becoming a Conference Ambassador please contact - <a href="mailto:info@bettertogether2022.org">info@bettertogether2022.org</a></p>
 
- <h2>Thank you to our Ambassadors</h2>
-
- <div class="row" id="ambassadors"></div>
-
  <h2>Ambassador Resources</h2>
  <p>To assist Ambassadors in their efforts to promote the Conference, the Organising Committee has provided the following promotional materials.</p>
  <ul>
@@ -18,6 +14,12 @@
    <li class="mb-2"><a href="downloads/PowerPoint-Template-and-Titles-Slide.zip" target="_blank">PowerPoint Template and Title Slide</a></li>
    <li class="mb-2"><a href="downloads/Zoom-Backgrounds.zip" target="_blank">Zoom Backgrounds</a></li>
  </ul>
+ 
+ <h2>Thank you to our Ambassadors</h2>
+
+ <div class="row" id="ambassadors"></div>
+
+ 
 
 
 <script type="text/javascript">

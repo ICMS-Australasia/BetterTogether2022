@@ -34,6 +34,18 @@ h3 a {
   margin-bottom: 0;
 }
 
+.mt-1 {
+  margin-top: 1em;
+}
+
+.mt-2 {
+  margin-top: 2em;
+}
+
+.mt-3 {
+  margin-top: 3em;
+}
+
 .info td {
   font: 11px/16px Arial, sans-serif;
 }
@@ -89,6 +101,10 @@ h3 a {
   font-weight: bold;
   font-size: 20px;
   margin: 0 10px;
+}
+
+table.sp-logo {
+  width: 100%;
 }
 
 .content > td {
