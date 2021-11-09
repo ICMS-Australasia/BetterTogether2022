@@ -18,15 +18,15 @@
 
             <tr align="center" class="heading"><th>Key Dates</th></tr>
 
-            <tr align="center" class="sub-heading"><th>Abstract Notifications</th></tr>
+            <tr align="center" class="sub-heading"><th>Late Breaking Abstracts</th></tr>
 
-                <tr align="center"><td>Announced September 2021</td></tr>
+                <tr align="center"><td>Closes 1 December 2021</td></tr>
 
                 <!-- <tr align="center"><td>Early bird closes December 2021</td></tr> -->
 
-            <tr align="center" class="sub-heading"><th>Late Breaking Abstracts</th></tr>
+            <tr align="center" class="sub-heading"><th>Abstract Notifications</th></tr>
 
-                <tr align="center"><td>Opens 30 September 2021</td></tr>
+                <tr align="center"><td>Announced December 2021</td></tr>
 
                 <!-- <tr align="center" bgcolor="#f2f2f2"><td>Close December 2021</td></tr>
 
@@ -34,13 +34,13 @@
 
             <tr align="center" class="sub-heading"><th>Scholarship Applications</th></tr>
 
-                <tr align="center"><td>Announced October 2021</td></tr>
+                <tr align="center"><td>Closes 10 January 2022</td></tr>
 
                 <!-- <tr align="center"><td>Early bird closes December 2021</td></tr> -->
 
-            <tr align="center" class="sub-heading"><th>Early Bird Registration</th></tr>
+            <!-- <tr align="center" class="sub-heading"><th>Early Bird Registration</th></tr>
 
-                <tr align="center"><td>Closes 1 November 2021</td></tr>
+                <tr align="center"><td>Closes 1 November 2021</td></tr> -->
 
                 <!-- <tr align="center"><td>Close April 2021</td></tr>
 
