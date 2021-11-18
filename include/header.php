@@ -98,6 +98,7 @@
                                         </a>
                                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                             <li><a class="dropdown-item" href="program-overview.php">Program Overview</a></li>
+                                            <li><a class="dropdown-item" href="social-sideshows.php">Social Sideshows</a></li>
                                             <li><a class="dropdown-item" href="keynote-speakers.php">Keynote Speakers</a></li>
                                             <li><a class="dropdown-item" href="pre-conference-workshops.php">Pre-Conference Workshops</a></li>
                                             <li><a class="dropdown-item" href="interactive-sessions.php">Interactive Sessions</a></li>

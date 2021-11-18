@@ -13,6 +13,12 @@
         "items": [
             // UPDATE THIS
             {
+               "date": "Thursday, November 17 2021",
+               "img": "18.jpg",
+                "title": "Two Weeks Remain, Submit Your Late Breaking Abstract Now",
+                "link": "https://mailchi.mp/dd0e42816b54/two-weeks-remain-submit-your-late-breaking-abstract-now?e=04e59afc71"
+            },
+            {
                "date": "Thursday, October 21 2021",
                "img": "17.jpg",
                 "title": "Last Chance for Early Bird Registration",

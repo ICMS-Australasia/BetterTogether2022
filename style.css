@@ -1031,11 +1031,23 @@ a.pv {
   .button {
     font-size: 30px;
   }
+  a.fpb {
+    width: 100%;
+    text-align: center;
+  }
 }
 
 @media (min-width: 768px) {
   .container-fluid {
     height: 100%;
+  }
+  .announcement {
+    position: relative;
+  }
+  a.fpb {
+    position: absolute;
+    top: -120px;
+    right: 0;
   }
 }
 /*# sourceMappingURL=style.css.map */
