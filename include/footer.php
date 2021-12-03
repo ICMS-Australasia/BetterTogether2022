@@ -13,8 +13,14 @@
         <a href="./pre-conference-sessions.php" class="button-small mx-auto d-block text-center p-4 mb-4">Pre-Conference Sessions</a>
 
       <?php } ?>
-
+        
         <table class="key-dates-side" cellpadding="15" cellspacing="0" border="0" width="100%">
+            <tr align="center" class="sub-heading"><th><a href="https://bettertogether2022.org/registration.php">Registrer Today</a></th></tr>
+            <tr align="center"><td><a href="https://bettertogether2022.org/presenter-hub.php"><b>Presenter Hub</b></a></td></tr>
+            <tr align="center" class="sub-heading"><th><a href="https://bettertogether2022.org/social-sideshows.php">Social Sideshows</a></th></tr>
+        </table>
+
+        <!-- <table class="key-dates-side" cellpadding="15" cellspacing="0" border="0" width="100%">
 
             <tr align="center" class="heading"><th>Key Dates</th></tr>
 
@@ -22,29 +28,13 @@
 
                 <tr align="center"><td>Closes 1 December 2021</td></tr>
 
-                <!-- <tr align="center"><td>Early bird closes December 2021</td></tr> -->
-
             <tr align="center" class="sub-heading"><th>Abstract Notifications</th></tr>
 
                 <tr align="center"><td>Announced December 2021</td></tr>
 
-                <!-- <tr align="center" bgcolor="#f2f2f2"><td>Close December 2021</td></tr>
-
-                <tr align="center"><td>Notify January 2022</td></tr> -->
-
             <tr align="center" class="sub-heading"><th>Scholarship Applications</th></tr>
 
                 <tr align="center"><td>Closes 10 January 2022</td></tr>
-
-                <!-- <tr align="center"><td>Early bird closes December 2021</td></tr> -->
-
-            <!-- <tr align="center" class="sub-heading"><th>Early Bird Registration</th></tr>
-
-                <tr align="center"><td>Closes 1 November 2021</td></tr> -->
-
-                <!-- <tr align="center"><td>Close April 2021</td></tr>
-
-                <tr align="center" bgcolor="#f2f2f2"><td>Notify August 2021</td></tr> -->
 
             <tr align="center" class="conference-heading"><th>Better Together 2022</th></tr>
 
@@ -52,7 +42,7 @@
 
                 <tr align="center" class="conference"><th>Conference dates 2 - 5 March 2022</th></tr>
 
-        </table>
+        </table> -->
 
 <?php } ?>
 

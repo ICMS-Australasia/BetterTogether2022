@@ -111,6 +111,10 @@ a:hover {
   font-size: 2.3rem;
 }
 
+.fp th:nth-child(2), .fp td:nth-child(2) {
+  text-align: center;
+}
+
 .keynote-block a {
   text-decoration: none;
   display: block;

@@ -12,6 +12,8 @@
 
 <p>Names, Games & Rock n Roll is an engaging and fun-filled session that combines your love of music, games & general knowledge in a laugh out loud, virtual event. There is something for everyone to enjoy in these interactive sessions including trivia, live music performed by Brihony and their talented team and plenty of themed games to give attendees back their spark, learn hidden skills and connect like you never have before.</p>
 
+<p><a href="https://vimeo.com/648378904" target="_blank" class="button">Watch Promo Video</a></p>
+
 <img src="./img/social-ss/1.png" class="img-fluid">
 
 <h3>Ask Me Anything Sessions</h3>

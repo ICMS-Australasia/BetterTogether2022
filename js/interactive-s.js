@@ -770,7 +770,7 @@ Laboratory-based optical motion capture is the current gold standard for    clin
 		
 	ptitle: "Developing mobile health technology for assessment, therapy and participation in cerebral palsy: Pearls and pitfalls",
 		
-	pname: "Associate Professor Brian Hoare",
+	pname: "Mr Rowan Johnson, Prof Alicia Spittle, A/Prof Keiko Shikako-Thomas, Mr Gopi Kitnasamy, A/Prof Brian Hoare (Chair)",
 		
 	ptype: "Focussed Symposium",
 

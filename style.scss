@@ -91,6 +91,12 @@ a {
 	}
 }
 
+.fp {
+	th:nth-child(2), td:nth-child(2) {
+		text-align: center;
+	}
+}
+
 .keynote-block {
 	a {
 		text-decoration: none;

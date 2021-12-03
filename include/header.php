@@ -83,7 +83,10 @@
                                             <li><a class="dropdown-item" href="terms-and-conditions.php">Terms & Conditions</a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item dropdown">
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="presenter-hub.php">Presenter Hub</a>
+                                    </li>
+                                    <!-- <li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             Call for Abstracts <i class="fas fa-angle-down ml-1"></i>
                                         </a>
@@ -91,7 +94,7 @@
                                             <li><a class="dropdown-item" href="late-breaking-abstracts.php">Late Breaking Abstracts</a></li>
                                             <li><a class="dropdown-item" href="presenter-hub.php">Presenter Hub</a></li>
                                         </ul>
-                                    </li>
+                                    </li> -->
                                     <li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             Program <i class="fas fa-angle-down ml-1"></i>
@@ -102,6 +105,7 @@
                                             <li><a class="dropdown-item" href="keynote-speakers.php">Keynote Speakers</a></li>
                                             <li><a class="dropdown-item" href="pre-conference-workshops.php">Pre-Conference Workshops</a></li>
                                             <li><a class="dropdown-item" href="interactive-sessions.php">Interactive Sessions</a></li>
+                                            <li><a class="dropdown-item" href="free-papers.php">Free Papers</a></li>
                                             <li><a class="dropdown-item" href="awards.php">Awards</a></li>
                                             <li><a class="dropdown-item" href="scientific-committee.php">Scientific Committee</a></li>
                                         </ul>
@@ -162,7 +166,7 @@
             </div>
         </div>
     </div>
-		<?php if (!in_array($title, array("Program Overview"))) { ?>
+		<?php if (!in_array($title, array("Program Overview", "Free Papers"))) { ?>
 		<div class="container">
 		<?php } else { ?>
       <div class="container full">
