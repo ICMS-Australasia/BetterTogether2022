@@ -91,6 +91,15 @@ a {
 	}
 }
 
+.button.side-menu a {
+    color: white;
+}
+.button.side-menu {
+    font-size: 1.3rem;
+    display: block;
+    text-align: center;
+}
+
 .fp {
 	th:nth-child(2), td:nth-child(2) {
 		text-align: center;
@@ -499,7 +508,7 @@ a.pv {margin-left: 10px;}
 			font-size: 1.1em;
 		}
 	}
-	.key-dates-side {
+	.key-dates-side, .side-menu-wrapper {
 			position: sticky;
 			top: 50px;
 		td {

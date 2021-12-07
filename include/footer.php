@@ -14,12 +14,12 @@
 
       <?php } ?>
         
-        <table class="key-dates-side" cellpadding="15" cellspacing="0" border="0" width="100%">
-            <tr align="center" class="sub-heading"><th><a href="https://bettertogether2022.org/registration.php">Registrer Today</a></th></tr>
-            <tr align="center"><td><a href="https://bettertogether2022.org/presenter-hub.php"><b>Presenter Hub</b></a></td></tr>
-            <tr align="center" class="sub-heading"><th><a href="https://bettertogether2022.org/social-sideshows.php">Social Sideshows</a></th></tr>
-        </table>
-
+        <div class="side-menu-wrapper">
+                <div class="button side-menu py-3"><a href="registration.php">Registrer Today</a></div>
+                <div class="button side-menu py-3 my-2"><a href="presenter-hub.php">Presenter Hub</a></div>
+                <div class="button side-menu py-3"><a href="social-sideshows.php">Social Sideshows</a></div>
+        </div>
+        
         <!-- <table class="key-dates-side" cellpadding="15" cellspacing="0" border="0" width="100%">
 
             <tr align="center" class="heading"><th>Key Dates</th></tr>

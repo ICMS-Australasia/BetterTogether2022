@@ -111,6 +111,16 @@ a:hover {
   font-size: 2.3rem;
 }
 
+.button.side-menu a {
+  color: white;
+}
+
+.button.side-menu {
+  font-size: 1.3rem;
+  display: block;
+  text-align: center;
+}
+
 .fp th:nth-child(2), .fp td:nth-child(2) {
   text-align: center;
 }
@@ -631,33 +641,33 @@ a.pv {
   font-size: 1.1em;
 }
 
-.content .key-dates-side {
+.content .key-dates-side, .content .side-menu-wrapper {
   position: -webkit-sticky;
   position: sticky;
   top: 50px;
 }
 
-.content .key-dates-side td {
+.content .key-dates-side td, .content .side-menu-wrapper td {
   font-size: 1em;
   font-weight: 400;
 }
 
-.content .key-dates-side .heading {
+.content .key-dates-side .heading, .content .side-menu-wrapper .heading {
   background: #7BC142;
   font-size: 1.5em;
 }
 
-.content .key-dates-side .sub-heading {
+.content .key-dates-side .sub-heading, .content .side-menu-wrapper .sub-heading {
   background: #a3d47c;
   font-size: 1em;
 }
 
-.content .key-dates-side .conference-heading {
+.content .key-dates-side .conference-heading, .content .side-menu-wrapper .conference-heading {
   background: #96ce68;
   font-size: 1.2em;
 }
 
-.content .key-dates-side .conference {
+.content .key-dates-side .conference, .content .side-menu-wrapper .conference {
   border-top: 1px solid #b1da8f;
   background: #cbe7b5;
   font-size: 1em;

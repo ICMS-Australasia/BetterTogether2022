@@ -9,6 +9,7 @@
  <h2>Ambassador Resources</h2>
  <p>To assist Ambassadors in their efforts to promote the Conference, the Organising Committee has provided the following promotional materials.</p>
  <ul>
+   <li class="mb-2"><a href="downloads/Better Together 2022 Promotional Flyer.pdf" target="_blank">A4 Promotional Flyer</a></li>
    <li class="mb-2"><a href="downloads/A4-Promotional-Poster.pdf" target="_blank">A4 Promotional Poster</a></li>
    <li class="mb-2"><a href="downloads/Email-Signature.gif" target="_blank">Email Signature</a></li>
    <li class="mb-2"><a href="downloads/PowerPoint-Template-and-Titles-Slide.zip" target="_blank">PowerPoint Template and Title Slide</a></li>
