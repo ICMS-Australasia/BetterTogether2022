@@ -13,6 +13,12 @@
         "items": [
             // UPDATE THIS
             {
+               "date": "Wednesday, December 8 2021",
+               "img": "19.jpg",
+                "title": "Social Fun at Better Together 2022",
+                "link": "https://mailchi.mp/a4a0d8c52dfc/social-fun-at-better-together-2022?e=04e59afc71"
+            },
+            {
                "date": "Thursday, November 17 2021",
                "img": "18.jpg",
                 "title": "Two Weeks Remain, Submit Your Late Breaking Abstract Now",

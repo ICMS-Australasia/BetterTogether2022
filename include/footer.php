@@ -13,13 +13,13 @@
         <a href="./pre-conference-sessions.php" class="button-small mx-auto d-block text-center p-4 mb-4">Pre-Conference Sessions</a>
 
       <?php } ?>
-        
+
         <div class="side-menu-wrapper">
-                <div class="button side-menu py-3"><a href="registration.php">Registrer Today</a></div>
+                <div class="button side-menu py-3"><a href="registration.php">Register Today</a></div>
                 <div class="button side-menu py-3 my-2"><a href="presenter-hub.php">Presenter Hub</a></div>
                 <div class="button side-menu py-3"><a href="social-sideshows.php">Social Sideshows</a></div>
         </div>
-        
+
         <!-- <table class="key-dates-side" cellpadding="15" cellspacing="0" border="0" width="100%">
 
             <tr align="center" class="heading"><th>Key Dates</th></tr>
