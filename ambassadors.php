@@ -15,12 +15,12 @@
    <li class="mb-2"><a href="downloads/PowerPoint-Template-and-Titles-Slide.zip" target="_blank">PowerPoint Template and Title Slide</a></li>
    <li class="mb-2"><a href="downloads/Zoom-Backgrounds.zip" target="_blank">Zoom Backgrounds</a></li>
  </ul>
- 
+
  <h2>Thank you to our Ambassadors</h2>
 
  <div class="row" id="ambassadors"></div>
 
- 
+
 
 
 <script type="text/javascript">
@@ -31,6 +31,12 @@
       "last": "Armstrong",
       "affiliation": "AACPDM",
       "country": "Canada/Nairobi"
+    },
+    {
+      "first": "Bharti",
+      "last": "Arora",
+      "affiliation": "",
+      "country": "Australia"
     },
     {
       "first": "Jasmeet",

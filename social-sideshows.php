@@ -39,13 +39,13 @@
     <h3>Too Peas in a Podcast</h3>
         <p>Too Peas in a Podcast is run by two Melbourne mums (Mandy & Kate) where they chat to each other and friends about parenting multiples with disabilities and additional needs. With humour and honesty, Kate and Mandy cover a host of issues – from medical and educational challenges to social stigma, mental health and family relationship challenges. They also talk about their ongoing efforts to give their children rich and satisfying lives.</p>
         <p>You can listen to the Too Peas in a Podcast on Spotify & Apple Podcasts App. For more information you can visit their website <a href="https://toopeasinapodcast.com.au/" target="_blank">https://toopeasinapodcast.com.au/</a></p>
-    
+
     <img src="./img/social-ss/3.jpg" class="img-fluid">
 
 <h3>An Inspiring Dance Performance</h3>
 <p>The Inclusion Foundation is a for-purpose-charity that champions the inclusion of people with Down syndrome. Their dance classes incorporate general well-being and fitness whilst tackling broader issues often faced by people with Down syndrome. The Inclusion Foundation believes that inside everybody, behind every face, underneath all levels of human ability is a person with a unique story. This session will include an interview and choreographed dance piece from one of Emotion 21’s artists Jamie Haliday.</p>
 <p>You can find more information on their website <a href="https://inclusionfoundation.org.au/" target="_blank">https://inclusionfoundation.org.au/</a></p>
-
+<p><a href="https://vimeo.com/656416938" target="_blank" class="button">Watch Promo Video</a></p>
     <img src="./img/social-ss/4.jpg" class="img-fluid">
 
 <h3>A Paralympic Interview </h3>

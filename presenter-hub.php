@@ -137,6 +137,22 @@
     </div>
   </div>
   <div class="accordion-item">
+    <h2 class="accordion-header mt-0 py-0" id="headingTwoA">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwoA" aria-expanded="false" aria-controls="collapseTwoA">
+       <b>Where can I find the details/ instructions on my presentation and submission?</b>
+      </button>
+    </h2>
+    <div id="collapseTwoA" class="accordion-collapse collapse" aria-labelledby="headingTwoA" data-bs-parent="#pt-faq">
+      <div class="accordion-body">
+      The instructions on the required format of your presentation, link to the submission portal and further presentation details were sent to you via e-mail. The subject line of the e-mail is one of the below;<br><br>
+      <b>“Free Paper Submission Guide - Better Together 2022”</b><br>
+      <b>“Poster Submission Guide - Better Together 2022”</b><br>
+      <b>“Interactive Sessions Guide - Better Together 2022”</b><br><br>
+      If you cannot locate your e-mail please contact <a href="mailto:program@bettertogether2022.org">program@bettertogether2022.org</a>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
     <h2 class="accordion-header mt-0 py-0" id="headingTwo">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
        <b>When will I receive further information on how to join the live session and virtual platform?</b>

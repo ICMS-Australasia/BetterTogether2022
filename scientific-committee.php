@@ -90,9 +90,7 @@
     <div class="col-6 col-lg-4">
 
         <h4>Shona Goldsmith</h4>
-
-        <p><b>Physiotherapist</b> <br>
-
+        <p><b>Researcher (Epidemiology)</b> <br>
             Cerebral Palsy Alliance
 
         </p>

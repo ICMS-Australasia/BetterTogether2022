@@ -143,11 +143,11 @@ III.	There will be opportunity for questions and discussion with the presenter p
 const themesData3 = [ /* Clinical Practice Guidelines, Care Pathways */
 {
 	theme: "Clinical Practice Guidelines, Care Pathways",
-	
+
 	ptitle: "Guide to Preoperative Care for Children with Medical and Neurodevelopmental Complexity Undergoing Major Musculoskeletal Surgery",
-	
+
 	pname: "MD, MPH Jay Berry",
-	
+
 	ptype: "Instructional Course",
 
 	pdesc: `
@@ -173,11 +173,11 @@ const themesData3 = [ /* Clinical Practice Guidelines, Care Pathways */
 const themesData4 = [ /* Communication and assistive devices */
 {
 	theme: "Communication and assistive devices",
-		
+
 	ptitle: "Eyes on Communication Research Group and Advisory Panel: Clinical Guidelines for eye-gaze control technology for people with cerebral palsy",
-		
+
 	pname: "Dr. Petra Karlsson",
-		
+
 	ptype: "Seminar",
 
 	pdesc: `
@@ -204,11 +204,11 @@ Eye-gaze control technology offers the potential for people with cerebral palsy 
 const themesData5 = [ /* Consumer engagement, social policy and service delivery */
 {
 	theme: "Consumer engagement, social policy and service delivery",
-		
+
 	ptitle: "A Cross-Cultural Examination of Stress and Promoting Couple Relationship Health for Caregivers of Children with Developmental Disabilities",
-		
+
 	pname: "Ms. Carrie Sewell-Roberts",
-		
+
 	ptype: "Seminar",
 
 	pdesc: `
@@ -236,11 +236,11 @@ This 60 minute seminar is designed to inform participants and answer questions a
 },
 {
 	theme: "Consumer engagement, social policy and service delivery",
-		
+
 	ptitle: "Accelerating innovation for children with disabilities, better together",
-		
+
 	pname: "Christelle Pons",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -269,11 +269,11 @@ Persons with disabilities and their families, engineers/ technicians and health 
 },
 {
 	theme: "Consumer engagement, social policy and service delivery",
-		
+
 	ptitle: "Better Research Together: Conversations with Researchers and Young People",
-		
+
 	pname: "Dr Christopher  Morris",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -301,11 +301,11 @@ BVO will provide an overview of current literature and ‘good practices’ abou
 },
 {
 	theme: "Consumer engagement, social policy and service delivery",
-		
+
 	ptitle: "EPIC-CP:  Developing equity and integrated care pathways to address health inequities of children with cerebral palsy and their families.",
-		
+
 	pname: "Ms. Katarina Ostojic",
-		
+
 	ptype: "Instructional Course",
 
 	pdesc: `
@@ -325,11 +325,11 @@ Australian research has demonstrated a social gradient for adverse outcomes in c
 },
 {
 	theme: "Consumer engagement, social policy and service delivery",
-		
+
 	ptitle: "Involving consumers in research: The next gold standard",
-		
+
 	pname: "Sarah McIntyre",
-		
+
 	ptype: "Seminar",
 
 	pdesc: `
@@ -351,11 +351,11 @@ The quote “Nothing about us, without us” conceived in the 1990s by disabilit
 },
 {
 	theme: "Consumer engagement, social policy and service delivery",
-		
+
 	ptitle: "The PRIME suite of engagement measures: How can I use them in clinical practice, education, and research? ",
-		
+
 	pname: "Dr.  Lisa  Chiarello",
-		
+
 	ptype: "Instructional Course",
 
 	pdesc: `
@@ -375,11 +375,11 @@ The quote “Nothing about us, without us” conceived in the 1990s by disabilit
 const themesData6 = [ /* Early detection, neonatal care and early interventions */
 {
 	theme: "Early detection, neonatal care and early interventions",
-		
+
 	ptitle: "Early detection of infants and young children at high risk of cerebral palsy in low-middle income countries",
-		
+
 	pname: "Dr Kath Benfer, Mr Asis Gosh, Mr Gopi Kumar, Prof Nana Tashishvilli, Dr Yoriko Nishizawa",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -407,11 +407,11 @@ This symposium will provide an overview of currently utilised methods for identi
 const themesData7 = [ /* Family/caregiver health and wellbeing */
 {
 	theme: "Family/caregiver health and wellbeing",
-		
+
 	ptitle: "IAACD COVID-19 Task Force: Stronger Together",
-		
+
 	pname: "Prof. Bernadette Gillick",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -430,11 +430,11 @@ The COVID-19 Pandemic has influenced families, caregivers, health care providers
 const themesData8 = [ /* Genomics */
 {
 	theme: "Genomics",
-		
+
 	ptitle: "Genomic Advances in Cerebral Palsy ",
-		
+
 	pname: "A/Prof. Michael Fahey, Prof Jozef Gecz",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -452,11 +452,11 @@ This symposium will collect national and international experts from a diverse ra
 const themesData9 = [ /* Indigenous and First Nations people and disability */
 {
 	theme: "Indigenous and First Nations people and disability",
-		
+
 	ptitle: "Cultural influences on early screening and intervention for Aboriginal or Torres Strait Islander infants at risk of Neurodevelopmental Disabilities",
-		
+
 	pname: "Dr. Kath Benfer, A/Prof Dianne Shanley, Ms  Carly Luke, Ms Leeann Mick-Ramsamy, Dr Marjad Page",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -478,11 +478,11 @@ Little is known about the Aboriginal and Torres Strait Islander construct of dis
 },
 {
 	theme: "Indigenous and First Nations people and disability",
-		
+
 	ptitle: "Exploring inequities in service provision for Indigenous and First Nations women, their babies and children with cerebral palsy",
-		
+
 	pname: "Ms. Alexandra Sorhage, Ms Tanya  Martin, Dr Juanita  Sherwood, Dr Michael Shevell",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -501,11 +501,11 @@ Indigenous populations have poorer access to culturally safe health service prov
 },
 {
 	theme: "Indigenous and First Nations people and disability",
-		
+
 	ptitle: "Getting the Methods Right – How to study epidemiology of cerebral palsy in low- and middle-income countries?",
-		
+
 	pname: "Professor Hans Forssberg, Professor Mohammad Muhit, Dr Angelina  Kakooza-Mwesige, Professor Elizabeth J  Elliott, Professor Gulam  Khandaker",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -529,11 +529,11 @@ Introduction: Getting the Methods Right – How to study epidemiology of cerebra
 const themesData10 = [ /* Intensive motor interventions */
 {
 	theme: "Intensive motor interventions",
-		
+
 	ptitle: "Evidence based models of bimanual upper limb therapy: All the same?",
-		
+
 	pname: "Dr Yvonne Janssen Potten, A/Prof Brian Hoare, MSc Atefeh Taghizadeh, Dr Susan Greaves, A/Prof. Leanne Sakzewski",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -555,11 +555,11 @@ A) Results from a scoping review on how motor learning principles in existing mo
 },
 {
 	theme: "Intensive motor interventions",
-		
+
 	ptitle: "What Do We Mean By 'Motor Learning-based Treatment Approachs' in theory and practice?",
-		
+
 	pname: "Prof. Andrew Gordon",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -578,11 +578,11 @@ A) Results from a scoping review on how motor learning principles in existing mo
 const themesData11 = [ /* Knowledge translation and implementation */
 {
 	theme: "Knowledge translation and implementation",
-		
+
 	ptitle: "Breaking Barriers for Knowledge Translation Around the World:  We are better when we work together.",
-		
+
 	pname: "Ms. Beatriz Vieira, Dr. Marisa Mancini, Mrs. Marina Airoldi, Dr. Marina Brandão, Dr. Peter Rosenbaum",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -600,11 +600,11 @@ Knowledge translation (KT) from research to clinical practice and implementation
 },
 {
 	theme: "Knowledge translation and implementation",
-		
+
 	ptitle: "Bringing the “F-Words for Child Development” to Life: Lessons Learned from Global Implementation Efforts",
-		
+
 	pname: "Ms. Rachel Teplicky, Kim Hesketh, Marina  Airoldi, Lucy Charles, Danijela Grahovac",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -622,11 +622,11 @@ Continued Discussion &amp; Q&amp;A: 30 minutes will be dedicated to open discuss
 },
 {
 	theme: "Knowledge translation and implementation",
-		
+
 	ptitle: "International Perspectives on the Implementation of Hip Surveillance for Children with Cerebral Palsy: Pearls, Pitfalls and Processes.",
-		
+
 	pname: "Dr. Kate Willoughby, Stacey  Miller, Dr Alaric Aroojis, Ms Pam Thomason",
-		
+
 	ptype: "Seminar",
 
 	pdesc: `
@@ -655,11 +655,11 @@ Hip surveillance is the process of monitoring the critical indicators of hip dis
 },
 {
 	theme: "Knowledge translation and implementation",
-		
+
 	ptitle: "Let’s LEAP together: Towards a participation-focused practice and a pediatric rehabilitation paradigm shift ",
-		
+
 	pname: "A/Prof. Dana Anaby, A/Prof. Barbara Piskur, Mr. Frank  Schakel, Prof. Shakila  Dada, Prof. Christine  Imms",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -682,11 +682,11 @@ Through an interactive discussion, challenges for successful implementation will
 const themesData12 = [ /* Neuroscience and neuroimaging */
 {
 	theme: "Neuroscience and neuroimaging",
-		
+
 	ptitle: "Innovations in measuring neuroplasticity for Cerebral Palsy",
-		
+
 	pname: "Alex Pagnozzi",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -706,11 +706,11 @@ const themesData12 = [ /* Neuroscience and neuroimaging */
 },
 {
 	theme: "Neuroscience and neuroimaging",
-		
+
 	ptitle: "Neuroimaging of early brain development in preterm infants – from research to clinical practice",
-		
+
 	pname: "Dr. Kerstin Pannek",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -745,11 +745,11 @@ Infants born preterm are at an increased risk of adverse neurodevelopmental    o
 const themesData13 = [ /* New technologies, innovations and robotics */
 {
 	theme: "New technologies, innovations and robotics",
-		
+
 	ptitle: "Automated markerless motion capture using deep learning and its application for pediatric motion analysis",
-		
+
 	pname: "Prof. Dong-wook Rha, Dr. Helga Haberfelner, Dr. Elyse Passmore, Dr. Nelleke Langerak, Prof. Dong-wook Rha",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -767,11 +767,11 @@ Laboratory-based optical motion capture is the current gold standard for    clin
 },
 {
 	theme: "New technologies, innovations and robotics",
-		
+
 	ptitle: "Developing mobile health technology for assessment, therapy and participation in cerebral palsy: Pearls and pitfalls",
-		
+
 	pname: "Mr Rowan Johnson, Prof Alicia Spittle, A/Prof Keiko Shikako-Thomas, Mr Gopi Kitnasamy, A/Prof Brian Hoare (Chair)",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -789,7 +789,7 @@ Laboratory-based optical motion capture is the current gold standard for    clin
   Cerebral Palsy<br>
   <br>
   <strong> Session Description:</strong><br>
-  Device use has become integral part of daily life for children and    adolescents, including accessing downloadable applications (apps) and    websites for learning, communication and play. With broad reach into    children’s daily activities mobile health (mHealth) technology provides    opportunities for the provision of assessment and intervention strategies for    children with disabilities. Over the past decade, However, much of the    innovation and research investigating mHealth apps for children has been    focused on addressing childhood obesity epidemic in high-income countries.    Despite this, researchers have been active in developing and evaluating    mHealth technology for children with cerebral palsy and other disabilities to    meet local needs, including in low and middle-income countries    (LIMC’s).<br>
+  Device use has become integral part of daily life for children and    adolescents, including accessing downloadable applications (apps) and    websites for learning, communication and play. With broad reach into    children’s daily activities mobile health (mHealth) technology provides    opportunities for the provision of assessment and intervention strategies for    children with disabilities. Over the past decade, however, much of the    innovation and research investigating mHealth apps for children has been    focused on addressing childhood obesity epidemic in high-income countries.    Despite this, researchers have been active in developing and evaluating    mHealth technology for children with cerebral palsy and other disabilities to    meet local needs, including in low and middle-income countries    (LMIC’s).<br><br>
   The following objectives will be addressed in this symposium:<br>
   1.	Outline the key steps in mobile health (mHealth) app development. <br>
   2.	Provide insight into the potential for therapy apps to meet clinical and    community needs for children with disabilities.<br>
@@ -823,11 +823,11 @@ Laboratory-based optical motion capture is the current gold standard for    clin
 },
 {
 	theme: "New technologies, innovations and robotics",
-		
+
 	ptitle: "Innovating together: Multichannel neuromuscular electrical stimulation to improve mobility for children with cerebral palsy",
-		
+
 	pname: "Dr. Kelly Greve, Dr. Samuel CK Lee, Dr. Christine Azevedo Coste, Dr. David Lloyd, Dr. Kornel  Schadl",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -869,29 +869,29 @@ Cerebral palsy (CP) is    the most common childhood motor disability often resul
 },
 {
 	theme: "New technologies, innovations and robotics",
-		
+
 	ptitle: "Neuromodulation Strategies to Augment Stroke Recovery and Motor Learning Across the Lifespan",
-		
+
 	pname: "Dr. Susan Duff - Chair",
-		
+
 	ptype: "Seminar",
 
 	pdesc: `
 	Objectives: Upon completion of this seminar participants will: 1) understand the neurophysiology behind select methods of priming cortical excitability across the lifespan in individuals with stroke; 2) be able to evaluate the evidence for select methods of priming across the lifespan in individuals with stroke; 3) be able to identify key measures of recovery and motor learning in infants, children and adults with stroke; and 4) be able to determine readiness for clinical implementation of neuromodulation and aerobic exercise as methods of priming in pediatric and adult rehabilitation.
 	Summary: Neuromodulation strategies including transcranial direct current stimulation (tDCS), transcutaneous electrical stimulation (TES) and aerobic exercise have tremendous potential to prime the nervous system for motor learning after stroke at any age. This seminar will begin with a review of the evidence supporting how aerobic exercise can influence neuroplasticity to augment motor learning in typical adults and adults poststroke. Next pediatric research using tDCS concurrently with neurorehabilitation will be reviewed along with the efficacy for its usefulness to augment motor learning during young neuroplastic ages. Sensitive biomarkers currently recommended to use following neuromodulation will be reviewed. The state of the art for neuromodulation techniques including aerobic priming is quickly growing, yet, it is not clear if the evidence is sufficient to initiate integration into clinical practice. This interactive session will provide an opportunity for the audience to present their viewpoints on the interventions covered with the inclusion of other options such as TES. The discussion with the audience will focus on the feasibility and barriers to implementation of priming methods in infants, children and adults.
-	Target Audience: Clinicians and researchers interested in the potential of neuromodulation techniques to augment recovery and motor learning at any age. 
+	Target Audience: Clinicians and researchers interested in the potential of neuromodulation techniques to augment recovery and motor learning at any age.
 	Level: Intermediate
 	Pre-requisites: None
-	Minimum to maximum number of participants: 10 to 100 
+	Minimum to maximum number of participants: 10 to 100
 	`
 },
 {
 	theme: "New technologies, innovations and robotics",
-		
+
 	ptitle: "Neurosurgical Innovations for Cerebral Palsy",
-		
+
 	pname: "Dr. Mary-Clare Waugh, Dr Jean-Pierre  Lin, Prof Terry Sanger, Dr John  Parker, Dr  Joe  Dusseldorp",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -917,11 +917,11 @@ Cerebral palsy (CP) is    the most common childhood motor disability often resul
 },
 {
 	theme: "New technologies, innovations and robotics",
-		
+
 	ptitle: "Non-invasive Neuromodulation for the Investigation and Management of Neurodisability",
-		
+
 	pname: "Prof. Karen Maria Barlow, Professor Peter Enticott, Professor Adam Kirton",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -944,11 +944,11 @@ This focused symposium will discuss the latest research into boosting    cogniti
 const themesData14 = [ /* Orthopaedics, muscle and bone health */
 {
 	theme: "Orthopaedics, muscle and bone health",
-		
+
 	ptitle: "A multiscale and interdisciplinary view of alterations in muscle genes, cells and tissues due to cerebral palsy (CP)",
-		
+
 	pname: "Dr. Lynn Bar-On, Prof. Andrea Domenighetti, Prof. Richard Lieber",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -970,11 +970,11 @@ const themesData14 = [ /* Orthopaedics, muscle and bone health */
 },
 {
 	theme: "Orthopaedics, muscle and bone health",
-		
+
 	ptitle: "Botulinum Toxin A: Good for Children with Cerebral Palsy, Bad for Skeletal Muscle?",
-		
+
 	pname: "Prof Ker Graham, Prof. Richard Lieber",
-		
+
 	ptype: "60min Debate/Current Controversies",
 
 	pdesc: `
@@ -999,11 +999,11 @@ const themesData14 = [ /* Orthopaedics, muscle and bone health */
 },
 {
 	theme: "Orthopaedics, muscle and bone health",
-		
+
 	ptitle: "Hip Salvage Surgery in Cerebral Palsy: When is the Deformity too Great to Reconstruct?",
-		
+
 	pname: "Dr. Wade Shrader",
-		
+
 	ptype: "Instructional Course",
 
 	pdesc: `
@@ -1031,11 +1031,11 @@ Orthopaedic Surgeons, Physical Therapists, Physiatrists<br>
 },
 {
 	theme: "Orthopaedics, muscle and bone health",
-		
+
 	ptitle: "Spinal Deformity in Cerebral Palsy: A Comprehensive Discussion from Diagnosis to Care Coordination to Operative Management",
-		
+
 	pname: "Dr. Wade Shrader",
-		
+
 	ptype: "Seminar",
 
 	pdesc: `
@@ -1063,11 +1063,11 @@ Introduction, Overview of Course Objectives, Initial Management and    Preoperat
 },
 {
 	theme: "Orthopaedics, muscle and bone health",
-		
+
 	ptitle: "Surgeon and PT Partnerships in the Care of Youth with Cerebral Palsy",
-		
+
 	pname: "Dr. Nancy Lennon",
-		
+
 	ptype: "Instructional Course",
 
 	pdesc: `
@@ -1098,11 +1098,11 @@ Orthopedic surgery can be dramatic and life altering for children and youth    w
 const themesData15 = [ /* Pain */
 {
 	theme: "Pain",
-		
+
 	ptitle: "Managing Pain to Promote Participation in Individuals with Cerebral Palsy",
-		
+
 	pname: "Dr. Darcy Fehlings, Professor Susan Stott, Professor Sylvain Brochard, Dr. Tamar Silberg, Ms. Rachel Byrne",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -1132,11 +1132,11 @@ Chronic pain in individuals with CP significantly impacts participation and    w
 const themesData16 = [ /* Participation */
 {
 	theme: "Participation",
-		
+
 	ptitle: "Applying physical activity knowledge across neurogenetic conditions with varying behavioural characteristics",
-		
+
 	pname: "Prof. Nora Shields",
-		
+
 	ptype: "Seminar",
 
 	pdesc: `
@@ -1161,11 +1161,11 @@ const themesData16 = [ /* Participation */
 },
 {
 	theme: "Participation",
-		
+
 	ptitle: "Creating solutions to the challenges of participation-focused therapy: an international, trans-disciplinary perspective",
-		
+
 	pname: "Dr. Sarah Reedman, A/Prof Leanne Sakzewski, Dr Katarina Lauruschkus, A/Prof Keiko Shikako-Thomas, A/Prof Dana Anaby",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -1194,11 +1194,11 @@ Introduction (10 mins): Chair<br>
 },
 {
 	theme: "Participation",
-		
+
 	ptitle: "Evaluating participation of children with disabilities in non-English speaking countries: Experiences from Europe and South America",
-		
+
 	pname: "PhD Rachel Teplicky",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -1219,11 +1219,11 @@ Chair – Rachel Teplicky will introduce the topics, speakers, format of the    
 },
 {
 	theme: "Participation",
-		
+
 	ptitle: "Getting the sex conversation on the table: Our patients are talking about it, why aren't we?",
-		
+
 	pname: "Dr. Nathan Rosenberg",
-		
+
 	ptype: "Seminar",
 
 	pdesc: `
@@ -1250,11 +1250,11 @@ Holistic care for people with cerebral palsy involves addressing a large    set 
 const themesData17 = [ /* Physical rehabilitation/ habilitation */
 {
 	theme: "Physical rehabilitation/ habilitation",
-		
+
 	ptitle: "Motor planning in developmental motor disorders: From basic research to innovations in rehabilitation",
-		
+
 	pname: "Prof. Peter Wilson",
-		
+
 	ptype: "Instructional Course",
 
 	pdesc: `
@@ -1268,7 +1268,7 @@ const themesData17 = [ /* Physical rehabilitation/ habilitation */
     4.	the opportunity to consider how these current practices may be    incorporated into their own research and/or practice. <br>
     <br>
     <strong> Summary</strong> <br>
-In this instructional course, we will first provide a theoretical model of    key concepts in motor control and learning, highlighting the relationship    between motor planning, action observation (AO), and motor imagery (MI).  Second, we will provide an overview of the    recent empirical studies on MI and AO in cerebral palsy and DCD, including    studies involving EEG. Third, we will discuss the use of MI and AO training    for upper limb rehabilitation. Fourth, we describe the rationale for    constraint-induced movement therapy (CIMT) and bimanual training (HABIT) for    children with CP, and recent data on their efficacy. Finally, examples will    be discussed on how these various innovations – MI training, AO and CIMT –    may be integrated within existing treatment programs.<br>  
+In this instructional course, we will first provide a theoretical model of    key concepts in motor control and learning, highlighting the relationship    between motor planning, action observation (AO), and motor imagery (MI).  Second, we will provide an overview of the    recent empirical studies on MI and AO in cerebral palsy and DCD, including    studies involving EEG. Third, we will discuss the use of MI and AO training    for upper limb rehabilitation. Fourth, we describe the rationale for    constraint-induced movement therapy (CIMT) and bimanual training (HABIT) for    children with CP, and recent data on their efficacy. Finally, examples will    be discussed on how these various innovations – MI training, AO and CIMT –    may be integrated within existing treatment programs.<br>
     <br>
     <strong> Interactive Element</strong><br>
 The workshop will consist of a series of mini presentations on (i) current    models of motor control and learning; (ii) the relationship between motor    planning, MI and AO; (iii) evidence for deficits in motor planning and MI in    CP-DCD; (iv) current intervention work on the use of AO-MI in neuromotor    disorders; (v) evidence for efficacy in the use of CIMT and HABIT for CP, and    (vi) methods to integrate these various techniques into everyday    practice.   As well, we will conduct    both small interactive groupwork and larger group discussion where attendees    can explore how these methods can be incorporated into their existing service    frameworks and/or research. <br>
@@ -1285,11 +1285,11 @@ Between 20 and 30<br>
 },
 {
 	theme: "Physical rehabilitation/ habilitation",
-		
+
 	ptitle: "Therapists are redundant: As we move to a participation-focused model of care, will evidence-based therapy be required?",
-		
+
 	pname: "A/Prof. Adam Scheinberg, Professor Christine Imms, Ms Pauline Kleinitz, Dr Sarah Knight, Dr Rachel Toovey",
-		
+
 	ptype: "60min Debate/Current Controversies",
 
 	pdesc: `
@@ -1322,11 +1322,11 @@ Between 20 and 30<br>
 const themesData18 = [ /* Vision */
 {
 	theme: "Vision",
-		
+
 	ptitle: "Cerebral visual impairment in children with cerebral palsy: best evidence from diagnosis to intervention",
-		
+
 	pname: "A/Prof. Andrea Guzzetta, Dr Alison Salt, Dr Swetha Philip",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
@@ -1348,11 +1348,11 @@ const themesData18 = [ /* Vision */
 },
 {
 	theme: "Vision",
-		
+
 	ptitle: "Developing serious games for intervention for cerebral visual impairment: From start to implementation",
-		
+
 	pname: "Prof. Els Ortibus",
-		
+
 	ptype: "Seminar",
 
 	pdesc: `
@@ -1378,11 +1378,11 @@ a multidisciplinary range of participants including specialists working    with 
 },
 {
 	theme: "Vision",
-		
+
 	ptitle: "Early assessment and intervention for children with Cerebral Visual Impairment and Cerebral Palsy in Low Resource Settings.",
-		
+
 	pname: "Dr. Swetha Philip, Dr Linda Lawrence, Dr Adedayo  Adio, Dr Niranjan  Pehere, Dr Liliana  Ventura",
-		
+
 	ptype: "Focussed Symposium",
 
 	pdesc: `
