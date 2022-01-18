@@ -39,10 +39,13 @@
 
 <hr class='mt-5 mb-4'>
 
-<h2>PhD Platform Sponsor</h2>
+<h2>PhD Platform Sponsors</h2>
 <div class="row d-flex align-items-center">
   <div class="col-md-3">
     <a href="https://www.monash.edu/medicine/scs/paediatrics" target="_blank"><img src="./img/sponsors/monash.png" class="img-fluid"></a>
+  </div>
+  <div class="col-md-3">
+    <a href="https://medicine.unimelb.edu.au/school-structure/paediatrics" target="_blank"><img src="./img/sponsors/univ-melbourne.png" class="img-fluid" width="200"></a>
   </div>
 </div>
 

@@ -13,6 +13,12 @@
         "items": [
             // UPDATE THIS
             {
+               "date": "Thursday, January 13 2022",
+               "img": "20.jpg",
+                "title": "A Sneak Peek at the Conference",
+                "link": "https://mailchi.mp/331b27cc97bb/a-sneak-peek-at-the-conference"
+            },
+            {
                "date": "Wednesday, December 8 2021",
                "img": "19.jpg",
                 "title": "Social Fun at Better Together 2022",
