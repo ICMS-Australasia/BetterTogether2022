@@ -36,11 +36,16 @@
         </div>
     </div>
 
-    <h3>Too Peas in a Podcast</h3>
-        <p>Too Peas in a Podcast is run by two Melbourne mums (Mandy & Kate) where they chat to each other and friends about parenting multiples with disabilities and additional needs. With humour and honesty, Kate and Mandy cover a host of issues – from medical and educational challenges to social stigma, mental health and family relationship challenges. They also talk about their ongoing efforts to give their children rich and satisfying lives.</p>
-        <p>You can listen to the Too Peas in a Podcast on Spotify & Apple Podcasts App. For more information you can visit their website <a href="https://toopeasinapodcast.com.au/" target="_blank">https://toopeasinapodcast.com.au/</a></p>
+    <h3>Insight into a Musician</h3>
+       <div class="row">
+           <div class="col-md-4"><img src="./img/social-ss/Eliza.jpg" class="img-fluid"></div>
+           <div class="col-md-8">
+               <p>Eliza is a musician, writer, parent and disability advocate. We will hear about what inspires her music and writing and her thoughts on accessibility in the music industry and parenting with disability. </p>
+                <p>Eliza Hull is known for her stirring lyrics and haunting vocals, and after a recent shift to Castlemaine, Eliza’s music has developed into a rich soundscape of indie, folk tinged tracks, which showcase her development as a songwriter.</p>
+                <a href="http://elizahull.com/" target="_blank"><b>View website</b></a>
+            </div>
+       </div>
 
-    <img src="./img/social-ss/3.jpg" class="img-fluid">
 
 <h3>An Inspiring Dance Performance</h3>
 <p>The Inclusion Foundation is a for-purpose-charity that champions the inclusion of people with Down syndrome. Their dance classes incorporate general well-being and fitness whilst tackling broader issues often faced by people with Down syndrome. The Inclusion Foundation believes that inside everybody, behind every face, underneath all levels of human ability is a person with a unique story. This session will include an interview and choreographed dance piece from one of Emotion 21’s artists Jamie Haliday.</p>

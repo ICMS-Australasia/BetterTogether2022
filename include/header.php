@@ -78,8 +78,9 @@
                                         </a>
                                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                             <li><a class="dropdown-item" href="registration.php">Registration</a></li>
-                                            <li><a class="dropdown-item" href="lived-experience-free-passes.php">Lived Experience Free Passes</a></li>
-                                            <li><a class="dropdown-item" href="scholarships.php">Scholarships</a></li>
+                                            <li><a class="dropdown-item" href="in-person-networking.php">In-Person Networking</a></li>
+                                            <!-- <li><a class="dropdown-item" href="lived-experience-free-passes.php">Lived Experience Free Passes</a></li> -->
+                                            <!-- <li><a class="dropdown-item" href="scholarships.php">Scholarships</a></li> -->
                                             <li><a class="dropdown-item" href="terms-and-conditions.php">Terms & Conditions</a></li>
                                         </ul>
                                     </li>

@@ -206,7 +206,7 @@
 
 <div class="col-12 col-lg-4 mt-4 mt-lg-0 d-flex justify-content-lg-end align-items-center">
 
-    <p class="d-inline mr-3"><a href="./privacy-policy.php">Privacy Policy</a></p>
+    <p class="d-inline me-3"><a href="./privacy-policy.php">Privacy Policy</a></p>
 
     <p class="d-inline mr-3"><a href="./contact-us.php">Contact us</a></p>
 
