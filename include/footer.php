@@ -220,6 +220,10 @@
 
 <!-- Optional JavaScript -->
 
+<script src="./js/interactive-s.js"></script>
+<script src="./js/workshops.js"></script>
+<script src="./js/popup.js"></script>
+
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

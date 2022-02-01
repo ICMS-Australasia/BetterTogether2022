@@ -9,9 +9,7 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <link rel="stylesheet" href="style.css?v=1.1">
-<script src="./js/interactive-s.js" defer></script>
-<script src="./js/workshops.js" defer></script>
-<script src="./js/popup.js" defer></script>
+
 <title><?php echo $title ?> | Australasian Academy of Cerebral Palsy and Developmental Medicine/International Alliance of Academies of Childhood Disability 2022</title>
 <script src="https://kit.fontawesome.com/f399078202.js" crossorigin="anonymous"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -78,6 +76,7 @@
                                         </a>
                                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                             <li><a class="dropdown-item" href="registration.php">Registration</a></li>
+                                            <li><a class="dropdown-item" href="buddy-program.php">Buddy Program</a></li>
                                             <li><a class="dropdown-item" href="in-person-networking.php">In-Person Networking</a></li>
                                             <!-- <li><a class="dropdown-item" href="lived-experience-free-passes.php">Lived Experience Free Passes</a></li> -->
                                             <!-- <li><a class="dropdown-item" href="scholarships.php">Scholarships</a></li> -->

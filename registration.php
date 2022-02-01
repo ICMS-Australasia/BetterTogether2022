@@ -43,6 +43,7 @@
 	<li>Opportunity to purchase pre-conference workshop tickets</li>
 </ul>
 
+To find out about our Buddy Program please <a href="buddy-program.php">click here.</a>
 
 <h2>How to Register</h2>
 <p>Registration for the AusACPDM/IAACD ‘Better Together’ 2022 Conference is now open. Please read the registration information carefully before beginning the online registration. Registration can be submitted by completing the online form.</p>
@@ -157,7 +158,7 @@
 
 
 
- 
+
 
 
 
@@ -176,11 +177,11 @@
 
 
 
-  
 
 
 
-  
+
+
 
 
 

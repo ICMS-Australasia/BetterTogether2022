@@ -1,9 +1,9 @@
-document.getElementById("workshops").innerHTML= `
+let shortWorkshop = document.getElementById("workshops").innerHTML = `
 <h3 class="color-title mb-0">SHORT WORKSHOPS</h3>
 <div class="col-12">
   <div class="row">
 
-    
+
 
     <div class="popup-wrapper">
       <div class="ws-info">
@@ -47,7 +47,7 @@ document.getElementById("workshops").innerHTML= `
       </div>
       <div class="ws-popup">
         <div class="popup-header">
-          <b class="color-title">&nbsp;</b><button data-close-button class="close-btn">&times;</button>
+          <b class="color-title">AEDT Time: 2:00pm – 5:00pm</b><button data-close-button class="close-btn">&times;</button>
         </div>
         <p>During this Workshop we will first provide background information about different management options for spasticity treatment, followed by more specific information about the history of selective dorsal rhizotomy (SDR) and the different surgical techniques. Thereafter presenters from Africa, North America, Europe, Asia and Oceania will give insight about their practices (e.g. surgical techniques, selection criteria, post-operative management) and outcomes, leading to an opportunity to ask questions and discuss the different practices and outcomes between the institutes.This will followed by a session about post-operative management and policies & services around SDR. Lasty there will be a presentation about new SDR techniques and alternatives to SDR as well as other diagnostic groups. Lastly, there will be another opportunity for questions and answers.</p>
       </div>
@@ -69,7 +69,7 @@ document.getElementById("workshops").innerHTML= `
           <div class="popup-header">
             <b class="color-title">AEDT Time: 8:00am – 12:30pm</b><button data-close-button class="close-btn">&times;</button>
           </div>
-          <p>The aim of this Workshop is to introduce and discuss the latest advances in the field of Genomics of Cerebral Palsies (CP) and with the members and supporters of the International Cerebral Palsy Genomics Consortium. The agenda of the workshop aims to inform the participants about the most up to date CP gene diagnostic gene panel and what constitutes a CP gene. To discuss engagement with the CP communities and specifically in view of the impact of a genetic diagnosis and treatment opportunities such a diagnosis may present. We shall also present select state-of-the-art basic and translational research in genomics of CP or related fields.</p> 
+          <p>The aim of this Workshop is to introduce and discuss the latest advances in the field of Genomics of Cerebral Palsies (CP) and with the members and supporters of the International Cerebral Palsy Genomics Consortium. The agenda of the workshop aims to inform the participants about the most up to date CP gene diagnostic gene panel and what constitutes a CP gene. To discuss engagement with the CP communities and specifically in view of the impact of a genetic diagnosis and treatment opportunities such a diagnosis may present. We shall also present select state-of-the-art basic and translational research in genomics of CP or related fields.</p>
         </div>
     </div>
 
@@ -126,9 +126,10 @@ document.getElementById("workshops").innerHTML= `
         <p>Cell-based therapies have neuroprotective and neuroregenerative potential for perinatal brain injury. This symposium brings together international experts to provide a status update on clinical trials for cell therapies, and how neuroprotective efficacy might be enhanced. We will also examine what is on the horizon for novel therapies particularly aimed at the preterm brain.</p>
       </div>
     </div>
-    
+
   </div>
 </div>
+
 
 <div id="overlay" class="overlay"></div>
 `

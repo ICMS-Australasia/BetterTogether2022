@@ -56,13 +56,13 @@ Additionally, please use the following time zone convertor to assist you in conv
   <div class="col">
 
     <a href="./program-overview.php?d=2#tables" class="button-small mx-auto d-block text-center p-4 mb-4">Wednesday 2 March</a>
-    
+
   </div>
 
   <div class="col">
 
     <a href="./program-overview.php?d=3#tables" class="button-small mx-auto d-block text-center p-4 mb-4">Thursday 3 March</a>
-  
+
   </div>
 
   <div class="col">
@@ -119,7 +119,6 @@ Additionally, please use the following time zone convertor to assist you in conv
   </div>
   </div>
   <div id="workshops"></div>
-
     `,
 
     `
@@ -135,9 +134,9 @@ Additionally, please use the following time zone convertor to assist you in conv
   <tr class="heading" align="center">
 
     <th colspan="4" align="center">Wednesday 2 March 2022
-    
+
     </th>
-    
+
   </tr>
 
   <tr class="sub-heading">
@@ -335,7 +334,7 @@ Additionally, please use the following time zone convertor to assist you in conv
   <tr class="heading" align="center">
 
     <th colspan="4">Thursday 3 March 2022
-    
+
     </td>
 
   </tr>
@@ -541,7 +540,7 @@ Additionally, please use the following time zone convertor to assist you in conv
   <tr class="heading" align="center">
 
     <th colspan="4">Friday 4 March 2022
-    
+
     </th>
 
   </tr>
@@ -747,7 +746,7 @@ Additionally, please use the following time zone convertor to assist you in conv
         <tr class="heading" align="center">
 
           <th colspan="9">Saturday 5 March 2022
-          
+
           </th>
 
         </tr>
