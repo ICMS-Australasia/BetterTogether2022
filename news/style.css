@@ -1,5 +1,5 @@
 body {
-  background: #fdfdfd;
+  background: #eee;
 }
 
 td {
@@ -58,6 +58,10 @@ h3 a {
   display: block;
 }
 
+table {
+  background: white;
+}
+
 .mb1 {
   margin-bottom: 25px;
 }
@@ -101,6 +105,47 @@ h3 a {
   font-weight: bold;
   font-size: 20px;
   margin: 0 10px;
+}
+
+.footer-wrapper {
+  background: none;
+}
+
+.tbl-btns .tb1 {
+  background: #243470;
+}
+
+.tbl-btns .tb2 {
+  background: #16968c;
+}
+
+.tbl-btns .tb3 {
+  background: #f36f36;
+}
+
+.tbl-btns .tb4 {
+  background: #7ac142;
+}
+
+.tbl-btns td {
+  width: 50%;
+  text-align: center;
+}
+
+.tbl-btns a {
+  color: white;
+  font-weight: bold;
+}
+
+table.timetable {
+  background: #777;
+  color: white;
+  text-align: center;
+}
+
+table.timetable td.clear {
+  background: white;
+  border: 0;
 }
 
 table.sp-logo {
