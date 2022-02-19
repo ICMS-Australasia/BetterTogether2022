@@ -6,6 +6,43 @@
 
  ?>
 
+
+    <div class="col-md-6" class="video-block">
+        <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/674287472?h=645f4ed918&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Conference Promo Video.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+            <p class="text-center"><b>Conference Promo Video</b></p>
+    </div>
+    <div class="col-md-6" class="video-block">
+        <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/674285182?h=e6042e68d1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Welcome Reception Promo Video.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+            <p class="text-center"><b>Welcome Reception Promo Video</b></p>
+    </div>
+
+<div class="col-12 text-center infobox mt-5">
+    <h2>Content Available for 3 Months</h2>
+    <p>Everyone that registers will have access to all the content on-demand for 3 months after the Conference! So if the time doesn’t suit, you missed a session or just want to relive some your favourite conference moments, you will be able to enjoy this later at your leisure.</p>
+</div>
+
+<div class="col-12 text-center qlinks mt-5">
+    <h2>Quick Links</h2>
+    <p>Start planning your virtual journey at the conference with these quick easy-access links to key elements.</p>
+    <div class="row g-3">
+        <div class="col-md-4"><a href="./downloads/Full-Program.pdf" target="_blank"><div class="b1 qbox">Full Program Overview</div></a></div>
+        <div class="col-md-4"><a href="free-papers.php"><div class="b2 qbox">Free Paper Details</div></a></div>
+        <div class="col-md-4"><a href="interactive-sessions.php"><div class="b3 qbox">Interactive Session Details</div></a></div>
+        <div class="col-md-4"><a href="pre-conference-workshops.php"><div class="b4 qbox">Pre-Conference Workshops</div></a></div>
+        <div class="col-md-4"><a href="./downloads/Ask Me Anything Sessions Flyer.pdf" target="_blank"><div class="b5 qbox">Ask me Anything Sessions</div></a></div>
+        <div class="col-md-4"><a href="registration.php"><div class="b6 qbox">Registration Details</div></a></div>
+    </div>
+</div>
+
+<div class="col-12 text-center mt-5">
+    <h2>Feel Good Corner</h2>
+    <p>An exciting feature of Better Together 2022 is the Feel Good Corner where the Committee have prepared some resources to assist in looking after yourself both mentally and physically and to give you the opportunity to get a virtual feel for the host city Melbourne and its surrounds. Take a preliminary look below at the categories that will be available for you to go down the rabbit hole.</p>
+    <img src="./img/FGC-Image.png" class="img-fluid w-100">
+</div>
+
+
+
+<!--
 <div class="col-12 video-block">
     <div class="video">
     <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/629621654?h=676ef69add&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Better Together Video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -16,7 +53,7 @@
     <div class="row">
         <p class="col-12">
         Our Scientific Committee are dedicated to delivering you an outstanding virtual Conference with both local and international keynote speakers on a range of cutting-edge topics, see below just a few of our esteemed keynote speakers, make sure to click on their photo for a sneek preview of their topic.
-        </p>    
+        </p>
         <div class="col-md-4 mt-4">
             <a href="https://vimeo.com/543003928" target="_blank">
             <img class="w-100" src="./img/keynote/home/phuppi.jpg">
@@ -71,181 +108,7 @@
         </div>
     </div>
 </div>
-            <!-- <div class="col-12">
-
-                <div class="alert alert-secondary p-5 mt-4">
-
-                  <p class="mt-0">The current COVID-19 outbreaks throughout Australia have created increasing uncertainty about travel both within Australia and Internationally. Currently there is almost no travel across state borders in Australia, and the likelihood of international borders opening early in 2022 seems remote.</p>
-
-                  <p>Because of these uncertainties, the Better Together 2022 Organising Committee, in consultation with the AusACPDM Board and IAACD Steering Group, have made the decision to move to a fully virtual Conference in March 2022.</p>
-
-                  <p>This decision has been made now in advance before there are too many financial implications to the Host Academy, to those wishing to make plans to attend, and to allow time for the Committee to put together the best virtual conference possible for our participants.</p>
-
-                  <p>We thank everyone for their support and understanding in this decision, and we are all very much looking forward to a day when we can all safely come together again.</p>
-
-                  <p>We are Better Together, and we can be Better Together virtually as well as in person.</p>
-
-                  <p class="mb-0"><b>Warmest regards</b> <br>
-
-                    Better Together 2022 Organising Committee</p>
-
-                </div>
-
-            </div>
-
-            <div class="col-12 my-5 banner-welcome">
-
-                <a href="./welcome.php">
-
-                    <div>
-
-                        <img src="./img/bg2.jpg" class="img-fluid" width="100%">
-
-                        <p class="position-absolute my-0">Welcome to the <br><span>11<sup>th</sup> AusACPDM biennial</span><br> and <span>3rd IAACD triennial</span> <br>International Conference <br><br> <span><u>Learn more</u></span></p>
-
-                    </div>
-
-                </a>
-
-            </div>
-
-            <div class="col-12 col-md-6 mb-5 banner-eoi">
-
-                <a href="./registration.php">
-
-                    <img src="./img/banner-eoi.png" class="img-fluid" width="100%">
-
-                    <p class="position-absolute my-0">Register <br> <span>Now!</span></p>
-
-                </a>
-
-            </div>
-
-            <div class="col-12 col-md-6 mb-5 banner-covid">
-
-                <a href="https://www.youtube.com/watch?v=7qobe89Xss0&ab_channel=ICMSAustralasia" target="_blank">
-
-                    <img src="./img/banner-video.jpg" class="img-fluid" width="100%">
-
-                    <p class="position-absolute my-0">Introducing Better Together 2022</p>
-
-                </a>
-
-                <!- - <div class="embed-responsive embed-responsive-16by9 mt-4">
-
-                  <iframe width="100%" height="100%" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-                </div> - ->
-
-            </div>
-
-            <!- - <div class="col-6 mb-5 banner-member">
-
-                <a href="./">
-
-                    <img src="./img/banner-member.jpg" class="img-fluid " width="100%">
-
-                    <p class="position-absolute">Become a member</p>
-
-                </a>
-
-            </div> - ->
-
-            <div class="col-12 col-lg-8">
-
-                <table class="key-dates" cellpadding="15" cellspacing="0" border="0" width="100%">
-
-                    <tr align="center" class="heading"><th>Key Dates</th></tr>
-
-                    <tr align="center" class="sub-heading"><th><a href="./focused-symposia.php">Focused Symposia - now announced</a></th></tr>
-
-                    <tr align="center" class="sub-heading"><th>Pre-Conference Workshop - now announced</th></tr>
-
-                    <tr align="center" class="sub-heading"><th>Call for Abstracts - now closed</th></tr>
-
-                        <tr align="center" bgcolor="#f2f2f2"><td>Announced September 2021</td></tr>
-
-                    <tr align="center" class="sub-heading"><th><a href="./scholarships.php">Scholarship Applications - now closed</a></th></tr>
-
-                        <tr align="center"><td>Announced October 2021</td></tr>
-
-                    <tr align="center" class="sub-heading"><th><a href="./registration.php">Registration - now open</a></th></tr>
-
-                        <tr align="center"><td>Early Bird closes 1 November 2021</td></tr>
-
-                        <tr align="center" class="sub-heading"><th>Late Breaking Abstracts</th></tr>
-
-                        <tr align="center"><td>Opens 30 September 2021</td></tr>
-
-                        <tr align="center" bgcolor="#f2f2f2"><td>Closes 1 December 2021</td></tr>
-
-                        <tr align="center"><td>Announced December 2021</td></tr>
-
-                    <tr align="center" class="conference-heading"><th>Better Together 2022</th></tr>
-
-                        <tr align="center" class="conference"><th>Pre-conference Workshop 1 March 2022</th></tr>
-
-                        <tr align="center" class="conference"><th>Conference dates 2 - 5 March 2022</th></tr>
-
-                </table>
-
-            </div>
-
-            <div class="col-12 col-lg-4 mt-5 mt-lg-0">
-
-                <div class="card">
-
-                    <a href="./committee.php">
-
-                        <img src="./img/imms.jpg" class="card-img-top" alt="Committee">
-
-                        <div class="card-body">
-
-                            <h5 class="card-title">Committee</h5>
-
-                            <p class="card-text">Meet the team that make it all happen. <u>View more</u></p>
-
-                        </div>
-
-                    </a>
-
-                </div>
-
-                <div class="card mt-4">
-
-                    <a href="./destination-discovery.php">
-
-                        <img src="./img/destination-discovery.png" class="card-img-top" alt="Committee">
-
-                        <div class="card-body">
-
-                            <h5 class="card-title">Destination Discovery</h5>
-
-                            <p class="card-text">Science meets lifestyle, your free time well spent. <u>View more</u></p>
-
-                        </div>
-
-                    </a>
-
-                </div>
-
-                <div class="card mt-4">
-
-                    <a href="./support-abstract.php">
-
-                        <img src="./img/presentation-tips.png" class="card-img-top" alt="Committee">
-
-                        <div class="card-body">
-
-                            <h5 class="card-title">Presentation Tips</h5>
-
-                            <p class="card-text">Learn some helpful tips and tricks for your presentation. <u>View more</u></p>
-
-                        </div>
-
-                    </a>
-
-                </div> -->
+ -->
 
 <?php
 

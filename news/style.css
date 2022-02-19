@@ -58,6 +58,10 @@ h3 a {
   display: block;
 }
 
+.red {
+  color: red;
+}
+
 table {
   background: white;
 }

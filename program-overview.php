@@ -21,8 +21,8 @@
 <div class="announcement mb-4">
   <div class="row">
     <div class="col"><a href="./downloads/Full-Program.pdf" target="_blank" class="button d-block w-100">View Full Program</a></div>
-    <div class="col"><a href="interactive-sessions.php" class="button d-block w-100">Interactive Session Listing </a></div>
-    <div class="col"><a href="free-papers.php" class="button d-block w-100">Free Paper Listing</a></div>
+    <div class="col"><a href="interactive-sessions.php" class="button d-block w-100">Interactive Session Details</a></div>
+    <div class="col"><a href="free-papers.php" class="button d-block w-100">Free Paper Details</a></div>
   </div>
 
 <p>An overview of the Conference program is provided below. Note this is a draft program and is subject to change.

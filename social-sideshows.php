@@ -18,6 +18,10 @@
 
 <h3>Ask Me Anything Sessions</h3>
 <p>These interactive sessions will be a fantastic opportunity to meet the keynotes and “ask them anything” in a low-pressure, informal environment. These sessions will be great for early career researchers and anyone looking to further discuss information from the presentations and/or posters.</p>
+<div class="row">
+    <div class="col-md-6"><p><a href="./downloads/IACCD2022-flyer-1-Ask-Anything.pdf" target="_blank" class="button">Ask Me Anything Sessions Info</a></p></div>
+    <div class="col-md-6"><p><a href="./downloads/IACCD2022-flyer-2-Networking-Sessions.pdf" target="_blank" class="button">Networking Sessions Info</a></p></div>
+</div>
 
 <h3>Networking</h3>
 <p>The virtual Conference platform will include an in-app messaging chat for you to connect with other delegates, take the opportunity to reach out to people to further discuss their presentations, posters or just for a catch-up chat.</p>
