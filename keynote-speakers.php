@@ -11,12 +11,19 @@
  <h4><em>More speakers to be announced soon</em></h4>
 
 
+ <img src="img/keynote/nadia.jpg" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
 
+ <h2 class="my-0">Prof. Nadia Badawi</h2>
 
+ <h3 class="my-0">Australia</h3>
+
+ <p>Professor Badawi AM has devoted her professional life to the care and wellbeing of babies in newborn intensive care as well as people with cerebral palsy and their families.  She is an internationally recognised expert on newborn encephalopathy and cerebral palsy. She is the Chair of Cerebral Palsy Research at the Cerebral Palsy Alliance Research Institute. In this role, Professor Badawi has helped found the Australian National CP Register, the International CP Genomics Consortium and ANZ CP Strategy. She is involved in the X-cellerate stem-cell consortium and has extensive international collaborations. Professor Badawi is a member of the steering group of IMPACT for CP (International Multidisciplinary Prevention and Cure Team for Cerebral Palsy), the Scientific Advisory Board of Cerebral Palsy Alliance Research Foundation, and has co-chaired 10 International Cerebral Palsy Prevention and Cure Summits. She has also supported the establishment of both the Cerebral Palsy Alliance Research Foundation in the USA and CP registers in low-to-middle income countries such as Bangladesh and Vietnam.  Professor Badawi is also a neonatologist and Medical Director  and co-Head of the Grace Centre for Newborn Intensive Care. She is a founding member of the Australian and NZ Neonatal surgery network working on developmental follow-up standards. </p>
+
+ <hr>
 
  <img src="img/keynote/forssberg.jpg" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
 
- <h2 class="mb-0">Prof. Hans Forssberg</h2>
+ <h2 class="my-0">Prof. Hans Forssberg</h2>
 
  <h3 class="my-0">Sweden</h3>
 
@@ -40,7 +47,7 @@
 
  <img src="img/keynote/huppi.jpg" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
 
- <h2 class="mb-0">Prof. Petra S. Hüppi</h2>
+ <h2 class="my-0">Prof. Petra S. Hüppi</h2>
 
  <h3 class="mt-0">Switzerland</h3>
 
@@ -66,7 +73,7 @@
 
  <img src="img/keynote/khandaker.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
 
- <h2 class="mb-0">Prof. Gulam Khandaker</h2>
+ <h2 class="my-0">Prof. Gulam Khandaker</h2>
 
  <h3 class="mt-0">Australia</h3>
 
@@ -88,7 +95,7 @@ He established a population-based register for children with cerebral palsy (CP)
 
 <img src="img/keynote/kildea.jpg" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
 
-<h2 class="mb-0">Prof. Sue Kildea</h2>
+<h2 class="my-0">Prof. Sue Kildea</h2>
 
 <h3 class="mt-0">Australia</h3>
 
@@ -108,7 +115,7 @@ He established a population-based register for children with cerebral palsy (CP)
 
  <img src="img/keynote/king.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
 
- <h2 class="mb-0">Prof. Gillian King</h2>
+ <h2 class="my-0">Prof. Gillian King</h2>
 
  <h3 class="mt-0">Canada</h3>
 
@@ -128,7 +135,7 @@ He established a population-based register for children with cerebral palsy (CP)
 
  <img src="img/keynote/lieber.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
 
- <h2 class="mb-0">Prof. Rick Lieber</h2>
+ <h2 class="my-0">Prof. Rick Lieber</h2>
 
  <h3 class="mt-0">USA</h3>
 
@@ -150,7 +157,7 @@ He established a population-based register for children with cerebral palsy (CP)
 
  <img src="img/keynote/michie.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
 
- <h2 class="mb-0">Prof. Susan Michie</h2>
+ <h2 class="my-0">Prof. Susan Michie</h2>
 
  <h3 class="mt-0">United Kingdom</h3>
 
@@ -180,7 +187,7 @@ He established a population-based register for children with cerebral palsy (CP)
 
  <img src="img/keynote/miller.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
 
- <h2 class="mb-0">Prof. Suzanne Miller</h2>
+ <h2 class="my-0">Prof. Suzanne Miller</h2>
 
  <h3 class="mt-0">Australia</h3>
 
@@ -200,7 +207,7 @@ He established a population-based register for children with cerebral palsy (CP)
 
  <img src="img/keynote/o-flaherty.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
 
- <h2 class="mb-0">Dr Steve O’Flaherty</h2>
+ <h2 class="my-0">Dr Steve O’Flaherty</h2>
 
  <h3 class="mt-0">Australia</h3>
 
@@ -220,7 +227,7 @@ He established a population-based register for children with cerebral palsy (CP)
 
  <img src="img/keynote/patel.png" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
 
- <h2 class="mb-0">Dr Rupal Patel</h2>
+ <h2 class="my-0">Dr Rupal Patel</h2>
 
  <h3 class="mt-0">USA</h3>
 
@@ -238,7 +245,7 @@ He established a population-based register for children with cerebral palsy (CP)
 
  <img src="img/keynote/peterson.jpg" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
 
- <h2 class="mb-0">A/Prof. Mark Peterson</h2>
+ <h2 class="my-0">A/Prof. Mark Peterson</h2>
 
  <h3 class="mt-0">USA</h3>
 
@@ -258,7 +265,7 @@ He established a population-based register for children with cerebral palsy (CP)
 
  <img src="img/keynote/roe.jpg" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
 
- <h2 class="mb-0">A/Prof. Yvette Roe</h2>
+ <h2 class="my-0">A/Prof. Yvette Roe</h2>
 
  <h3 class="mt-0">Australia</h3>
 
@@ -278,7 +285,7 @@ He established a population-based register for children with cerebral palsy (CP)
 
  <img src="img/keynote/shakespeare.jpg" class="img-fluid float-right ml-4 mb-4 mt-4" width="200">
 
- <h2 class="mb-0">Prof. Tom Shakespeare</h2>
+ <h2 class="my-0">Prof. Tom Shakespeare</h2>
 
  <h3 class="mt-0">United Kingdom</h3>
 
