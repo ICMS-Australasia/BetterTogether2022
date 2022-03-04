@@ -7,6 +7,7 @@
 <p>These will be informal gatherings where delegates can meet up with other local delegates have drink or bite to eat and enjoy some personal interaction. All networking will be at the expense of the individual delegate.</p>
 <p>*Note all social gatherings will be dependant of the COVID rules and restrictions of that city at the time of the Conference.</p>
 <p>Please see the list of cities below that are looking to host these social gatherings and a point of contact, if you are interested in attending please contact them for further information.</p>
+<p>If you are looking to arrange an in-person networking gathering in a hub that is not outlined below, please contact <a href="mailto:registration@bettertogether2022.org">registration@bettertogether2022.org</a> so we can help you promote it.</p>
 
 <div class="row">
     <div class="col-md-6">
@@ -77,6 +78,7 @@
         <img src="./img/ip-networking/coffee.jpg" class="img-fluid my-5">
     </div>
 </div>
+
 
 <?php
     include('include/footer.php');

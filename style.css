@@ -53,6 +53,50 @@ a:hover {
   color: #FFDD00;
 }
 
+.qlinks .b1 {
+  background: #E1D12C;
+}
+
+.qlinks .b2 {
+  background: #7BC142;
+}
+
+.qlinks .b3 {
+  background: #639ED5;
+}
+
+.qlinks .b4 {
+  background: #253570;
+}
+
+.qlinks .b5 {
+  background: #F36E34;
+}
+
+.qlinks .b6 {
+  background: #07948A;
+}
+
+.qlinks .qbox {
+  color: white;
+  padding: 50px 20px;
+  font-weight: bold;
+}
+
+.qlinks a {
+  text-decoration: none;
+}
+
+.infobox h2 {
+  color: white !important;
+}
+
+.infobox {
+  background: #07948A;
+  color: white;
+  padding: 10px 30px 30px;
+}
+
 .container.full {
   max-width: 100%;
 }
