@@ -19,7 +19,7 @@
 <div class="col-12 text-center infobox mt-5">
     <h2>Content Available for 3 Months</h2>
     <p>Everyone that registers will have access to all the content on-demand for 3 months after the Conference! So if the time doesn’t suit, you missed a session or just want to relive some your favourite conference moments, you will be able to enjoy this later at your leisure.</p>
-    <p>In order to watch the recorded sessions on-demand, just log-in to the Conference Platform using the same access details that were sent to you for the live Conference. Registrations will remain open until Thursday 14th April 2022 and the on-demand library and platform will remain live until Thursday 5th May 2022.</p>
+    <p>In order to watch the recorded sessions on-demand, just log-in to the Conference Platform using the same access details that were sent to you for the live Conference. Registrations will remain open until Thursday 14th April 2022 and the on-demand library and platform will remain live until Sunday 5 June 2022.</p>
 </div>
 
 <div class="col-12 text-center qlinks mt-5">
